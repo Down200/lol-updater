@@ -1,12 +1,12 @@
 {
-  "version": "16.10.1",
+  "version": "16.11.1",
   "champions": {
     "type": "champion",
     "format": "standAloneComplex",
-    "version": "16.10.1",
+    "version": "16.11.1",
     "data": {
       "Aatrox": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Aatrox",
         "key": "266",
         "name": "暗裔剑魔",
@@ -55,7 +55,7 @@
         }
       },
       "Ahri": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ahri",
         "key": "103",
         "name": "九尾妖狐",
@@ -105,7 +105,7 @@
         }
       },
       "Akali": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Akali",
         "key": "84",
         "name": "离群之刺",
@@ -154,7 +154,7 @@
         }
       },
       "Akshan": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Akshan",
         "key": "166",
         "name": "影哨",
@@ -204,7 +204,7 @@
         }
       },
       "Alistar": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Alistar",
         "key": "12",
         "name": "牛头酋长",
@@ -254,7 +254,7 @@
         }
       },
       "Ambessa": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ambessa",
         "key": "799",
         "name": "铁血狼母",
@@ -304,7 +304,7 @@
         }
       },
       "Amumu": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Amumu",
         "key": "32",
         "name": "殇之木乃伊",
@@ -354,7 +354,7 @@
         }
       },
       "Anivia": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Anivia",
         "key": "34",
         "name": "冰晶凤凰",
@@ -403,7 +403,7 @@
         }
       },
       "Annie": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Annie",
         "key": "1",
         "name": "黑暗之女",
@@ -453,7 +453,7 @@
         }
       },
       "Aphelios": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Aphelios",
         "key": "523",
         "name": "残月之肃",
@@ -502,7 +502,7 @@
         }
       },
       "Ashe": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ashe",
         "key": "22",
         "name": "寒冰射手",
@@ -552,7 +552,7 @@
         }
       },
       "AurelionSol": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "AurelionSol",
         "key": "136",
         "name": "铸星龙王",
@@ -601,7 +601,7 @@
         }
       },
       "Aurora": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Aurora",
         "key": "893",
         "name": "双界灵兔",
@@ -651,7 +651,7 @@
         }
       },
       "Azir": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Azir",
         "key": "268",
         "name": "沙漠皇帝",
@@ -701,7 +701,7 @@
         }
       },
       "Bard": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Bard",
         "key": "432",
         "name": "星界游神",
@@ -751,7 +751,7 @@
         }
       },
       "Belveth": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Belveth",
         "key": "200",
         "name": "虚空女皇",
@@ -800,7 +800,7 @@
         }
       },
       "Blitzcrank": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Blitzcrank",
         "key": "53",
         "name": "蒸汽机器人",
@@ -850,7 +850,7 @@
         }
       },
       "Brand": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Brand",
         "key": "63",
         "name": "复仇焰魂",
@@ -882,7 +882,7 @@
           "mp": 469,
           "mpperlevel": 21,
           "movespeed": 340,
-          "armor": 27,
+          "armor": 24,
           "armorperlevel": 4.2,
           "spellblock": 30,
           "spellblockperlevel": 1.3,
@@ -900,7 +900,7 @@
         }
       },
       "Braum": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Braum",
         "key": "201",
         "name": "弗雷尔卓德之心",
@@ -950,7 +950,7 @@
         }
       },
       "Briar": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Briar",
         "key": "233",
         "name": "狂厄蔷薇",
@@ -1000,7 +1000,7 @@
         }
       },
       "Caitlyn": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Caitlyn",
         "key": "51",
         "name": "皮城女警",
@@ -1049,7 +1049,7 @@
         }
       },
       "Camille": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Camille",
         "key": "164",
         "name": "青钢影",
@@ -1099,7 +1099,7 @@
         }
       },
       "Cassiopeia": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Cassiopeia",
         "key": "69",
         "name": "魔蛇之拥",
@@ -1148,7 +1148,7 @@
         }
       },
       "Chogath": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Chogath",
         "key": "31",
         "name": "虚空恐惧",
@@ -1198,7 +1198,7 @@
         }
       },
       "Corki": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Corki",
         "key": "42",
         "name": "英勇投弹手",
@@ -1248,7 +1248,7 @@
         }
       },
       "Darius": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Darius",
         "key": "122",
         "name": "诺克萨斯之手",
@@ -1298,7 +1298,7 @@
         }
       },
       "Diana": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Diana",
         "key": "131",
         "name": "皎月女神",
@@ -1348,7 +1348,7 @@
         }
       },
       "Draven": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Draven",
         "key": "119",
         "name": "荣耀行刑官",
@@ -1397,7 +1397,7 @@
         }
       },
       "DrMundo": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "DrMundo",
         "key": "36",
         "name": "祖安狂人",
@@ -1447,7 +1447,7 @@
         }
       },
       "Ekko": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ekko",
         "key": "245",
         "name": "时间刺客",
@@ -1497,7 +1497,7 @@
         }
       },
       "Elise": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Elise",
         "key": "60",
         "name": "蜘蛛女皇",
@@ -1547,7 +1547,7 @@
         }
       },
       "Evelynn": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Evelynn",
         "key": "28",
         "name": "痛苦之拥",
@@ -1597,7 +1597,7 @@
         }
       },
       "Ezreal": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ezreal",
         "key": "81",
         "name": "探险家",
@@ -1647,7 +1647,7 @@
         }
       },
       "Fiddlesticks": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Fiddlesticks",
         "key": "9",
         "name": "远古恐惧",
@@ -1697,7 +1697,7 @@
         }
       },
       "Fiora": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Fiora",
         "key": "114",
         "name": "无双剑姬",
@@ -1747,7 +1747,7 @@
         }
       },
       "Fizz": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Fizz",
         "key": "105",
         "name": "潮汐海灵",
@@ -1797,7 +1797,7 @@
         }
       },
       "Galio": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Galio",
         "key": "3",
         "name": "正义巨像",
@@ -1847,7 +1847,7 @@
         }
       },
       "Gangplank": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Gangplank",
         "key": "41",
         "name": "海洋之灾",
@@ -1896,7 +1896,7 @@
         }
       },
       "Garen": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Garen",
         "key": "86",
         "name": "德玛西亚之力",
@@ -1946,7 +1946,7 @@
         }
       },
       "Gnar": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Gnar",
         "key": "150",
         "name": "迷失之牙",
@@ -1996,7 +1996,7 @@
         }
       },
       "Gragas": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Gragas",
         "key": "79",
         "name": "酒桶",
@@ -2046,7 +2046,7 @@
         }
       },
       "Graves": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Graves",
         "key": "104",
         "name": "法外狂徒",
@@ -2095,7 +2095,7 @@
         }
       },
       "Gwen": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Gwen",
         "key": "887",
         "name": "灵罗娃娃",
@@ -2144,7 +2144,7 @@
         }
       },
       "Hecarim": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Hecarim",
         "key": "120",
         "name": "战争之影",
@@ -2194,7 +2194,7 @@
         }
       },
       "Heimerdinger": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Heimerdinger",
         "key": "74",
         "name": "大发明家",
@@ -2244,7 +2244,7 @@
         }
       },
       "Hwei": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Hwei",
         "key": "910",
         "name": "异画师",
@@ -2294,7 +2294,7 @@
         }
       },
       "Illaoi": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Illaoi",
         "key": "420",
         "name": "海兽祭司",
@@ -2344,7 +2344,7 @@
         }
       },
       "Irelia": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Irelia",
         "key": "39",
         "name": "刀锋舞者",
@@ -2394,7 +2394,7 @@
         }
       },
       "Ivern": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ivern",
         "key": "427",
         "name": "翠神",
@@ -2444,7 +2444,7 @@
         }
       },
       "Janna": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Janna",
         "key": "40",
         "name": "风暴之怒",
@@ -2494,7 +2494,7 @@
         }
       },
       "JarvanIV": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "JarvanIV",
         "key": "59",
         "name": "德玛西亚皇子",
@@ -2544,7 +2544,7 @@
         }
       },
       "Jax": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Jax",
         "key": "24",
         "name": "武器大师",
@@ -2593,7 +2593,7 @@
         }
       },
       "Jayce": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Jayce",
         "key": "126",
         "name": "未来守护者",
@@ -2643,7 +2643,7 @@
         }
       },
       "Jhin": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Jhin",
         "key": "202",
         "name": "戏命师",
@@ -2693,7 +2693,7 @@
         }
       },
       "Jinx": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Jinx",
         "key": "222",
         "name": "暴走萝莉",
@@ -2742,7 +2742,7 @@
         }
       },
       "Kaisa": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kaisa",
         "key": "145",
         "name": "虚空之女",
@@ -2792,7 +2792,7 @@
         }
       },
       "Kalista": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kalista",
         "key": "429",
         "name": "复仇之矛",
@@ -2841,7 +2841,7 @@
         }
       },
       "Karma": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Karma",
         "key": "43",
         "name": "天启者",
@@ -2891,7 +2891,7 @@
         }
       },
       "Karthus": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Karthus",
         "key": "30",
         "name": "死亡颂唱者",
@@ -2940,7 +2940,7 @@
         }
       },
       "Kassadin": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kassadin",
         "key": "38",
         "name": "虚空行者",
@@ -2990,7 +2990,7 @@
         }
       },
       "Katarina": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Katarina",
         "key": "55",
         "name": "不祥之刃",
@@ -3040,7 +3040,7 @@
         }
       },
       "Kayle": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kayle",
         "key": "10",
         "name": "正义天使",
@@ -3090,7 +3090,7 @@
         }
       },
       "Kayn": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kayn",
         "key": "141",
         "name": "影流之镰",
@@ -3140,7 +3140,7 @@
         }
       },
       "Kennen": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kennen",
         "key": "85",
         "name": "狂暴之心",
@@ -3189,7 +3189,7 @@
         }
       },
       "Khazix": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Khazix",
         "key": "121",
         "name": "虚空掠夺者",
@@ -3238,7 +3238,7 @@
         }
       },
       "Kindred": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kindred",
         "key": "203",
         "name": "永猎双子",
@@ -3287,7 +3287,7 @@
         }
       },
       "Kled": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Kled",
         "key": "240",
         "name": "暴怒骑士",
@@ -3336,7 +3336,7 @@
         }
       },
       "KogMaw": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "KogMaw",
         "key": "96",
         "name": "深渊巨口",
@@ -3386,7 +3386,7 @@
         }
       },
       "KSante": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "KSante",
         "key": "897",
         "name": "纳祖芒荣耀",
@@ -3436,7 +3436,7 @@
         }
       },
       "Leblanc": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Leblanc",
         "key": "7",
         "name": "诡术妖姬",
@@ -3486,7 +3486,7 @@
         }
       },
       "LeeSin": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "LeeSin",
         "key": "64",
         "name": "盲僧",
@@ -3536,7 +3536,7 @@
         }
       },
       "Leona": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Leona",
         "key": "89",
         "name": "曙光女神",
@@ -3586,7 +3586,7 @@
         }
       },
       "Lillia": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Lillia",
         "key": "876",
         "name": "含羞蓓蕾",
@@ -3636,7 +3636,7 @@
         }
       },
       "Lissandra": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Lissandra",
         "key": "127",
         "name": "冰霜女巫",
@@ -3685,7 +3685,7 @@
         }
       },
       "Lucian": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Lucian",
         "key": "236",
         "name": "圣枪游侠",
@@ -3735,7 +3735,7 @@
         }
       },
       "Lulu": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Lulu",
         "key": "117",
         "name": "仙灵女巫",
@@ -3785,7 +3785,7 @@
         }
       },
       "Lux": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Lux",
         "key": "99",
         "name": "光辉女郎",
@@ -3835,7 +3835,7 @@
         }
       },
       "Malphite": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Malphite",
         "key": "54",
         "name": "熔岩巨兽",
@@ -3885,7 +3885,7 @@
         }
       },
       "Malzahar": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Malzahar",
         "key": "90",
         "name": "虚空先知",
@@ -3934,7 +3934,7 @@
         }
       },
       "Maokai": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Maokai",
         "key": "57",
         "name": "扭曲树精",
@@ -3984,12 +3984,12 @@
         }
       },
       "MasterYi": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "MasterYi",
         "key": "11",
         "name": "无极剑圣",
         "title": "易",
-        "blurb": "易师锤炼身体、磨砺心智，直至身心合一。尽管他将暴力作为不得已的选择，但他优雅迅猛的剑法总是让这一手段显得尤为快捷。作为无极之道最后的门徒，易大师致力于这个门派的传承，用七度洞悉目镜搜寻着最有资格的人，寻找潜在的新弟子。",
+        "blurb": "易大师锤炼身体、磨砺心智，直至身心合一。尽管他将暴力作为不得已的选择，但他优雅迅猛的剑法总是让这一手段显得尤为快捷。作为无极之道最后的门徒，易大师致力于这个门派的传承，用七度洞悉目镜搜寻着最有资格的人，寻找潜在的新弟子。",
         "info": {
           "attack": 10,
           "defense": 4,
@@ -4034,7 +4034,7 @@
         }
       },
       "Mel": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Mel",
         "key": "800",
         "name": "流光镜影",
@@ -4084,7 +4084,7 @@
         }
       },
       "Milio": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Milio",
         "key": "902",
         "name": "明烛",
@@ -4134,7 +4134,7 @@
         }
       },
       "MissFortune": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "MissFortune",
         "key": "21",
         "name": "赏金猎人",
@@ -4184,7 +4184,7 @@
         }
       },
       "MonkeyKing": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "MonkeyKing",
         "key": "62",
         "name": "齐天大圣",
@@ -4234,7 +4234,7 @@
         }
       },
       "Mordekaiser": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Mordekaiser",
         "key": "82",
         "name": "铁铠冥魂",
@@ -4284,7 +4284,7 @@
         }
       },
       "Morgana": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Morgana",
         "key": "25",
         "name": "堕落天使",
@@ -4334,7 +4334,7 @@
         }
       },
       "Naafiri": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Naafiri",
         "key": "950",
         "name": "百裂冥犬",
@@ -4384,7 +4384,7 @@
         }
       },
       "Nami": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nami",
         "key": "267",
         "name": "唤潮鲛姬",
@@ -4434,7 +4434,7 @@
         }
       },
       "Nasus": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nasus",
         "key": "75",
         "name": "沙漠死神",
@@ -4484,7 +4484,7 @@
         }
       },
       "Nautilus": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nautilus",
         "key": "111",
         "name": "深海泰坦",
@@ -4534,7 +4534,7 @@
         }
       },
       "Neeko": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Neeko",
         "key": "518",
         "name": "万花通灵",
@@ -4584,7 +4584,7 @@
         }
       },
       "Nidalee": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nidalee",
         "key": "76",
         "name": "狂野女猎手",
@@ -4634,7 +4634,7 @@
         }
       },
       "Nilah": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nilah",
         "key": "895",
         "name": "不羁之悦",
@@ -4684,7 +4684,7 @@
         }
       },
       "Nocturne": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nocturne",
         "key": "56",
         "name": "永恒梦魇",
@@ -4734,7 +4734,7 @@
         }
       },
       "Nunu": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Nunu",
         "key": "20",
         "name": "雪原双子",
@@ -4784,7 +4784,7 @@
         }
       },
       "Olaf": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Olaf",
         "key": "2",
         "name": "狂战士",
@@ -4834,7 +4834,7 @@
         }
       },
       "Orianna": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Orianna",
         "key": "61",
         "name": "发条魔灵",
@@ -4884,7 +4884,7 @@
         }
       },
       "Ornn": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ornn",
         "key": "516",
         "name": "山隐之焰",
@@ -4933,7 +4933,7 @@
         }
       },
       "Pantheon": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Pantheon",
         "key": "80",
         "name": "不屈之枪",
@@ -4983,7 +4983,7 @@
         }
       },
       "Poppy": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Poppy",
         "key": "78",
         "name": "圣锤之毅",
@@ -5033,7 +5033,7 @@
         }
       },
       "Pyke": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Pyke",
         "key": "555",
         "name": "血港鬼影",
@@ -5083,7 +5083,7 @@
         }
       },
       "Qiyana": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Qiyana",
         "key": "246",
         "name": "元素女皇",
@@ -5132,7 +5132,7 @@
         }
       },
       "Quinn": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Quinn",
         "key": "133",
         "name": "德玛西亚之翼",
@@ -5182,7 +5182,7 @@
         }
       },
       "Rakan": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Rakan",
         "key": "497",
         "name": "幻翎",
@@ -5231,7 +5231,7 @@
         }
       },
       "Rammus": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Rammus",
         "key": "33",
         "name": "披甲龙龟",
@@ -5280,7 +5280,7 @@
         }
       },
       "RekSai": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "RekSai",
         "key": "421",
         "name": "虚空遁地兽",
@@ -5330,7 +5330,7 @@
         }
       },
       "Rell": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Rell",
         "key": "526",
         "name": "镕铁少女",
@@ -5380,7 +5380,7 @@
         }
       },
       "Renata": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Renata",
         "key": "888",
         "name": "炼金男爵",
@@ -5430,7 +5430,7 @@
         }
       },
       "Renekton": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Renekton",
         "key": "58",
         "name": "荒漠屠夫",
@@ -5480,7 +5480,7 @@
         }
       },
       "Rengar": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Rengar",
         "key": "107",
         "name": "傲之追猎者",
@@ -5530,7 +5530,7 @@
         }
       },
       "Riven": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Riven",
         "key": "92",
         "name": "放逐之刃",
@@ -5580,7 +5580,7 @@
         }
       },
       "Rumble": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Rumble",
         "key": "68",
         "name": "机械公敌",
@@ -5630,7 +5630,7 @@
         }
       },
       "Ryze": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ryze",
         "key": "13",
         "name": "符文法师",
@@ -5679,7 +5679,7 @@
         }
       },
       "Samira": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Samira",
         "key": "360",
         "name": "沙漠玫瑰",
@@ -5729,7 +5729,7 @@
         }
       },
       "Sejuani": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Sejuani",
         "key": "113",
         "name": "北地之怒",
@@ -5778,7 +5778,7 @@
         }
       },
       "Senna": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Senna",
         "key": "235",
         "name": "涤魂圣枪",
@@ -5828,7 +5828,7 @@
         }
       },
       "Seraphine": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Seraphine",
         "key": "147",
         "name": "星籁歌姬",
@@ -5878,7 +5878,7 @@
         }
       },
       "Sett": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Sett",
         "key": "875",
         "name": "腕豪",
@@ -5928,7 +5928,7 @@
         }
       },
       "Shaco": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Shaco",
         "key": "35",
         "name": "恶魔小丑",
@@ -5977,7 +5977,7 @@
         }
       },
       "Shen": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Shen",
         "key": "98",
         "name": "暮光之眼",
@@ -6026,7 +6026,7 @@
         }
       },
       "Shyvana": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Shyvana",
         "key": "102",
         "name": "龙血武姬",
@@ -6076,7 +6076,7 @@
         }
       },
       "Singed": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Singed",
         "key": "27",
         "name": "炼金术士",
@@ -6126,7 +6126,7 @@
         }
       },
       "Sion": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Sion",
         "key": "14",
         "name": "亡灵战神",
@@ -6176,7 +6176,7 @@
         }
       },
       "Sivir": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Sivir",
         "key": "15",
         "name": "战争女神",
@@ -6225,7 +6225,7 @@
         }
       },
       "Skarner": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Skarner",
         "key": "72",
         "name": "上古领主",
@@ -6275,7 +6275,7 @@
         }
       },
       "Smolder": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Smolder",
         "key": "901",
         "name": "炽炎雏龙",
@@ -6318,14 +6318,14 @@
           "mpregenperlevel": 0.7,
           "crit": 0,
           "critperlevel": 0,
-          "attackdamage": 60,
+          "attackdamage": 58,
           "attackdamageperlevel": 0,
           "attackspeedperlevel": 4,
           "attackspeed": 0.638
         }
       },
       "Sona": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Sona",
         "key": "37",
         "name": "琴瑟仙女",
@@ -6375,7 +6375,7 @@
         }
       },
       "Soraka": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Soraka",
         "key": "16",
         "name": "众星之子",
@@ -6425,7 +6425,7 @@
         }
       },
       "Swain": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Swain",
         "key": "50",
         "name": "诺克萨斯统领",
@@ -6475,7 +6475,7 @@
         }
       },
       "Sylas": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Sylas",
         "key": "517",
         "name": "解脱者",
@@ -6525,7 +6525,7 @@
         }
       },
       "Syndra": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Syndra",
         "key": "134",
         "name": "暗黑元首",
@@ -6574,7 +6574,7 @@
         }
       },
       "TahmKench": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "TahmKench",
         "key": "223",
         "name": "河流之王",
@@ -6624,7 +6624,7 @@
         }
       },
       "Taliyah": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Taliyah",
         "key": "163",
         "name": "岩雀",
@@ -6674,7 +6674,7 @@
         }
       },
       "Talon": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Talon",
         "key": "91",
         "name": "刀锋之影",
@@ -6723,7 +6723,7 @@
         }
       },
       "Taric": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Taric",
         "key": "44",
         "name": "瓦洛兰之盾",
@@ -6773,7 +6773,7 @@
         }
       },
       "Teemo": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Teemo",
         "key": "17",
         "name": "迅捷斥候",
@@ -6806,7 +6806,7 @@
           "mpperlevel": 25,
           "movespeed": 330,
           "armor": 24,
-          "armorperlevel": 4.95,
+          "armorperlevel": 4.5,
           "spellblock": 30,
           "spellblockperlevel": 1.3,
           "attackrange": 500,
@@ -6823,7 +6823,7 @@
         }
       },
       "Thresh": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Thresh",
         "key": "412",
         "name": "魂锁典狱长",
@@ -6873,7 +6873,7 @@
         }
       },
       "Tristana": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Tristana",
         "key": "18",
         "name": "麦林炮手",
@@ -6923,7 +6923,7 @@
         }
       },
       "Trundle": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Trundle",
         "key": "48",
         "name": "巨魔之王",
@@ -6973,7 +6973,7 @@
         }
       },
       "Tryndamere": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Tryndamere",
         "key": "23",
         "name": "蛮族之王",
@@ -7023,7 +7023,7 @@
         }
       },
       "TwistedFate": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "TwistedFate",
         "key": "4",
         "name": "卡牌大师",
@@ -7073,7 +7073,7 @@
         }
       },
       "Twitch": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Twitch",
         "key": "29",
         "name": "瘟疫之源",
@@ -7123,7 +7123,7 @@
         }
       },
       "Udyr": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Udyr",
         "key": "77",
         "name": "兽灵行者",
@@ -7173,7 +7173,7 @@
         }
       },
       "Urgot": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Urgot",
         "key": "6",
         "name": "无畏战车",
@@ -7223,7 +7223,7 @@
         }
       },
       "Varus": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Varus",
         "key": "110",
         "name": "惩戒之箭",
@@ -7273,7 +7273,7 @@
         }
       },
       "Vayne": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Vayne",
         "key": "67",
         "name": "暗夜猎手",
@@ -7323,7 +7323,7 @@
         }
       },
       "Veigar": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Veigar",
         "key": "45",
         "name": "邪恶小法师",
@@ -7372,7 +7372,7 @@
         }
       },
       "Velkoz": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Velkoz",
         "key": "161",
         "name": "虚空之眼",
@@ -7422,7 +7422,7 @@
         }
       },
       "Vex": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Vex",
         "key": "711",
         "name": "愁云使者",
@@ -7471,7 +7471,7 @@
         }
       },
       "Vi": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Vi",
         "key": "254",
         "name": "皮城执法官",
@@ -7521,7 +7521,7 @@
         }
       },
       "Viego": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Viego",
         "key": "234",
         "name": "破败之王",
@@ -7571,7 +7571,7 @@
         }
       },
       "Viktor": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Viktor",
         "key": "112",
         "name": "奥术先驱",
@@ -7620,7 +7620,7 @@
         }
       },
       "Vladimir": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Vladimir",
         "key": "8",
         "name": "猩红收割者",
@@ -7670,7 +7670,7 @@
         }
       },
       "Volibear": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Volibear",
         "key": "106",
         "name": "不灭狂雷",
@@ -7720,7 +7720,7 @@
         }
       },
       "Warwick": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Warwick",
         "key": "19",
         "name": "祖安怒兽",
@@ -7770,7 +7770,7 @@
         }
       },
       "Xayah": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Xayah",
         "key": "498",
         "name": "逆羽",
@@ -7819,7 +7819,7 @@
         }
       },
       "Xerath": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Xerath",
         "key": "101",
         "name": "远古巫灵",
@@ -7869,7 +7869,7 @@
         }
       },
       "XinZhao": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "XinZhao",
         "key": "5",
         "name": "德邦总管",
@@ -7919,7 +7919,7 @@
         }
       },
       "Yasuo": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Yasuo",
         "key": "157",
         "name": "疾风剑豪",
@@ -7969,7 +7969,7 @@
         }
       },
       "Yone": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Yone",
         "key": "777",
         "name": "封魔剑魂",
@@ -8019,7 +8019,7 @@
         }
       },
       "Yorick": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Yorick",
         "key": "83",
         "name": "牧魂人",
@@ -8069,7 +8069,7 @@
         }
       },
       "Yunara": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Yunara",
         "key": "804",
         "name": "不破之誓",
@@ -8118,7 +8118,7 @@
         }
       },
       "Yuumi": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Yuumi",
         "key": "350",
         "name": "魔法猫咪",
@@ -8168,7 +8168,7 @@
         }
       },
       "Zaahen": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zaahen",
         "key": "904",
         "name": "不落魔锋",
@@ -8218,7 +8218,7 @@
         }
       },
       "Zac": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zac",
         "key": "154",
         "name": "生化魔人",
@@ -8268,7 +8268,7 @@
         }
       },
       "Zed": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zed",
         "key": "238",
         "name": "影流之主",
@@ -8317,7 +8317,7 @@
         }
       },
       "Zeri": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zeri",
         "key": "221",
         "name": "祖安花火",
@@ -8366,7 +8366,7 @@
         }
       },
       "Ziggs": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Ziggs",
         "key": "115",
         "name": "爆破鬼才",
@@ -8415,7 +8415,7 @@
         }
       },
       "Zilean": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zilean",
         "key": "26",
         "name": "时光守护者",
@@ -8465,7 +8465,7 @@
         }
       },
       "Zoe": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zoe",
         "key": "142",
         "name": "暮光星灵",
@@ -8514,7 +8514,7 @@
         }
       },
       "Zyra": {
-        "version": "16.10.1",
+        "version": "16.11.1",
         "id": "Zyra",
         "key": "143",
         "name": "荆棘之兴",
@@ -8567,7 +8567,7 @@
   },
   "items": {
     "type": "item",
-    "version": "16.10.1",
+    "version": "16.11.1",
     "basic": {
       "name": "",
       "rune": {
@@ -8917,6 +8917,8 @@
           "3135",
           "3165",
           "3115",
+          "324005",
+          "4005",
           "2510",
           "3116",
           "3118",
@@ -9634,7 +9636,6 @@
           "4637",
           "3916",
           "6656",
-          "324005",
           "3147",
           "3146",
           "3802",
@@ -10804,7 +10805,7 @@
       },
       "1206": {
         "name": "中路任务奖励",
-        "description": "<mainText><stats></stats><br><br><font color = '#00FF00'>奖励</font><br>• 将鞋子升至第3层级<br>• +6%额外攻击力和法术强度</mainText>",
+        "description": "<mainText><stats></stats><br><br><font color = '#00FF00'>奖励</font><br>• 将鞋子升至第3层级<br>• +8%额外攻击力和法术强度</mainText>",
         "colloq": "",
         "plaintext": "",
         "inStore": false,
@@ -14825,7 +14826,7 @@
       },
       "222523": {
         "name": "海克斯镜片 C44",
-        "description": "<mainText><stats><attention>50</attention>攻击力<br><attention>25%</attention>暴击几率</stats><br><br><passive>高倍望远镜</passive><br>攻击造成至多10%额外伤害，基于敌人离你有多远 (在500码时达到最大伤害)。<br><br><passive>奥术瞄准</passive><br>当一个你在3秒内造成过伤害的英雄阵亡时，你获得持续10秒的150额外攻击距离。 </mainText>",
+        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention>25%</attention>暴击几率</stats><br><br><passive>高倍望远镜</passive><br>攻击造成至多10%额外伤害，基于敌人离你有多远 (在500码时达到最大伤害)。<br><br><passive>奥术瞄准</passive><br>当一个你在3秒内造成过伤害的英雄阵亡时，你获得持续15秒的150额外攻击距离。 </mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -14858,7 +14859,7 @@
         },
         "stats": {
           "FlatCritChanceMod": 0.25,
-          "FlatPhysicalDamageMod": 50
+          "FlatPhysicalDamageMod": 55
         }
       },
       "222524": {
@@ -15460,7 +15461,7 @@
       },
       "223031": {
         "name": "无尽之刃",
-        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention>25%</attention>暴击几率<br><attention>40%</attention>暴击伤害</stats><br><br></mainText>",
+        "description": "<mainText><stats><attention>75</attention>攻击力<br><attention>25%</attention>暴击几率<br><attention>30%</attention>暴击伤害</stats><br><br></mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -15493,7 +15494,7 @@
         },
         "stats": {
           "FlatCritChanceMod": 0.25,
-          "FlatPhysicalDamageMod": 55
+          "FlatPhysicalDamageMod": 75
         }
       },
       "223032": {
@@ -16103,7 +16104,7 @@
       },
       "223071": {
         "name": "黑色切割者",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>350</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会施加<scaleArmor>6%护甲削减</scaleArmor>，持续6秒，至多至<scaleArmor>30%护甲削减</scaleArmor>。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
+        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>350</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒。(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -16142,18 +16143,6 @@
         "stats": {
           "FlatHPPoolMod": 350,
           "FlatPhysicalDamageMod": 40
-        },
-        "effect": {
-          "Effect1Amount": "0",
-          "Effect2Amount": "0.06",
-          "Effect3Amount": "6",
-          "Effect4Amount": "5",
-          "Effect5Amount": "0.3",
-          "Effect6Amount": "0",
-          "Effect7Amount": "0",
-          "Effect8Amount": "0",
-          "Effect9Amount": "0",
-          "Effect10Amount": "0.01"
         }
       },
       "223072": {
@@ -16196,7 +16185,7 @@
       },
       "223073": {
         "name": "海克斯注力刚壁",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>30%</attention>攻击速度<br><attention>450</attention>生命值</stats><br><br><passive>海克斯充能</passive><br>获得30终极技能急速。<br><br><passive>过载</passive><br>在施放你的终极技能后，获得持续8秒的<attackSpeed>50%攻击速度</attackSpeed>和<speed>20%移动速度</speed>。 </mainText>",
+        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>30%</attention>攻击速度<br><attention>450</attention>生命值</stats><br><br><passive>海克斯充能</passive><br>获得30终极技能急速。<br><br><passive>过载</passive> <br>在施放你的终极技能后，获得持续8秒的<attackSpeed>0%攻击速度</attackSpeed>和<speed>0%移动速度</speed>。 </mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -16454,7 +16443,7 @@
       },
       "223087": {
         "name": "斯塔缇克电刃",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>45</attention>法术强度<br><attention>30%</attention>攻击速度<br><attention>4%</attention>移动速度</stats><br><br><passive>电火花</passive><br>你的<keyword>盈能攻击</keyword>会发射连锁闪电，造成<OnHit>附带攻击</OnHit>特效，并且对最多<attention>0</attention>个目标造成<magicDamage>魔法伤害</magicDamage>。<br><br><passive>电疗</passive> <br>普通攻击提供额外<keyword>盈能</keyword>层数。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>攻击力<br><attention>45</attention>法术强度<br><attention>30%</attention>攻击速度<br><attention>4%</attention>移动速度</stats><br><br><passive>电火花</passive><br>你的<keyword>盈能攻击</keyword>会发射连锁闪电，造成<OnHit>附带攻击</OnHit>特效，并且对最多<attention>0</attention>个目标造成<magicDamage>魔法伤害</magicDamage>。<br><br><passive>电疗</passive> <br>普通攻击提供额外<keyword>盈能</keyword>层数。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -16489,7 +16478,7 @@
         },
         "stats": {
           "FlatMagicDamageMod": 45,
-          "FlatPhysicalDamageMod": 40,
+          "FlatPhysicalDamageMod": 45,
           "PercentAttackSpeedMod": 0.3,
           "PercentMovementSpeedMod": 0.04
         }
@@ -16532,7 +16521,7 @@
       },
       "223091": {
         "name": "智慧末刃",
-        "description": "<mainText><stats><attention>50%</attention>攻击速度<br><attention>40</attention>魔法抗性<br><attention>20%</attention>韧性</stats><br><br><br><li><passive>喧争：</passive>攻击附带魔法伤害并提供移动速度。</mainText>",
+        "description": "<mainText><stats><attention>50%</attention>攻击速度<br><attention>45</attention>魔法抗性<br><attention>20%</attention>韧性</stats><br><br><br><li><passive>喧争：</passive>攻击附带魔法伤害并提供移动速度。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -16566,7 +16555,7 @@
           "35": false
         },
         "stats": {
-          "FlatSpellBlockMod": 40,
+          "FlatSpellBlockMod": 45,
           "PercentAttackSpeedMod": 0.5
         }
       },
@@ -16612,7 +16601,7 @@
       },
       "223095": {
         "name": "岚切",
-        "description": "<mainText><stats><attention>50</attention>攻击力<br><attention>20%</attention>攻击速度<br><attention>25%</attention>暴击几率</stats><br><br><passive>盈能</passive><br>移动和攻击会生成一次<keyword>盈能攻击</keyword>。<br><br><passive>电冲</passive><br>你的<keyword>盈能攻击</keyword>附带<magicDamage>0额外魔法伤害</magicDamage>并提供持续1.5秒的<speed>45%移动速度</speed>。<br><br><buffedStat>【盈能】的叠层速度在【斗魂竞技场】中翻倍。</buffedStat><br></mainText>",
+        "description": "<mainText><stats><attention>50</attention>攻击力<br><attention>20%</attention>攻击速度<br><attention>25%</attention>暴击几率</stats><br><br><passive>盈能</passive><br>移动和攻击会生成一次<keyword>盈能攻击</keyword>。<br><br><passive>电冲</passive><br>你的<keyword>盈能攻击</keyword>附带<magicDamage>0额外魔法伤害</magicDamage>并提供持续2秒的<speed>45%移动速度</speed>。<br><br><buffedStat>【盈能】的叠层速度在【斗魂竞技场】中翻倍。</buffedStat><br></mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -16778,7 +16767,7 @@
       },
       "223107": {
         "name": "救赎",
-        "description": "<mainText><stats><attention>30</attention>法术强度<br><attention>15</attention>技能急速<br><attention>100%</attention>基础法力回复<br><attention>16%</attention>治疗和护盾强度</stats><br><br><br><br><active>主动</active> (0秒)<br><active>干涉</active><br>选择范围内的一个区域作为目标。在2.5秒后，召下一道光束来治疗友方英雄们并伤害敌方英雄们。</mainText>",
+        "description": "<mainText><stats><attention>30</attention>法术强度<br><attention>15</attention>技能急速<br><attention>100%</attention>基础法力回复<br><attention>12%</attention>治疗和护盾强度</stats><br><br><br><br><active>主动</active> (0秒)<br><active>干涉</active><br>选择范围内的一个区域作为目标。在2.5秒后，召下一道光束来治疗友方英雄们并伤害敌方英雄们。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -16825,7 +16814,7 @@
       },
       "223109": {
         "name": "骑士之誓",
-        "description": "<mainText><stats><attention>400</attention>生命值<br><attention>50</attention>护甲<br><attention>15</attention>技能急速</stats><br><br><passive>牺牲</passive><br>当你的<attention>誓约者</attention>在附近时，将其所受的12%伤害转移到你身上，并为你提供<healing>相当于其对英雄的10%已造成伤害值的</healing>治疗效果。<br><br><active>主动</active>(0秒)<br><active>立誓</active><br>指定一名友方英雄作为你的<attention>誓约者</attention>。</mainText>",
+        "description": "<mainText><stats><attention>400</attention>生命值<br><attention>50</attention>护甲<br><attention>15</attention>技能急速</stats><br><br><passive>牺牲</passive><br>当你的<attention>誓约者</attention>在附近时，将其所受的12%伤害转移到你身上，并为你提供<healing>相当于其对英雄的12%已造成伤害值的</healing>治疗效果。<br><br><active>主动</active>(0秒)<br><active>立誓</active><br>指定一名友方英雄作为你的<attention>誓约者</attention>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -18070,7 +18059,7 @@
       },
       "223222": {
         "name": "米凯尔的祝福",
-        "description": "<mainText><stats><attention>400</attention>生命值<br><attention>100%</attention>基础法力回复<br><attention>16%</attention>治疗和护盾强度</stats><br><br><active>主动</active>(0秒)<br><active>纯化</active><br>移除一名友方英雄身上的所有控制类减益效果(<status>击飞</status>和<status>压制</status>除外)并回复生命值。</mainText>",
+        "description": "<mainText><stats><attention>400</attention>生命值<br><attention>100%</attention>基础法力回复<br><attention>12%</attention>治疗和护盾强度</stats><br><br><active>主动</active>(0秒)<br><active>纯化</active><br>移除一名友方英雄身上的所有控制类减益效果(<status>击飞</status>和<status>压制</status>除外)并回复生命值。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -18126,7 +18115,7 @@
       },
       "223302": {
         "name": "界弓",
-        "description": "<mainText><stats><attention>30</attention>攻击力<br><attention>25%</attention>攻击速度</stats><br><br><passive>晦影</passive><br>攻击造成<magicDamage>30额外魔法伤害</magicDamage> <OnHit>攻击特效</OnHit>。<br><br><passive>交相</passive><br>对抗英雄时，在<keywordMajor>光明</keywordMajor>特效和<keywordMajor>黑暗</keywordMajor>特效之间轮换：<li>附带<keywordMajor>光明</keywordMajor>特效的攻击提供持续5秒的 <scaleArmor>护甲</scaleArmor>和<scaleMR>魔抗</scaleMR>。<li>附带<keywordMajor>黑暗</keywordMajor>特效的攻击提供持续5秒的8%<scaleArmor>护甲穿透</scaleArmor>和<scaleMR>法术穿透</scaleMR>。 </mainText>",
+        "description": "<mainText><stats><attention>30</attention>攻击力<br><attention>40%</attention>攻击速度</stats><br><br><passive>晦影</passive><br>攻击造成<magicDamage>30额外魔法伤害</magicDamage> <OnHit>攻击特效</OnHit>。<br><br><passive>交相</passive><br>对抗英雄时，在<keywordMajor>光明</keywordMajor>特效和<keywordMajor>黑暗</keywordMajor>特效之间轮换：<li>附带<keywordMajor>光明</keywordMajor>特效的攻击提供持续5秒的 <scaleArmor>护甲</scaleArmor>和<scaleMR>魔抗</scaleMR>。<li>附带<keywordMajor>黑暗</keywordMajor>特效的攻击提供持续5秒的8%<scaleArmor>护甲穿透</scaleArmor>和<scaleMR>法术穿透</scaleMR>。 </mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -18162,7 +18151,7 @@
         },
         "stats": {
           "FlatPhysicalDamageMod": 30,
-          "PercentAttackSpeedMod": 0.25
+          "PercentAttackSpeedMod": 0.4
         }
       },
       "223504": {
@@ -19155,7 +19144,7 @@
       },
       "226621": {
         "name": "黎明核心",
-        "description": "<mainText><stats><attention>45</attention>法术强度<br><attention>16%</attention>治疗和护盾强度<br><attention>200%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每<scaleMana>100%基础法力回复</scaleMana>获得<healing>3%治疗和护盾强度</healing>和<scaleAP>10法术强度</scaleAP>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>法术强度<br><attention>12%</attention>治疗和护盾强度<br><attention>200%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每<scaleMana>100%基础法力回复</scaleMana>获得<healing>3%治疗和护盾强度</healing>和<scaleAP>10法术强度</scaleAP>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -19483,8 +19472,8 @@
         }
       },
       "226660": {
-        "name": "斑比的熔渣",
-        "description": "<mainText><stats><attention>150</attention>生命值<br><attention>5</attention>技能急速</stats><br><br><passive>献祭</passive><br>承受或造成伤害后，对附近敌人造成<magicDamage>魔法伤害</magicDamage>，持续3秒。</mainText>",
+        "name": "",
+        "description": "<mainText><stats><attention>550</attention>生命值<br><attention>5</attention>技能急速</stats><br><br><passive>献祭</passive><br>承受或造成伤害后，对附近敌人造成<magicDamage>魔法伤害</magicDamage>，持续3秒。</mainText>",
         "colloq": "",
         "plaintext": "",
         "inStore": false,
@@ -19517,7 +19506,7 @@
           "35": false
         },
         "stats": {
-          "FlatHPPoolMod": 150
+          "FlatHPPoolMod": 550
         }
       },
       "226662": {
@@ -19734,7 +19723,7 @@
       },
       "226672": {
         "name": "海妖杀手",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>35%</attention>攻击速度<br><attention>7%</attention>移动速度</stats><br><br><passive>放倒它</passive><br>每第三次攻击造成<physicalDamage>额外物理伤害</physicalDamage><OnHit>攻击特效</OnHit>，这个伤害会基于目标的已损失生命值获得提升。</mainText>",
+        "description": "<mainText><stats><attention>50</attention>攻击力<br><attention>35%</attention>攻击速度<br><attention>7%</attention>移动速度</stats><br><br><passive>放倒它</passive><br>每第三次攻击造成<physicalDamage>额外物理伤害</physicalDamage><OnHit>攻击特效</OnHit>，这个伤害会基于目标的已损失生命值获得提升。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -19768,7 +19757,7 @@
           "35": false
         },
         "stats": {
-          "FlatPhysicalDamageMod": 40,
+          "FlatPhysicalDamageMod": 50,
           "PercentAttackSpeedMod": 0.35,
           "PercentMovementSpeedMod": 0.07
         }
@@ -20455,7 +20444,7 @@
       },
       "228005": {
         "name": "黑曜切割者",
-        "description": "<mainText><stats><ornnBonus>70</ornnBonus>攻击力<br><ornnBonus>700</ornnBonus>生命值<br><ornnBonus>40</ornnBonus>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将其<scaleArmor>护甲降低7%</scaleArmor>，持续0.1秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
+        "description": "<mainText><stats><ornnBonus>70</ornnBonus>攻击力<br><ornnBonus>700</ornnBonus>生命值<br><ornnBonus>40</ornnBonus>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低500%</scaleArmor>，持续0.1秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "inStore": false,
@@ -20495,18 +20484,6 @@
         "stats": {
           "FlatHPPoolMod": 700,
           "FlatPhysicalDamageMod": 70
-        },
-        "effect": {
-          "Effect1Amount": "0",
-          "Effect2Amount": "0.07",
-          "Effect3Amount": "6",
-          "Effect4Amount": "5",
-          "Effect5Amount": "0.42",
-          "Effect6Amount": "0",
-          "Effect7Amount": "0",
-          "Effect8Amount": "0",
-          "Effect9Amount": "0",
-          "Effect10Amount": "0.01"
         }
       },
       "228006": {
@@ -23267,7 +23244,7 @@
       },
       "3071": {
         "name": "黑色切割者",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>400</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将其<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
+        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>400</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
         "colloq": ";heiseqiegezhe;hsqgz;Black;Cleaver",
         "plaintext": "对敌人造成物理伤害时会减少目标的护甲",
         "from": [
@@ -23311,18 +23288,6 @@
         "stats": {
           "FlatHPPoolMod": 400,
           "FlatPhysicalDamageMod": 40
-        },
-        "effect": {
-          "Effect1Amount": "0",
-          "Effect2Amount": "0.06",
-          "Effect3Amount": "6",
-          "Effect4Amount": "5",
-          "Effect5Amount": "0.3",
-          "Effect6Amount": "0",
-          "Effect7Amount": "0",
-          "Effect8Amount": "0",
-          "Effect9Amount": "0",
-          "Effect10Amount": "0.01"
         },
         "depth": 3
       },
@@ -23372,13 +23337,13 @@
       },
       "3073": {
         "name": "海克斯注力刚壁",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>20%</attention>攻击速度<br><attention>450</attention>生命值</stats><br><br><passive>海克斯充能</passive><br>获得30终极技能急速。<br><br><passive>过载</passive><br>在施放你的终极技能后，获得持续8秒的<attackSpeed>50%攻击速度</attackSpeed>和<speed>20%移动速度</speed>。 </mainText>",
+        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>20%</attention>攻击速度<br><attention>450</attention>生命值</stats><br><br><passive>海克斯充能</passive><br>获得30终极技能急速。<br><br><passive>过载</passive> <br>在施放你的终极技能后，获得持续8秒的<attackSpeed>0%攻击速度</attackSpeed>和<speed>0%移动速度</speed>。 </mainText>",
         "colloq": ";nvshenzhilei;nszl;Experimental;Hexplate",
         "plaintext": "在花费法力时提升最大法力值",
         "from": [
           "2021",
-          "3044",
-          "1042"
+          "1042",
+          "3044"
         ],
         "image": {
           "full": "3073.png",
@@ -23751,7 +23716,7 @@
       },
       "3084": {
         "name": "心之钢",
-        "description": "<mainText><stats><attention>900</attention>生命值<br><attention>100%</attention>基础生命回复</stats><br><br><passive>庞然吞食</passive> 每个目标(0秒)<br>如果一个敌方英雄在附近度过了若干秒，那么你的下一次对其打出的攻击会造成<physicalDamage>70外加你的6%</physicalDamage>最大生命值的<physicalDamage>额外物理伤害</physicalDamage>，并为你提供相当于<scaleHealth>8%</scaleHealth>该伤害的<scaleHealth>最大生命值</scaleHealth>。<br><br><passive>歌利亚巨人</passive><br>每有<scaleHealth>1000最大生命值</scaleHealth>，获得3%体型提升，至多至30%。 </mainText>",
+        "description": "<mainText><stats><attention>900</attention>生命值<br><attention>100%</attention>基础生命回复</stats><br><br><passive>庞然吞食</passive> 每个目标(0秒)<br>如果一个敌方英雄在附近度过了若干秒，那么你的下一次对其打出的攻击会造成<physicalDamage>70外加你的6%</physicalDamage>最大生命值的<physicalDamage>额外物理伤害</physicalDamage>，并为你提供相当于<scaleHealth>10%</scaleHealth>该伤害的<scaleHealth>最大生命值</scaleHealth>。<br><br><passive>歌利亚巨人</passive><br>每有<scaleHealth>1000最大生命值</scaleHealth>，获得3%体型提升，至多至30%。 </mainText>",
         "colloq": ";bawangxuekai;bwxk;Heartsteel",
         "plaintext": "击杀或助攻时回复生命值",
         "from": [
@@ -23902,7 +23867,7 @@
       },
       "3087": {
         "name": "斯塔缇克电刃",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>45</attention>法术强度<br><attention>30%</attention>攻击速度<br><attention>4%</attention>移动速度</stats><br><br><passive>电火花</passive><br>你的<keyword>盈能攻击</keyword>会发射连锁闪电，造成<OnHit>附带攻击</OnHit>特效，并且对附近的目标们造成<magicDamage>魔法伤害</magicDamage>。<br><br><passive>电疗</passive> <br>普通攻击提供额外<keyword>盈能</keyword>层数。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>攻击力<br><attention>45</attention>法术强度<br><attention>30%</attention>攻击速度<br><attention>4%</attention>移动速度</stats><br><br><passive>电火花</passive><br>你的<keyword>盈能攻击</keyword>会发射连锁闪电，造成<OnHit>附带攻击</OnHit>特效，并且对附近的目标们造成<magicDamage>魔法伤害</magicDamage>。<br><br><passive>电疗</passive> <br>普通攻击提供额外<keyword>盈能</keyword>层数。</mainText>",
         "colloq": ";sitatikedianren;sttkdr;Statikk Shiv",
         "plaintext": "移动时积攒充能来让普攻附带一次闪电",
         "from": [
@@ -23943,7 +23908,7 @@
         },
         "stats": {
           "FlatMagicDamageMod": 45,
-          "FlatPhysicalDamageMod": 40,
+          "FlatPhysicalDamageMod": 45,
           "PercentAttackSpeedMod": 0.3,
           "PercentMovementSpeedMod": 0.04
         },
@@ -24380,8 +24345,6 @@
           "4636",
           "323003",
           "3115",
-          "324005",
-          "4005",
           "3003",
           "326616",
           "3107",
@@ -24433,7 +24396,7 @@
       },
       "3109": {
         "name": "骑士之誓",
-        "description": "<mainText><stats><attention>200</attention>生命值<br><attention>40</attention>护甲<br><attention>10</attention>技能急速<br><attention>100%</attention>基础生命回复</stats><br><br><passive>牺牲</passive><br>当你的<attention>誓约者</attention>在附近时，将其所受的12%伤害转移到你身上，并为你提供相当于其对英雄的10%已造成伤害值的<healing>治疗效果</healing>。<active>立誓</active>(0秒)<br>指定一名友方英雄作为你的<attention>誓约者</attention>。</mainText>",
+        "description": "<mainText><stats><attention>200</attention>生命值<br><attention>40</attention>护甲<br><attention>10</attention>技能急速<br><attention>100%</attention>基础生命回复</stats><br><br><passive>牺牲</passive><br>当你的<attention>誓约者</attention>在附近时，将其所受的14%伤害转移到你身上，并为你提供相当于其对英雄的12%已造成伤害值的<healing>治疗效果</healing>。<active>立誓</active>(0秒)<br>指定一名友方英雄作为你的<attention>誓约者</attention>。</mainText>",
         "colloq": ";Knight's Vow",
         "plaintext": "与一名友方英雄搭档来保护彼此",
         "from": [
@@ -26695,7 +26658,7 @@
       },
       "3190": {
         "name": "钢铁烈阳之匣",
-        "description": "<mainText><stats><attention>200</attention>生命值<br><attention>25</attention>护甲<br><attention>25</attention>魔法抗性<br><attention>10</attention>技能急速</stats><br><br><active>虔诚</active><br>为附近友军提供<shield>290 - 360护盾值</shield>，在2.5秒里持续衰减。</mainText>",
+        "description": "<mainText><stats><attention>200</attention>生命值<br><attention>30</attention>护甲<br><attention>30</attention>魔法抗性<br><attention>10</attention>技能急速</stats><br><br><active>虔诚</active><br>为附近友军提供<shield>290 - 360护盾值</shield>，在2.5秒里持续衰减。</mainText>",
         "colloq": ";gangtielieyangzhixia;gtlyzx;Locket of the Iron Solari",
         "plaintext": "主动施放来为附近友军提供吸收伤害的护盾",
         "from": [
@@ -26737,9 +26700,9 @@
           "35": true
         },
         "stats": {
-          "FlatSpellBlockMod": 25,
+          "FlatSpellBlockMod": 30,
           "FlatHPPoolMod": 200,
-          "FlatArmorMod": 25
+          "FlatArmorMod": 30
         },
         "depth": 3
       },
@@ -27430,7 +27393,7 @@
       },
       "323109": {
         "name": "骑士之誓",
-        "description": "<mainText><stats><attention>300</attention>生命值<br><attention>50</attention>护甲<br><attention>10</attention>技能急速<br><attention>150%</attention>基础生命回复</stats><br><br><passive>牺牲</passive><br>当你的<attention>誓约者</attention>在附近时，将其所受的12%伤害转移到你身上，并为你提供相当于其对英雄的10%已造成伤害值的<healing>治疗效果</healing>。<active>立誓</active>(0秒)<br>指定一名友方英雄作为你的<attention>誓约者</attention>。</mainText>",
+        "description": "<mainText><stats><attention>300</attention>生命值<br><attention>50</attention>护甲<br><attention>10</attention>技能急速<br><attention>150%</attention>基础生命回复</stats><br><br><passive>牺牲</passive><br>当你的<attention>誓约者</attention>在附近时，将其所受的14%伤害转移到你身上，并为你提供相当于其对英雄的12%已造成伤害值的<healing>治疗效果</healing>。<active>立誓</active>(0秒)<br>指定一名友方英雄作为你的<attention>誓约者</attention>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -27754,12 +27717,11 @@
       },
       "324005": {
         "name": "帝国指令",
-        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>20</attention>技能急速<br><attention>150%</attention>基础法力回复</stats><br><br><passive>协同开火</passive> 每个目标(0秒)<br><keyword>减速</keyword>或<keyword>定身</keyword>一名英雄时会将其标记5秒。友方英雄的伤害会引爆标记，造成<magicDamage>相当于10%当前生命值的魔法伤害</magicDamage>。 </mainText>",
+        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>15</attention>技能急速<br><attention>150%</attention>基础法力回复</stats><br><br><passive>控制</passive><br>你的带有<keyword>定身</keyword>效果的那些技能获得15技能急速。<br><br><passive>命令</passive><br>在<keyword>定身</keyword>一个敌方英雄时，为其打上标记，施加持续4秒的6%<Keyword>易损</Keyword>。<br></mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
-          "3108",
-          "1052",
+          "1026",
           "4642"
         ],
         "image": {
@@ -27772,10 +27734,10 @@
           "h": 48
         },
         "gold": {
-          "base": 600,
+          "base": 650,
           "purchasable": true,
-          "total": 2750,
-          "sell": 1925
+          "total": 2400,
+          "sell": 1680
         },
         "tags": [
           "SpellDamage",
@@ -27891,7 +27853,7 @@
       },
       "326620": {
         "name": "海力亚的回响",
-        "description": "<mainText><stats><attention>35</attention>法术强度<br><attention>250</attention>生命值<br><attention>20</attention>技能急速<br><attention>150%</attention>基础法力回复</stats><br><br><passive>灵魂吸取</passive><br>获得【灵魂充能】，数额相当于对英雄的35%折前伤害值。为一位友军提供治疗或护盾时，会消耗所有<passive>灵魂充能</passive>来回复<healing>生命值</healing>。</mainText>",
+        "description": "<mainText><stats><attention>35</attention>法术强度<br><attention>250</attention>生命值<br><attention>20</attention>技能急速<br><attention>150%</attention>基础法力回复</stats><br><br><passive>灵魂吸取</passive><br>获得【灵魂充能】，数额相当于对英雄的30%折前伤害值。为一位友军提供治疗或护盾时，会消耗所有<passive>灵魂充能</passive>来回复<healing>生命值</healing>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -30264,11 +30226,11 @@
       },
       "4005": {
         "name": "帝国指令",
-        "description": "<mainText><stats><attention>60</attention>法术强度<br><attention>20</attention>技能急速<br><attention>125%</attention>基础法力回复</stats><br><br><passive>协同开火</passive> 每个目标(0秒)<br><keyword>减速</keyword>或<keyword>定身</keyword>一名英雄时会将其标记5秒。友方英雄的伤害会引爆标记，造成<magicDamage>相当于10%当前生命值的魔法伤害</magicDamage>。 </mainText>",
+        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>15</attention>技能急速<br><attention>150%</attention>基础法力回复</stats><br><br><passive>控制</passive><br>你的带有<keyword>定身</keyword>效果的那些技能获得15技能急速。<br><br><passive>命令</passive><br>在<keyword>定身</keyword>一个敌方英雄时，为其打上标记，施加持续4秒的6%<Keyword>易损</Keyword>。<br></mainText>",
         "colloq": ";Imperial;Mandate",
         "plaintext": "将伤害延后。",
         "from": [
-          "3108",
+          "1026",
           "4642"
         ],
         "image": {
@@ -30281,10 +30243,10 @@
           "h": 48
         },
         "gold": {
-          "base": 500,
+          "base": 650,
           "purchasable": true,
-          "total": 2250,
-          "sell": 1575
+          "total": 2400,
+          "sell": 1680
         },
         "tags": [
           "SpellDamage",
@@ -30302,13 +30264,13 @@
           "35": true
         },
         "stats": {
-          "FlatMagicDamageMod": 60
+          "FlatMagicDamageMod": 65
         },
         "depth": 3
       },
       "4010": {
         "name": "放血者的诅咒",
-        "description": "<mainText><stats><attention>60</attention>法术强度<br><attention>350</attention>生命值<br><attention>15</attention>技能急速</stats><br><br><passive>恶劣衰朽</passive><br>用技能或被动对英雄造成<magicDamage>魔法伤害</magicDamage>时，会对其造成持续6秒的<scaleMR>7.5%魔法抗性削减</scaleMR>，至多可叠至30%。</mainText>",
+        "description": "<mainText><stats><attention>60</attention>法术强度<br><attention>350</attention>生命值<br><attention>15</attention>技能急速</stats><br><br><passive>恶劣衰朽</passive><br>用技能或被动对英雄造成<magicDamage>魔法伤害</magicDamage>时，会对其造成持续6秒的<scaleMR>7.5%魔法抗性削减</scaleMR>。(可叠加4次)。</mainText>",
         "colloq": ";fachuan;fashuchuantou;Bloodletter;Curse",
         "plaintext": "在用一个技能伤害到一名敌方英雄后提供法术护盾",
         "image": {
@@ -30554,7 +30516,7 @@
       },
       "4016": {
         "name": "无言承诺",
-        "description": "<mainText><stats><attention>50</attention>法术强度<br><attention>25%</attention>治疗和护盾强度<br><attention>25</attention>技能急速</stats><br><br><passive>承诺</passive><br>获得被你<attention>承诺</attention>的<scaleAP>友军的20% 法术强度</scaleAP>，并为被你<attention>承诺</attention>的友军提供你的20% 技能急速。<br><br><active>主动</active> (0秒)<br><active>承诺</active><br>对一名友军做出<attention>承诺</attention>。</mainText>",
+        "description": "<mainText><stats><attention>50</attention>法术强度<br><attention>15%</attention>治疗和护盾强度<br><attention>25</attention>技能急速</stats><br><br><passive>承诺</passive><br>获得被你<attention>承诺</attention>的<scaleAP>友军的15% 法术强度</scaleAP>，并为被你<attention>承诺</attention>的友军提供你的15% 技能急速。<br><br><active>主动</active> (0秒)<br><active>承诺</active><br>对一名友军做出<attention>承诺</attention>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -31315,7 +31277,7 @@
       },
       "443081": {
         "name": "海克斯弹丸配枪",
-        "description": "<mainText><stats><attention>75%</attention>攻击速度<br><attention>500</attention>生命值<br><attention>4%</attention>移动速度</stats><br><br><passive>掩护射击</passive><br>每10秒，<keywordMajor>自动施放</keywordMajor>朝附近的单位发射一枚弩箭，造成<physicalDamage>0物理伤害</physicalDamage>并施加<OnHit>攻击特效</OnHit>特效。<br><br><passive>盈能</passive><br>移动和攻击会生成一次<keyword>盈能攻击</keyword>。<br><br>你的<keyword>盈能</keyword>攻击会触发你的<keywordMajor>自动施放</keywordMajor>效果。</mainText>",
+        "description": "<mainText><stats><attention>70</attention>攻击力<br><attention>50%</attention>攻击速度<br><attention>6%</attention>移动速度</stats><br><br><passive>掩护射击</passive><br>每10秒，<keywordMajor>自动施放</keywordMajor>朝附近的单位发射一枚弩箭，造成<physicalDamage>0物理伤害</physicalDamage>并施加<OnHit>攻击特效</OnHit>特效。<br><br><passive>盈能</passive><br>移动和攻击会生成一次<keyword>盈能攻击</keyword>。<br><br>你的<keyword>盈能</keyword>攻击会触发你的<keywordMajor>自动施放</keywordMajor>效果。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -31348,9 +31310,9 @@
           "35": false
         },
         "stats": {
-          "FlatHPPoolMod": 500,
-          "PercentAttackSpeedMod": 0.75,
-          "PercentMovementSpeedMod": 0.04
+          "FlatPhysicalDamageMod": 70,
+          "PercentAttackSpeedMod": 0.5,
+          "PercentMovementSpeedMod": 0.06
         }
       },
       "443083": {
@@ -32600,7 +32562,7 @@
       },
       "447120": {
         "name": "钻头长矛",
-        "description": "<mainText><stats><attention>75</attention>适应之力<br><attention>30%</attention>攻击速度</stats><br><br><passive>长兵器</passive><br>使你的攻击距离提升75。<br><br><passive>百步穿杨</passive><br>基于你的目标与你相隔的距离，攻击至多造成30%额外伤害并且技能至多造成50%额外伤害。额外伤害在700码时达到上限。 </mainText>",
+        "description": "<mainText><stats><attention>75</attention>适应之力<br><attention>40%</attention>攻击速度</stats><br><br><passive>长兵器</passive><br>使你的攻击距离提升75。<br><br><passive>百步穿杨</passive><br>基于你的目标与你相隔的距离，攻击至多造成30%额外伤害并且技能至多造成50%额外伤害。额外伤害在700码时达到上限。 </mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -32632,7 +32594,7 @@
           "35": false
         },
         "stats": {
-          "PercentAttackSpeedMod": 0.3
+          "PercentAttackSpeedMod": 0.4
         }
       },
       "447121": {
@@ -34303,7 +34265,7 @@
       },
       "6620": {
         "name": "海力亚的回响",
-        "description": "<mainText><stats><attention>35</attention>法术强度<br><attention>200</attention>生命值<br><attention>20</attention>技能急速<br><attention>125%</attention>基础法力回复</stats><br><br><passive>灵魂吸取</passive><br>获得【灵魂充能】，数额相当于对英雄的35%折前伤害值。为一位友军提供治疗或护盾时，会消耗所有<passive>灵魂充能</passive>来回复<healing>生命值</healing>。</mainText>",
+        "description": "<mainText><stats><attention>35</attention>法术强度<br><attention>200</attention>生命值<br><attention>20</attention>技能急速<br><attention>125%</attention>基础法力回复</stats><br><br><passive>灵魂吸取</passive><br>获得【灵魂充能】，数额相当于对英雄的30%折前伤害值。为一位友军提供治疗或护盾时，会消耗所有<passive>灵魂充能</passive>来回复<healing>生命值</healing>。</mainText>",
         "colloq": "",
         "plaintext": "对低生命值的敌人们造成伤害时会触发一次爆炸，造成伤害并减速附近的敌人",
         "from": [
@@ -36612,7 +36574,7 @@
       },
       "8010": {
         "name": "放血者的诅咒",
-        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>400</attention>生命值<br><attention>15</attention>技能急速</stats><br><br><passive>恶劣衰朽</passive><br>用技能或被动对英雄造成<magicDamage>魔法伤害</magicDamage>时，会对其造成持续6秒的<scaleMR>7.5%魔法抗性削减</scaleMR>，至多可叠至30 %。</mainText>",
+        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>400</attention>生命值<br><attention>15</attention>技能急速</stats><br><br><passive>恶劣衰朽</passive><br>用技能或被动对英雄造成<magicDamage>魔法伤害</magicDamage>时，会对其造成持续6秒的<scaleMR>7.5%魔法抗性削减</scaleMR>。(可叠加4次)。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -39038,6 +39000,10 @@
         "MaxGroupOwnable": "1"
       },
       {
+        "id": "ThornmailItems",
+        "MaxGroupOwnable": "1"
+      },
+      {
         "id": "TotalBiscuit",
         "MaxGroupOwnable": "0"
       },
@@ -39239,6 +39205,10 @@
       },
       {
         "id": "447123",
+        "MaxGroupOwnable": "1"
+      },
+      {
+        "id": "FulminationShivExclusion",
         "MaxGroupOwnable": "1"
       },
       {
@@ -40169,5 +40139,5 @@
       }
     ]
   },
-  "updated": "2026-05-27T18:29:27.424518"
+  "updated": "2026-05-28T18:38:48.565340"
 }
