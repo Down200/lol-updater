@@ -1,12 +1,12 @@
 {
-  "version": "16.15.1",
+  "version": "16.16.1",
   "champions": {
     "type": "champion",
     "format": "standAloneComplex",
-    "version": "16.15.1",
+    "version": "16.16.1",
     "data": {
       "Aatrox": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Aatrox",
         "key": "266",
         "name": "暗裔剑魔",
@@ -55,7 +55,7 @@
         }
       },
       "Ahri": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ahri",
         "key": "103",
         "name": "九尾妖狐",
@@ -105,7 +105,7 @@
         }
       },
       "Akali": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Akali",
         "key": "84",
         "name": "离群之刺",
@@ -154,7 +154,7 @@
         }
       },
       "Akshan": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Akshan",
         "key": "166",
         "name": "影哨",
@@ -188,8 +188,8 @@
           "movespeed": 330,
           "armor": 26,
           "armorperlevel": 4.7,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 500,
           "hpregen": 3.75,
           "hpregenperlevel": 0.65,
@@ -204,7 +204,7 @@
         }
       },
       "Alistar": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Alistar",
         "key": "12",
         "name": "牛头酋长",
@@ -254,7 +254,7 @@
         }
       },
       "Ambessa": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ambessa",
         "key": "799",
         "name": "铁血狼母",
@@ -304,7 +304,7 @@
         }
       },
       "Amumu": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Amumu",
         "key": "32",
         "name": "殇之木乃伊",
@@ -354,7 +354,7 @@
         }
       },
       "Anivia": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Anivia",
         "key": "34",
         "name": "冰晶凤凰",
@@ -403,7 +403,7 @@
         }
       },
       "Annie": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Annie",
         "key": "1",
         "name": "黑暗之女",
@@ -453,7 +453,7 @@
         }
       },
       "Aphelios": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Aphelios",
         "key": "523",
         "name": "残月之肃",
@@ -486,8 +486,8 @@
           "movespeed": 325,
           "armor": 26,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.25,
           "hpregenperlevel": 0.55,
@@ -502,7 +502,7 @@
         }
       },
       "Ashe": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ashe",
         "key": "22",
         "name": "寒冰射手",
@@ -536,8 +536,8 @@
           "movespeed": 325,
           "armor": 26,
           "armorperlevel": 4.6,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 600,
           "hpregen": 3.5,
           "hpregenperlevel": 0.55,
@@ -552,7 +552,7 @@
         }
       },
       "AurelionSol": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "AurelionSol",
         "key": "136",
         "name": "铸星龙王",
@@ -601,7 +601,7 @@
         }
       },
       "Aurora": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Aurora",
         "key": "893",
         "name": "双界灵兔",
@@ -651,7 +651,7 @@
         }
       },
       "Azir": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Azir",
         "key": "268",
         "name": "沙漠皇帝",
@@ -701,7 +701,7 @@
         }
       },
       "Bard": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Bard",
         "key": "432",
         "name": "星界游神",
@@ -751,7 +751,7 @@
         }
       },
       "Belveth": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Belveth",
         "key": "200",
         "name": "虚空女皇",
@@ -778,7 +778,7 @@
         "partype": "",
         "stats": {
           "hp": 580,
-          "hpperlevel": 110,
+          "hpperlevel": 105,
           "mp": 45,
           "mpperlevel": 0,
           "movespeed": 340,
@@ -800,7 +800,7 @@
         }
       },
       "Blitzcrank": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Blitzcrank",
         "key": "53",
         "name": "蒸汽机器人",
@@ -850,7 +850,7 @@
         }
       },
       "Brand": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Brand",
         "key": "63",
         "name": "复仇焰魂",
@@ -900,7 +900,7 @@
         }
       },
       "Braum": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Braum",
         "key": "201",
         "name": "弗雷尔卓德之心",
@@ -950,7 +950,7 @@
         }
       },
       "Briar": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Briar",
         "key": "233",
         "name": "狂厄蔷薇",
@@ -1000,7 +1000,7 @@
         }
       },
       "Caitlyn": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Caitlyn",
         "key": "51",
         "name": "皮城女警",
@@ -1033,8 +1033,8 @@
           "movespeed": 325,
           "armor": 27,
           "armorperlevel": 4.7,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 650,
           "hpregen": 3.5,
           "hpregenperlevel": 0.55,
@@ -1049,7 +1049,7 @@
         }
       },
       "Camille": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Camille",
         "key": "164",
         "name": "青钢影",
@@ -1078,7 +1078,7 @@
         "stats": {
           "hp": 650,
           "hpperlevel": 99,
-          "mp": 339,
+          "mp": 375,
           "mpperlevel": 52,
           "movespeed": 340,
           "armor": 35,
@@ -1099,7 +1099,7 @@
         }
       },
       "Cassiopeia": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Cassiopeia",
         "key": "69",
         "name": "魔蛇之拥",
@@ -1148,7 +1148,7 @@
         }
       },
       "Chogath": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Chogath",
         "key": "31",
         "name": "虚空恐惧",
@@ -1198,7 +1198,7 @@
         }
       },
       "Corki": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Corki",
         "key": "42",
         "name": "英勇投弹手",
@@ -1232,8 +1232,8 @@
           "movespeed": 325,
           "armor": 27,
           "armorperlevel": 4.5,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 5.5,
           "hpregenperlevel": 0.55,
@@ -1248,7 +1248,7 @@
         }
       },
       "Darius": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Darius",
         "key": "122",
         "name": "诺克萨斯之手",
@@ -1298,7 +1298,7 @@
         }
       },
       "Diana": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Diana",
         "key": "131",
         "name": "皎月女神",
@@ -1348,7 +1348,7 @@
         }
       },
       "Draven": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Draven",
         "key": "119",
         "name": "荣耀行刑官",
@@ -1381,8 +1381,8 @@
           "movespeed": 330,
           "armor": 29,
           "armorperlevel": 4.5,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.75,
           "hpregenperlevel": 0.7,
@@ -1397,7 +1397,7 @@
         }
       },
       "DrMundo": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "DrMundo",
         "key": "36",
         "name": "祖安狂人",
@@ -1447,7 +1447,7 @@
         }
       },
       "Ekko": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ekko",
         "key": "245",
         "name": "时间刺客",
@@ -1497,7 +1497,7 @@
         }
       },
       "Elise": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Elise",
         "key": "60",
         "name": "蜘蛛女皇",
@@ -1547,7 +1547,7 @@
         }
       },
       "Evelynn": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Evelynn",
         "key": "28",
         "name": "痛苦之拥",
@@ -1597,7 +1597,7 @@
         }
       },
       "Ezreal": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ezreal",
         "key": "81",
         "name": "探险家",
@@ -1631,8 +1631,8 @@
           "movespeed": 325,
           "armor": 24,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 4,
           "hpregenperlevel": 0.65,
@@ -1647,7 +1647,7 @@
         }
       },
       "Fiddlesticks": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Fiddlesticks",
         "key": "9",
         "name": "远古恐惧",
@@ -1697,7 +1697,7 @@
         }
       },
       "Fiora": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Fiora",
         "key": "114",
         "name": "无双剑姬",
@@ -1747,7 +1747,7 @@
         }
       },
       "Fizz": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Fizz",
         "key": "105",
         "name": "潮汐海灵",
@@ -1797,7 +1797,7 @@
         }
       },
       "Galio": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Galio",
         "key": "3",
         "name": "正义巨像",
@@ -1847,7 +1847,7 @@
         }
       },
       "Gangplank": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Gangplank",
         "key": "41",
         "name": "海洋之灾",
@@ -1896,7 +1896,7 @@
         }
       },
       "Garen": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Garen",
         "key": "86",
         "name": "德玛西亚之力",
@@ -1946,7 +1946,7 @@
         }
       },
       "Gnar": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Gnar",
         "key": "150",
         "name": "迷失之牙",
@@ -1996,7 +1996,7 @@
         }
       },
       "Gragas": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Gragas",
         "key": "79",
         "name": "酒桶",
@@ -2046,7 +2046,7 @@
         }
       },
       "Graves": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Graves",
         "key": "104",
         "name": "法外狂徒",
@@ -2079,8 +2079,8 @@
           "movespeed": 340,
           "armor": 33,
           "armorperlevel": 4.6,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 425,
           "hpregen": 8,
           "hpregenperlevel": 0.7,
@@ -2095,7 +2095,7 @@
         }
       },
       "Gwen": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Gwen",
         "key": "887",
         "name": "灵罗娃娃",
@@ -2144,7 +2144,7 @@
         }
       },
       "Hecarim": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Hecarim",
         "key": "120",
         "name": "战争之影",
@@ -2194,7 +2194,7 @@
         }
       },
       "Heimerdinger": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Heimerdinger",
         "key": "74",
         "name": "大发明家",
@@ -2244,7 +2244,7 @@
         }
       },
       "Hwei": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Hwei",
         "key": "910",
         "name": "异画师",
@@ -2294,7 +2294,7 @@
         }
       },
       "Illaoi": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Illaoi",
         "key": "420",
         "name": "海兽祭司",
@@ -2344,7 +2344,7 @@
         }
       },
       "Irelia": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Irelia",
         "key": "39",
         "name": "刀锋舞者",
@@ -2394,7 +2394,7 @@
         }
       },
       "Ivern": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ivern",
         "key": "427",
         "name": "翠神",
@@ -2443,2999 +2443,8 @@
           "attackspeed": 0.644
         }
       },
-      "Jade_Ahri": {
-        "version": "16.15.1",
-        "id": "Jade_Ahri",
-        "key": "60103",
-        "name": "九尾妖狐",
-        "title": "阿狸",
-        "blurb": "- 摄魂夺魄(被动)可在对敌人造成伤害时叠加层数<br>- 灵魄突袭(R)不会重置",
-        "info": {
-          "attack": 3,
-          "defense": 4,
-          "magic": 8,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Ahri.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 432,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 460,
-          "hpperlevel": 80,
-          "mp": 280,
-          "mpperlevel": 50,
-          "movespeed": 330,
-          "armor": 18.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 6.1,
-          "hpregenperlevel": 0.6,
-          "mpregen": 6.85,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 53,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2,
-          "attackspeed": 0.668
-        }
-      },
-      "Jade_Alistar": {
-        "version": "16.15.1",
-        "id": "Jade_Alistar",
-        "key": "60012",
-        "name": "牛头酋长",
-        "title": "阿利斯塔",
-        "blurb": "- 践踏(被动)和凯旋怒吼(E)互换<br>- 可出法术强度装备<br>- 可走单人路",
-        "info": {
-          "attack": 6,
-          "defense": 9,
-          "magic": 5,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Alistar.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 0,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 544,
-          "hpperlevel": 102,
-          "mp": 255,
-          "mpperlevel": 40,
-          "movespeed": 330,
-          "armor": 22,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.1,
-          "hpregenperlevel": 0.85,
-          "mpregen": 6.9,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 58.65,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.125,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Amumu": {
-        "version": "16.15.1",
-        "id": "Jade_Amumu",
-        "key": "60032",
-        "name": "殇之木乃伊",
-        "title": "阿木木",
-        "blurb": "- 绷带牵引(Q)没有额外充能<br>- 诅咒之触(被动)只会在普通攻击时降低魔法抗性",
-        "info": {
-          "attack": 2,
-          "defense": 6,
-          "magic": 8,
-          "difficulty": 3
-        },
-        "image": {
-          "full": "Jade_Amumu.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 48,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 556,
-          "hpperlevel": 84,
-          "mp": 260,
-          "mpperlevel": 40,
-          "movespeed": 335,
-          "armor": 25.3,
-          "armorperlevel": 3.3,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.3,
-          "hpregenperlevel": 0.85,
-          "mpregen": 7,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 50.8,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.18,
-          "attackspeed": 0.638
-        }
-      },
-      "Jade_Anivia": {
-        "version": "16.15.1",
-        "id": "Jade_Anivia",
-        "key": "60034",
-        "name": "冰晶凤凰",
-        "title": "艾尼维亚",
-        "blurb": "- 霜寒刺骨(E)没有冰冷被动<br>- 冰川风暴(R)的减速同样会影响攻击速度",
-        "info": {
-          "attack": 1,
-          "defense": 4,
-          "magic": 10,
-          "difficulty": 10
-        },
-        "image": {
-          "full": "Jade_Anivia.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 96,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 420,
-          "hpperlevel": 70,
-          "mp": 310,
-          "mpperlevel": 53,
-          "movespeed": 325,
-          "armor": 18.5,
-          "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 600,
-          "hpregen": 5.2,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 51.2,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.68,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Annie": {
-        "version": "16.15.1",
-        "id": "Jade_Annie",
-        "key": "60001",
-        "name": "黑暗之女",
-        "title": "安妮",
-        "blurb": "- 安妮阵亡时，提伯斯(R)也会死亡<br>- 嗜火(被动)层数在阵亡时会重置<br>- 熔岩护盾(E)不提供移动速度",
-        "info": {
-          "attack": 2,
-          "defense": 3,
-          "magic": 10,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Annie.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 144,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 460,
-          "hpperlevel": 76,
-          "mp": 300,
-          "mpperlevel": 50,
-          "movespeed": 335,
-          "armor": 16.5,
-          "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 625,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.5,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 50.625,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.36,
-          "attackspeed": 0.579
-        }
-      },
-      "Jade_Ashe": {
-        "version": "16.15.1",
-        "id": "Jade_Ashe",
-        "key": "60022",
-        "name": "寒冰射手",
-        "title": "艾希",
-        "blurb": "- 冰霜射击(Q)可激活或关闭普通攻击减速效果<br>- 专注(被动)在脱战时积攒暴击<br>- 鹰击长空(E)在造成击杀时提供额外金币",
-        "info": {
-          "attack": 7,
-          "defense": 3,
-          "magic": 2,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Ashe.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 192,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 474,
-          "hpperlevel": 79,
-          "mp": 208,
-          "mpperlevel": 35,
-          "movespeed": 325,
-          "armor": 18.9,
-          "armorperlevel": 3.4,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 600,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 6.7,
-          "mpregenperlevel": 0.4,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 49,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 4,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_Blitzcrank": {
-        "version": "16.15.1",
-        "id": "Jade_Blitzcrank",
-        "key": "60053",
-        "name": "蒸汽机器人",
-        "title": "布里茨",
-        "blurb": "- 静电力场(R)会被动电击附近的敌人",
-        "info": {
-          "attack": 4,
-          "defense": 8,
-          "magic": 5,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Blitzcrank.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 240,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 518,
-          "hpperlevel": 95,
-          "mp": 240,
-          "mpperlevel": 40,
-          "movespeed": 325,
-          "armor": 22,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8,
-          "hpregenperlevel": 0.75,
-          "mpregen": 7.1,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 59.16,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.13,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Brand": {
-        "version": "16.15.1",
-        "id": "Jade_Brand",
-        "key": "60063",
-        "name": "复仇焰魂",
-        "title": "布兰德",
-        "blurb": "- 烈焰焚身(被动)不触发爆炸",
-        "info": {
-          "attack": 2,
-          "defense": 2,
-          "magic": 9,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Brand.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 288,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 456,
-          "hpperlevel": 76,
-          "mp": 295,
-          "mpperlevel": 45,
-          "movespeed": 340,
-          "armor": 19.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 55,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.36,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Chogath": {
-        "version": "16.15.1",
-        "id": "Jade_Chogath",
-        "key": "60031",
-        "name": "虚空恐惧",
-        "title": "科加斯",
-        "blurb": "- 盛宴(R)最多可叠加6层，被击杀时会失去层数，但可以通过任何目标叠加<br>- 恐惧之刺(E)可激活或关闭穿透敌人的尖刺效果",
-        "info": {
-          "attack": 3,
-          "defense": 7,
-          "magic": 7,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Chogath.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 336,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 520,
-          "hpperlevel": 80,
-          "mp": 245,
-          "mpperlevel": 40,
-          "movespeed": 345,
-          "armor": 26.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.35,
-          "hpregenperlevel": 0.85,
-          "mpregen": 6.9,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 58.3,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.44,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Corki": {
-        "version": "16.15.1",
-        "id": "Jade_Corki",
-        "key": "60042",
-        "name": "英勇投弹手",
-        "title": "库奇",
-        "blurb": "- 磷光炸弹(Q)会立即爆炸",
-        "info": {
-          "attack": 8,
-          "defense": 3,
-          "magic": 6,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Corki.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 384,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 457,
-          "hpperlevel": 82,
-          "mp": 280,
-          "mpperlevel": 37,
-          "movespeed": 325,
-          "armor": 21,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.05,
-          "mpregenperlevel": 0.55,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 51.2,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.3,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_DrMundo": {
-        "version": "16.15.1",
-        "id": "Jade_DrMundo",
-        "key": "60036",
-        "name": "祖安狂人",
-        "title": "蒙多医生",
-        "blurb": "- 痛苦燃烧(W)可激活或关闭围绕自身的范围伤害效果<br>- 潜能激发(E)是持续一段时间的增益效果，而非一次性的攻击技能<br>- 肾上腺激素(被动)会随时间回复生命值",
-        "info": {
-          "attack": 5,
-          "defense": 7,
-          "magic": 6,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_DrMundo.png",
-          "sprite": "champion1.png",
-          "group": "champion",
-          "x": 432,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Fighter"
-        ],
-        "partype": "无",
-        "stats": {
-          "hp": 522,
-          "hpperlevel": 89,
-          "mp": 0,
-          "mpperlevel": 0,
-          "movespeed": 345,
-          "armor": 24.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.25,
-          "hpregenperlevel": 0.75,
-          "mpregen": 0,
-          "mpregenperlevel": 0,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 59.23,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.8,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Evelynn": {
-        "version": "16.15.1",
-        "id": "Jade_Evelynn",
-        "key": "60028",
-        "name": "寡妇制造者",
-        "title": "伊芙琳",
-        "blurb": "- 技能组完全不同。阅读描述<br>- 是战士而非刺客",
-        "info": {
-          "attack": 4,
-          "defense": 2,
-          "magic": 7,
-          "difficulty": 10
-        },
-        "image": {
-          "full": "Jade_Evelynn.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 0,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Assassin",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 470,
-          "hpperlevel": 90,
-          "mp": 235,
-          "mpperlevel": 45,
-          "movespeed": 340,
-          "armor": 20,
-          "armorperlevel": 4,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 9.45,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.7,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 51.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.6,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Ezreal": {
-        "version": "16.15.1",
-        "id": "Jade_Ezreal",
-        "key": "60081",
-        "name": "探险家",
-        "title": "伊泽瑞尔",
-        "blurb": "- 精华跃动(W)会穿过所有单位，对敌人造成伤害，并为友军提供攻击速度<br>- 精准弹幕(R)每命中一个敌人，造成的伤害降低",
-        "info": {
-          "attack": 7,
-          "defense": 2,
-          "magic": 6,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Ezreal.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 48,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 430,
-          "hpperlevel": 80,
-          "mp": 280,
-          "mpperlevel": 45,
-          "movespeed": 330,
-          "armor": 19.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 6.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.65,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 49.6,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.22,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_Fiddlesticks": {
-        "version": "16.15.1",
-        "id": "Jade_Fiddlesticks",
-        "key": "60009",
-        "name": "末日使者",
-        "title": "费德提克",
-        "blurb": "- 除了终极技能群鸦风暴(R)外，技能完全不同<br>- 费德提克的恐惧效果会让敌人随机走动",
-        "info": {
-          "attack": 2,
-          "defense": 3,
-          "magic": 9,
-          "difficulty": 9
-        },
-        "image": {
-          "full": "Jade_Fiddlesticks.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 96,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 470,
-          "hpperlevel": 80,
-          "mp": 310,
-          "mpperlevel": 59,
-          "movespeed": 335,
-          "armor": 18.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 480,
-          "hpregen": 5.2,
-          "hpregenperlevel": 0.6,
-          "mpregen": 7.55,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 48.575,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.11,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Gangplank": {
-        "version": "16.15.1",
-        "id": "Jade_Gangplank",
-        "key": "60041",
-        "name": "海洋之灾",
-        "title": "普朗克",
-        "blurb": "- 加农炮幕(R)现在是在范围内的随机位置落下炮弹，而不是持续稳定地造成范围伤害<br>- 鼓舞士气(E)无论是被动还是主动施放，都会提升移动速度和攻击力<br>- 枪火谈判(Q)现在提供金币(不再提供银蛇币)",
-        "info": {
-          "attack": 7,
-          "defense": 6,
-          "magic": 4,
-          "difficulty": 9
-        },
-        "image": {
-          "full": "Jade_Gangplank.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 144,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 576,
-          "hpperlevel": 81,
-          "mp": 255,
-          "mpperlevel": 40,
-          "movespeed": 345,
-          "armor": 23.8,
-          "armorperlevel": 3.3,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 5,
-          "hpregenperlevel": 0.75,
-          "mpregen": 7.2,
-          "mpregenperlevel": 0.7,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 57,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.75,
-          "attackspeed": 0.651
-        }
-      },
-      "Jade_Garen": {
-        "version": "16.15.1",
-        "id": "Jade_Garen",
-        "key": "60086",
-        "name": "德玛西亚之力",
-        "title": "盖伦",
-        "blurb": "- 德玛西亚正义(R)造成魔法伤害",
-        "info": {
-          "attack": 7,
-          "defense": 7,
-          "magic": 1,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Garen.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 192,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Tank"
-        ],
-        "partype": "无",
-        "stats": {
-          "hp": 551,
-          "hpperlevel": 96,
-          "mp": 0,
-          "mpperlevel": 0,
-          "movespeed": 345,
-          "armor": 25.7,
-          "armorperlevel": 2.7,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.2,
-          "hpregenperlevel": 0.75,
-          "mpregen": 0,
-          "mpregenperlevel": 0,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 55.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.9,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Gragas": {
-        "version": "16.15.1",
-        "id": "Jade_Gragas",
-        "key": "60079",
-        "name": "酒桶",
-        "title": "古拉加斯",
-        "blurb": "- 滚动酒桶(Q)无论在地面上停留多久，都会造成全额伤害<br>- 醉酒狂暴(W)可长时间持续",
-        "info": {
-          "attack": 4,
-          "defense": 7,
-          "magic": 6,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Gragas.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 240,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 523,
-          "hpperlevel": 89,
-          "mp": 268,
-          "mpperlevel": 47,
-          "movespeed": 340,
-          "armor": 23.6,
-          "armorperlevel": 3.6,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 125,
-          "hpregen": 8.1,
-          "hpregenperlevel": 0.85,
-          "mpregen": 6.9,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 59.155,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.05,
-          "attackspeed": 0.651
-        }
-      },
-      "Jade_Heimerdinger": {
-        "version": "16.15.1",
-        "id": "Jade_Heimerdinger",
-        "key": "60074",
-        "name": "大发明家",
-        "title": "黑默丁格",
-        "blurb": "- 技能看起来相似，但实际上大不相同<br>- 升级！！！(R)是持续一定时间的增益，而非一次性的技能效果<br>- H-28G进化炮台(Q)会在全地图范围内生效，但当黑默丁格阵亡时会被摧毁",
-        "info": {
-          "attack": 2,
-          "defense": 6,
-          "magic": 8,
-          "difficulty": 8
-        },
-        "image": {
-          "full": "Jade_Heimerdinger.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 288,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 425,
-          "hpperlevel": 75,
-          "mp": 305,
-          "mpperlevel": 65,
-          "movespeed": 325,
-          "armor": 14,
-          "armorperlevel": 3,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 4.5,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.65,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 52.24,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.21,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Janna": {
-        "version": "16.15.1",
-        "id": "Jade_Janna",
-        "key": "60040",
-        "name": "风暴之怒",
-        "title": "迦娜",
-        "blurb": "- 顺风而行(被动)提供全地图移动速度加成",
-        "info": {
-          "attack": 3,
-          "defense": 5,
-          "magic": 7,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Janna.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 336,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 434,
-          "hpperlevel": 78,
-          "mp": 366,
-          "mpperlevel": 64,
-          "movespeed": 335,
-          "armor": 16.8,
-          "armorperlevel": 3.8,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 475,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.5,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 51.95,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.61,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_JarvanIV": {
-        "version": "16.15.1",
-        "id": "Jade_JarvanIV",
-        "key": "60059",
-        "name": "德玛西亚皇子",
-        "title": "嘉文四世",
-        "blurb": "- 天崩地裂(R)为单体技能<br>- 德邦军旗(E)被动提供护甲",
-        "info": {
-          "attack": 6,
-          "defense": 8,
-          "magic": 3,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_JarvanIV.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 384,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 510,
-          "hpperlevel": 90,
-          "mp": 275,
-          "mpperlevel": 40,
-          "movespeed": 340,
-          "armor": 21.6,
-          "armorperlevel": 3.6,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 175,
-          "hpregen": 7.7,
-          "hpregenperlevel": 0.7,
-          "mpregen": 6.45,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 53.4,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.5,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_Jax": {
-        "version": "16.15.1",
-        "id": "Jade_Jax",
-        "key": "60024",
-        "name": "武器大师",
-        "title": "贾克斯",
-        "blurb": "- 宗师之威(R)每次攻击都会提供可叠加攻击速度<br>- 武器专精(被动)根据战力提升生命值",
-        "info": {
-          "attack": 7,
-          "defense": 5,
-          "magic": 7,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Jax.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 432,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 506,
-          "hpperlevel": 83,
-          "mp": 265,
-          "mpperlevel": 35,
-          "movespeed": 350,
-          "armor": 25.5,
-          "armorperlevel": 3.2,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.1,
-          "mpregenperlevel": 0.7,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 59.675,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.4,
-          "attackspeed": 0.638
-        }
-      },
-      "Jade_Karthus": {
-        "version": "16.15.1",
-        "id": "Jade_Karthus",
-        "key": "60030",
-        "name": "死亡颂唱者",
-        "title": "卡尔萨斯",
-        "blurb": "- 死者永远不会改变",
-        "info": {
-          "attack": 2,
-          "defense": 2,
-          "magic": 10,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Karthus.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 0,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 465,
-          "hpperlevel": 75,
-          "mp": 331,
-          "mpperlevel": 61,
-          "movespeed": 335,
-          "armor": 18.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 450,
-          "hpregen": 6.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.1,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 45.45,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.11,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Kassadin": {
-        "version": "16.15.1",
-        "id": "Jade_Kassadin",
-        "key": "60038",
-        "name": "虚空行者",
-        "title": "卡萨丁",
-        "blurb": "- 能量脉冲(E)需要在他周围施放6次技能后才能施放<br>- 虚空行走(R)最多可叠加10层<br>- 虚空之石(被动)会将抵挡的部分魔法伤害转化为攻击速度",
-        "info": {
-          "attack": 3,
-          "defense": 5,
-          "magic": 8,
-          "difficulty": 8
-        },
-        "image": {
-          "full": "Jade_Kassadin.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 48,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Assassin",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 511,
-          "hpperlevel": 78,
-          "mp": 275,
-          "mpperlevel": 45,
-          "movespeed": 340,
-          "armor": 21.2,
-          "armorperlevel": 3.2,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.45,
-          "hpregenperlevel": 0.5,
-          "mpregen": 7.5,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 56.2,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.7,
-          "attackspeed": 0.64
-        }
-      },
-      "Jade_Katarina": {
-        "version": "16.15.1",
-        "id": "Jade_Katarina",
-        "key": "60055",
-        "name": "不祥之刃",
-        "title": "卡特琳娜",
-        "blurb": "- 弹射之刃(Q)会对敌人造成伤害并标记，卡特琳娜可以用技能或攻击来消耗该标记以造成额外魔法伤害。<br>- 不祥之刃(W)会在卡特琳娜周围造成伤害，并且如果此技能命中了一个英雄就会提升她的移动速度。<br>- 瞬步(E)造成伤害并闪烁至目标处；之后这个技能会为卡特琳娜提供伤害减免。",
-        "info": {
-          "attack": 4,
-          "defense": 3,
-          "magic": 9,
-          "difficulty": 8
-        },
-        "image": {
-          "full": "Jade_Katarina.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 96,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Assassin",
-          "Mage"
-        ],
-        "partype": "无",
-        "stats": {
-          "hp": 505,
-          "hpperlevel": 80,
-          "mp": 0,
-          "mpperlevel": 0,
-          "movespeed": 345,
-          "armor": 24.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.5,
-          "hpregenperlevel": 0.55,
-          "mpregen": 0,
-          "mpregenperlevel": 0,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 56.2,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.74,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_Kayle": {
-        "version": "16.15.1",
-        "id": "Jade_Kayle",
-        "key": "60010",
-        "name": "审判天使",
-        "title": "凯尔",
-        "blurb": "- 除了神圣祝福(W)外，技能完全不同<br>- 她的攻击不会随等级提升而改变<br>- 神圣狂热(被动)会将攻击力转化为法术强度，法术强度也会转化为攻击力",
-        "info": {
-          "attack": 6,
-          "defense": 6,
-          "magic": 7,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Kayle.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 144,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Marksman"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 501,
-          "hpperlevel": 93,
-          "mp": 295,
-          "mpperlevel": 40,
-          "movespeed": 335,
-          "armor": 21,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0.75,
-          "attackrange": 125,
-          "hpregen": 7.5,
-          "hpregenperlevel": 0.75,
-          "mpregen": 7.425,
-          "mpregenperlevel": 0.325,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 56.3,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.3,
-          "attackspeed": 0.638
-        }
-      },
-      "Jade_KogMaw": {
-        "version": "16.15.1",
-        "id": "Jade_KogMaw",
-        "key": "60096",
-        "name": "深渊巨口",
-        "title": "克格莫",
-        "blurb": "- 腐蚀唾液(Q)为点选型技能",
-        "info": {
-          "attack": 8,
-          "defense": 2,
-          "magic": 5,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_KogMaw.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 192,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 524,
-          "hpperlevel": 84,
-          "mp": 295,
-          "mpperlevel": 40,
-          "movespeed": 330,
-          "armor": 17.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 500,
-          "hpregen": 5.55,
-          "hpregenperlevel": 0.55,
-          "mpregen": 8.2,
-          "mpregenperlevel": 0.7,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 49,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.65,
-          "attackspeed": 0.665
-        }
-      },
-      "Jade_LeeSin": {
-        "version": "16.15.1",
-        "id": "Jade_LeeSin",
-        "key": "60064",
-        "name": "盲僧",
-        "title": "李青",
-        "blurb": "- 没有什么能扰乱他的均衡",
-        "info": {
-          "attack": 8,
-          "defense": 5,
-          "magic": 3,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_LeeSin.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 240,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Assassin"
-        ],
-        "partype": "能量",
-        "stats": {
-          "hp": 513,
-          "hpperlevel": 85,
-          "mp": 200,
-          "mpperlevel": 0,
-          "movespeed": 350,
-          "armor": 23.7,
-          "armorperlevel": 3.7,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 6.95,
-          "hpregenperlevel": 0.7,
-          "mpregen": 50,
-          "mpregenperlevel": 0,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 59,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3,
-          "attackspeed": 0.651
-        }
-      },
-      "Jade_Leona": {
-        "version": "16.15.1",
-        "id": "Jade_Leona",
-        "key": "60089",
-        "name": "曙光女神",
-        "title": "蕾欧娜",
-        "blurb": "- 在人类的一生中，太阳从未改变，她亦如是",
-        "info": {
-          "attack": 4,
-          "defense": 8,
-          "magic": 3,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Leona.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 288,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 517,
-          "hpperlevel": 87,
-          "mp": 275,
-          "mpperlevel": 40,
-          "movespeed": 335,
-          "armor": 25.1,
-          "armorperlevel": 3.1,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 9.85,
-          "hpregenperlevel": 0.85,
-          "mpregen": 7.7,
-          "mpregenperlevel": 0.7,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 58,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.9,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Lulu": {
-        "version": "16.15.1",
-        "id": "Jade_Lulu",
-        "key": "60117",
-        "name": "仙灵女巫",
-        "title": "璐璐",
-        "blurb": "- 闪耀长枪(Q)的多个弹体无法对同一目标造成伤害",
-        "info": {
-          "attack": 4,
-          "defense": 5,
-          "magic": 7,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Lulu.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 336,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 497,
-          "hpperlevel": 82,
-          "mp": 255,
-          "mpperlevel": 55,
-          "movespeed": 325,
-          "armor": 16.7,
-          "armorperlevel": 3.7,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.6,
-          "hpregenperlevel": 0.6,
-          "mpregen": 5.5,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 46.6,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.25,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Lux": {
-        "version": "16.15.1",
-        "id": "Jade_Lux",
-        "key": "60099",
-        "name": "光辉女郎",
-        "title": "拉克丝",
-        "blurb": "- 光之束缚(Q)对第二个目标效果减半",
-        "info": {
-          "attack": 2,
-          "defense": 4,
-          "magic": 9,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Lux.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 384,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Support"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 424,
-          "hpperlevel": 79,
-          "mp": 300,
-          "mpperlevel": 50,
-          "movespeed": 330,
-          "armor": 16,
-          "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 6.6,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 53.3,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.36,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Malphite": {
-        "version": "16.15.1",
-        "id": "Jade_Malphite",
-        "key": "60054",
-        "name": "熔岩巨兽",
-        "title": "墨菲特",
-        "blurb": "- 残暴打击(W)的顺劈为被动效果，并在激活时提升他的伤害",
-        "info": {
-          "attack": 5,
-          "defense": 9,
-          "magic": 7,
-          "difficulty": 2
-        },
-        "image": {
-          "full": "Jade_Malphite.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 432,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 513,
-          "hpperlevel": 90,
-          "mp": 255,
-          "mpperlevel": 40,
-          "movespeed": 335,
-          "armor": 25.75,
-          "armorperlevel": 3.75,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8,
-          "hpregenperlevel": 0.55,
-          "mpregen": 6.95,
-          "mpregenperlevel": 0.55,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 59.675,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.4,
-          "attackspeed": 0.638
-        }
-      },
-      "Jade_Malzahar": {
-        "version": "16.15.1",
-        "id": "Jade_Malzahar",
-        "key": "60090",
-        "name": "虚空先知",
-        "title": "玛尔扎哈",
-        "blurb": "- 虚无地带(W)在短时间内制造一片范围伤害区域<br>- 召唤虚灵(被动)在施放一定次数后生成一个虚灵<br>- 冥府之握(R)不会在目标周围生成虚空禁域",
-        "info": {
-          "attack": 2,
-          "defense": 2,
-          "magic": 9,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Malzahar.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 0,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 460,
-          "hpperlevel": 80,
-          "mp": 295,
-          "mpperlevel": 45,
-          "movespeed": 340,
-          "armor": 19.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 54.66,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.36,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_MasterYi": {
-        "version": "16.15.1",
-        "id": "Jade_MasterYi",
-        "key": "60011",
-        "name": "无极剑圣",
-        "title": "易",
-        "blurb": "- 无极剑道(E)被动提升攻击力，激活时提升效果翻倍<br>- 双重打击(被动)为概率触发<br>- 阿尔法突袭(Q)结束位移后无法指定方向",
-        "info": {
-          "attack": 10,
-          "defense": 4,
-          "magic": 2,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_MasterYi.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 48,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 530,
-          "hpperlevel": 86,
-          "mp": 235,
-          "mpperlevel": 36,
-          "movespeed": 355,
-          "armor": 24,
-          "armorperlevel": 3.7,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.4,
-          "hpregenperlevel": 0.65,
-          "mpregen": 6.95,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 58,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.98,
-          "attackspeed": 0.679
-        }
-      },
-      "Jade_MissFortune": {
-        "version": "16.15.1",
-        "id": "Jade_MissFortune",
-        "key": "60021",
-        "name": "赏金猎人",
-        "title": "厄运小姐",
-        "blurb": "- 大步流星(被动)从W技能移除<br>- 黑枪射击(W)被动每次命中造成魔法伤害，主动效果则会提升攻击速度并施加重伤。",
-        "info": {
-          "attack": 8,
-          "defense": 2,
-          "magic": 5,
-          "difficulty": 1
-        },
-        "image": {
-          "full": "Jade_MissFortune.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 96,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 520,
-          "hpperlevel": 85,
-          "mp": 250,
-          "mpperlevel": 38,
-          "movespeed": 325,
-          "armor": 22,
-          "armorperlevel": 3,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.75,
-          "hpregenperlevel": 0.65,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 49.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.01,
-          "attackspeed": 0.656
-        }
-      },
-      "Jade_Morgana": {
-        "version": "16.15.1",
-        "id": "Jade_Morgana",
-        "key": "60025",
-        "name": "堕落天使",
-        "title": "莫甘娜",
-        "blurb": "- 蒙面之女不会改变",
-        "info": {
-          "attack": 1,
-          "defense": 6,
-          "magic": 8,
-          "difficulty": 1
-        },
-        "image": {
-          "full": "Jade_Morgana.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 144,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 489,
-          "hpperlevel": 86,
-          "mp": 300,
-          "mpperlevel": 60,
-          "movespeed": 335,
-          "armor": 22.8,
-          "armorperlevel": 3.8,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 425,
-          "hpregen": 5.3,
-          "hpregenperlevel": 0.6,
-          "mpregen": 7.45,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 55.08,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.53,
-          "attackspeed": 0.579
-        }
-      },
-      "Jade_Nasus": {
-        "version": "16.15.1",
-        "id": "Jade_Nasus",
-        "key": "60075",
-        "name": "沙漠死神",
-        "title": "内瑟斯",
-        "blurb": "- 死神降临(R)会暂时将一部分魔法伤害转化为攻击力",
-        "info": {
-          "attack": 7,
-          "defense": 5,
-          "magic": 6,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Nasus.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 192,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 500,
-          "hpperlevel": 90,
-          "mp": 245,
-          "mpperlevel": 45,
-          "movespeed": 350,
-          "armor": 22.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.4,
-          "hpregenperlevel": 0.9,
-          "mpregen": 7.1,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 56.8,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.48,
-          "attackspeed": 0.638
-        }
-      },
-      "Jade_Nidalee": {
-        "version": "16.15.1",
-        "id": "Jade_Nidalee",
-        "key": "60076",
-        "name": "狂野女猎手",
-        "title": "奈德丽",
-        "blurb": "- 美洲狮形态(R)不会在开局时获得1级<br>- 寻觅(被动)狩猎被动效果移除<br>- 丛林伏击(W)造成巨量伤害",
-        "info": {
-          "attack": 5,
-          "defense": 4,
-          "magic": 7,
-          "difficulty": 8
-        },
-        "image": {
-          "full": "Jade_Nidalee.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 240,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Assassin",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 460,
-          "hpperlevel": 90,
-          "mp": 265,
-          "mpperlevel": 45,
-          "movespeed": 335,
-          "armor": 18.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 525,
-          "hpregen": 5.6,
-          "hpregenperlevel": 0.6,
-          "mpregen": 7.5,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 52.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.22,
-          "attackspeed": 0.67
-        }
-      },
-      "Jade_Nunu": {
-        "version": "16.15.1",
-        "id": "Jade_Nunu",
-        "key": "60020",
-        "name": "雪人骑士",
-        "title": "努努",
-        "blurb": "- 血之沸腾(W)提升攻击速度和移动速度<br>- 冰雹(E)会发射单个指向性雪球<br>- 吞噬(Q)无法对英雄使用，但会根据吞噬的目标获得增益<br>- 法术幻想(被动)每进行5次普通攻击，则下一个技能不消耗法力值——努努和威朗普是两位角色，所以会多一行介绍",
-        "info": {
-          "attack": 4,
-          "defense": 6,
-          "magic": 7,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Nunu.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 288,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 533,
-          "hpperlevel": 96,
-          "mp": 255,
-          "mpperlevel": 42,
-          "movespeed": 350,
-          "armor": 24,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.85,
-          "hpregenperlevel": 0.8,
-          "mpregen": 7.1,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 54.51,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.25,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Olaf": {
-        "version": "16.15.1",
-        "id": "Jade_Olaf",
-        "key": "60002",
-        "name": "狂战士",
-        "title": "奥拉夫",
-        "blurb": "- 残暴打击(W)提供攻击力、生命偷取和法术吸血<br>- 鲁莽挥击(E)不会治疗生命值消耗",
-        "info": {
-          "attack": 9,
-          "defense": 5,
-          "magic": 3,
-          "difficulty": 3
-        },
-        "image": {
-          "full": "Jade_Olaf.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 336,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 534,
-          "hpperlevel": 93,
-          "mp": 270,
-          "mpperlevel": 45,
-          "movespeed": 350,
-          "armor": 24,
-          "armorperlevel": 3,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.9,
-          "hpregenperlevel": 0.9,
-          "mpregen": 7.075,
-          "mpregenperlevel": 0.575,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 57.6,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.7,
-          "attackspeed": 0.694
-        }
-      },
-      "Jade_Pantheon": {
-        "version": "16.15.1",
-        "id": "Jade_Pantheon",
-        "key": "60080",
-        "name": "战争之王",
-        "title": "潘森",
-        "blurb": "- 圣盾庇护(被动)在多次施放技能后格挡伤害<br>- 堕天一击(R)造成圆形范围伤害<br>- 穿心长矛(E) - 潘森会站在原地发动攻击",
-        "info": {
-          "attack": 9,
-          "defense": 4,
-          "magic": 3,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Pantheon.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 384,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 520,
-          "hpperlevel": 87,
-          "mp": 244,
-          "mpperlevel": 34,
-          "movespeed": 355,
-          "armor": 25,
-          "armorperlevel": 3.9,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 150,
-          "hpregen": 7.4,
-          "hpregenperlevel": 0.65,
-          "mpregen": 7.05,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 53.6,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.95,
-          "attackspeed": 0.679
-        }
-      },
-      "Jade_Rammus": {
-        "version": "16.15.1",
-        "id": "Jade_Rammus",
-        "key": "60033",
-        "name": "披甲龙龟",
-        "title": "拉莫斯",
-        "blurb": "- 地动山摇(R)会在他周围多次造成群体伤害<br>- 其他技能都没问题",
-        "info": {
-          "attack": 4,
-          "defense": 10,
-          "magic": 5,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Rammus.png",
-          "sprite": "champion2.png",
-          "group": "champion",
-          "x": 432,
-          "y": 96,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 506,
-          "hpperlevel": 86,
-          "mp": 288,
-          "mpperlevel": 33,
-          "movespeed": 335,
-          "armor": 28.8,
-          "armorperlevel": 3.8,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.55,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.5,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 53.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.215,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Ryze": {
-        "version": "16.15.1",
-        "id": "Jade_Ryze",
-        "key": "60013",
-        "name": "流浪法师",
-        "title": "瑞兹",
-        "blurb": "- 技能又完全不同了(已经是第五次了)",
-        "info": {
-          "attack": 2,
-          "defense": 2,
-          "magic": 10,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Ryze.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 0,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 446,
-          "hpperlevel": 86,
-          "mp": 305,
-          "mpperlevel": 55,
-          "movespeed": 335,
-          "armor": 18.9,
-          "armorperlevel": 3.9,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 4.9,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 55,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.112,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Shaco": {
-        "version": "16.15.1",
-        "id": "Jade_Shaco",
-        "key": "60035",
-        "name": "恶魔小丑",
-        "title": "萨科",
-        "blurb": "- 幻像(R)分身爆炸时造成更高伤害，但不会生成惊吓魔盒<br>- 惊吓魔盒(W)现在可以放置在更近距离",
-        "info": {
-          "attack": 8,
-          "defense": 4,
-          "magic": 6,
-          "difficulty": 9
-        },
-        "image": {
-          "full": "Jade_Shaco.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 48,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 525,
-          "hpperlevel": 84,
-          "mp": 270,
-          "mpperlevel": 40,
-          "movespeed": 350,
-          "armor": 22.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8,
-          "hpregenperlevel": 0.55,
-          "mpregen": 6.85,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 55.2,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3,
-          "attackspeed": 0.694
-        }
-      },
-      "Jade_Singed": {
-        "version": "16.15.1",
-        "id": "Jade_Singed",
-        "key": "60027",
-        "name": "炼金术士",
-        "title": "辛吉德",
-        "blurb": "- 强化壁垒(被动)会随着法力值提升生命值",
-        "info": {
-          "attack": 4,
-          "defense": 8,
-          "magic": 7,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Singed.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 96,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 487,
-          "hpperlevel": 82,
-          "mp": 260,
-          "mpperlevel": 45,
-          "movespeed": 345,
-          "armor": 25.5,
-          "armorperlevel": 3.5,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 125,
-          "hpregen": 7.65,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.15,
-          "mpregenperlevel": 0.55,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 60.025,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.81,
-          "attackspeed": 0.613
-        }
-      },
-      "Jade_Sion": {
-        "version": "16.15.1",
-        "id": "Jade_Sion",
-        "key": "60014",
-        "name": "亡灵勇士",
-        "title": "赛恩",
-        "blurb": "- 技能完全不同。阅读描述<br>- 赛恩可以出法术强度和攻击力装备<br>- 输出型英雄，而非坦克",
-        "info": {
-          "attack": 5,
-          "defense": 9,
-          "magic": 3,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Sion.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 144,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Fighter"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 507,
-          "hpperlevel": 104,
-          "mp": 240,
-          "mpperlevel": 40,
-          "movespeed": 345,
-          "armor": 25,
-          "armorperlevel": 3.25,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.85,
-          "hpregenperlevel": 0.95,
-          "mpregen": 6.7,
-          "mpregenperlevel": 0.4,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 58.7075,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 1.63,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Sivir": {
-        "version": "16.15.1",
-        "id": "Jade_Sivir",
-        "key": "60015",
-        "name": "战争女神",
-        "title": "希维尔",
-        "blurb": "- 弹射(W)可激活或关闭随机弹射攻击<br>- 法术护盾(E)触发时获得法力值而非生命值",
-        "info": {
-          "attack": 9,
-          "defense": 3,
-          "magic": 1,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Sivir.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 192,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 460,
-          "hpperlevel": 82,
-          "mp": 246,
-          "mpperlevel": 43,
-          "movespeed": 335,
-          "armor": 20,
-          "armorperlevel": 3.25,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 425,
-          "hpregen": 4.8,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 52,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.28,
-          "attackspeed": 0.679
-        }
-      },
-      "Jade_Skarner": {
-        "version": "16.15.1",
-        "id": "Jade_Skarner",
-        "key": "60072",
-        "name": "水晶先锋",
-        "title": "斯卡纳",
-        "blurb": "- 技能完全不同<br>- 成为战士和普通攻击英雄<br>- 晶状毒刺(R)成为单体点选型技能",
-        "info": {
-          "attack": 7,
-          "defense": 8,
-          "magic": 5,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Skarner.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 240,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Tank",
-          "Fighter"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 536,
-          "hpperlevel": 96,
-          "mp": 245,
-          "mpperlevel": 40,
-          "movespeed": 345,
-          "armor": 26.8,
-          "armorperlevel": 3.8,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 8.35,
-          "hpregenperlevel": 0.85,
-          "mpregen": 6.9,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 58.3,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.1,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Sona": {
-        "version": "16.15.1",
-        "id": "Jade_Sona",
-        "key": "60037",
-        "name": "琴瑟仙女",
-        "title": "娑娜",
-        "blurb": "- 基础技能的光环效果会持续生效<br>- 能量和弦(被动)会造成额外伤害<br>- 狂舞终乐章(R)的范围更广",
-        "info": {
-          "attack": 5,
-          "defense": 2,
-          "magic": 8,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Sona.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 288,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 450,
-          "hpperlevel": 70,
-          "mp": 310,
-          "mpperlevel": 45,
-          "movespeed": 330,
-          "armor": 15.3,
-          "armorperlevel": 3.3,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.65,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 50,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.3,
-          "attackspeed": 0.644
-        }
-      },
-      "Jade_Soraka": {
-        "version": "16.15.1",
-        "id": "Jade_Soraka",
-        "key": "60016",
-        "name": "众星之子",
-        "title": "索拉卡",
-        "blurb": "- 除终极技能祈愿(R)之外，其他技能完全不同<br>- 可走单人路<br>- 拥有点选型沉默效果",
-        "info": {
-          "attack": 2,
-          "defense": 5,
-          "magic": 7,
-          "difficulty": 3
-        },
-        "image": {
-          "full": "Jade_Soraka.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 336,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 446,
-          "hpperlevel": 71,
-          "mp": 300,
-          "mpperlevel": 60,
-          "movespeed": 335,
-          "armor": 15.2,
-          "armorperlevel": 3.8,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 7.45,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 51.8,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.14,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Taric": {
-        "version": "16.15.1",
-        "id": "Jade_Taric",
-        "key": "60044",
-        "name": "宝石骑士",
-        "title": "塔里克",
-        "blurb": "- 技能完全不同。阅读描述<br>- 可走单人路，也可以尝试打野",
-        "info": {
-          "attack": 4,
-          "defense": 8,
-          "magic": 5,
-          "difficulty": 3
-        },
-        "image": {
-          "full": "Jade_Taric.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 384,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 558,
-          "hpperlevel": 90,
-          "mp": 311,
-          "mpperlevel": 56,
-          "movespeed": 340,
-          "armor": 23.7,
-          "armorperlevel": 3.2,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.6,
-          "hpregenperlevel": 0.5,
-          "mpregen": 4.5,
-          "mpregenperlevel": 0.4,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 55.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.02,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Teemo": {
-        "version": "16.15.1",
-        "id": "Jade_Teemo",
-        "key": "60017",
-        "name": "迅捷斥候",
-        "title": "提莫",
-        "blurb": "- 种蘑菇(R)不会弹跳",
-        "info": {
-          "attack": 5,
-          "defense": 3,
-          "magic": 7,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Teemo.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 432,
-          "y": 0,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 460,
-          "hpperlevel": 82,
-          "mp": 240,
-          "mpperlevel": 40,
-          "movespeed": 330,
-          "armor": 21.75,
-          "armorperlevel": 3.75,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 500,
-          "hpregen": 5.3,
-          "hpregenperlevel": 0.65,
-          "mpregen": 6.9,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 47.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.38,
-          "attackspeed": 0.69
-        }
-      },
-      "Jade_Tristana": {
-        "version": "16.15.1",
-        "id": "Jade_Tristana",
-        "key": "60018",
-        "name": "麦林炮手",
-        "title": "崔丝塔娜",
-        "blurb": "- 爆炸射击(E)成为持续伤害技能",
-        "info": {
-          "attack": 9,
-          "defense": 3,
-          "magic": 5,
-          "difficulty": 4
-        },
-        "image": {
-          "full": "Jade_Tristana.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 0,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 497,
-          "hpperlevel": 82,
-          "mp": 225,
-          "mpperlevel": 32,
-          "movespeed": 325,
-          "armor": 22,
-          "armorperlevel": 3,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.75,
-          "hpregenperlevel": 0.65,
-          "mpregen": 6.9,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 49.5,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 4,
-          "attackspeed": 0.656
-        }
-      },
-      "Jade_Tryndamere": {
-        "version": "16.15.1",
-        "id": "Jade_Tryndamere",
-        "key": "60023",
-        "name": "蛮族之王",
-        "title": "泰达米尔",
-        "blurb": "- 他发起怒来实在太可怕了，以至于我们不敢改动他。",
-        "info": {
-          "attack": 10,
-          "defense": 5,
-          "magic": 2,
-          "difficulty": 5
-        },
-        "image": {
-          "full": "Jade_Tryndamere.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 48,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Assassin"
-        ],
-        "partype": "怒气",
-        "stats": {
-          "hp": 559,
-          "hpperlevel": 95,
-          "mp": 8,
-          "mpperlevel": 0,
-          "movespeed": 345,
-          "armor": 22,
-          "armorperlevel": 3.1,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 10,
-          "hpregenperlevel": 0.9,
-          "mpregen": 0,
-          "mpregenperlevel": 0,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 60,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.9,
-          "attackspeed": 0.67
-        }
-      },
-      "Jade_TwistedFate": {
-        "version": "16.15.1",
-        "id": "Jade_TwistedFate",
-        "key": "60004",
-        "name": "卡牌大师",
-        "title": "崔斯特",
-        "blurb": "- 传送之门(E)是全图传送<br>- 命运(R)是全图减速和显形<br>- 灌铅骰子(被动)在击杀时为所有队友和自身提供金币",
-        "info": {
-          "attack": 6,
-          "defense": 2,
-          "magic": 6,
-          "difficulty": 9
-        },
-        "image": {
-          "full": "Jade_TwistedFate.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 96,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage",
-          "Marksman"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 466,
-          "hpperlevel": 82,
-          "mp": 240,
-          "mpperlevel": 38,
-          "movespeed": 330,
-          "armor": 18.4,
-          "armorperlevel": 3.15,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 525,
-          "hpregen": 5.1,
-          "hpregenperlevel": 0.6,
-          "mpregen": 7,
-          "mpregenperlevel": 0.5,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 49.71,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.22,
-          "attackspeed": 0.651
-        }
-      },
-      "Jade_Twitch": {
-        "version": "16.15.1",
-        "id": "Jade_Twitch",
-        "key": "60029",
-        "name": "瘟疫之源",
-        "title": "图奇",
-        "blurb": "- 衰弱毒药(W)是以他为中心的范围伤害技能<br>- 隐秘伏击(Q)持续时间最长可达50秒<br>- 毁灭印记(E)会移除敌人身上的中毒层数",
-        "info": {
-          "attack": 9,
-          "defense": 2,
-          "magic": 3,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Twitch.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 144,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 470,
-          "hpperlevel": 81,
-          "mp": 260,
-          "mpperlevel": 40,
-          "movespeed": 330,
-          "armor": 21,
-          "armorperlevel": 3,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.6,
-          "hpregenperlevel": 0.6,
-          "mpregen": 6.95,
-          "mpregenperlevel": 0.45,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 52,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.38,
-          "attackspeed": 0.679
-        }
-      },
-      "Jade_Vayne": {
-        "version": "16.15.1",
-        "id": "Jade_Vayne",
-        "key": "60067",
-        "name": "暗夜猎手",
-        "title": "薇恩",
-        "blurb": "- 终极时刻(R)无法延长",
-        "info": {
-          "attack": 10,
-          "defense": 1,
-          "magic": 1,
-          "difficulty": 8
-        },
-        "image": {
-          "full": "Jade_Vayne.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 192,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Marksman",
-          "Assassin"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 442,
-          "hpperlevel": 83,
-          "mp": 208,
-          "mpperlevel": 35,
-          "movespeed": 330,
-          "armor": 16.7,
-          "armorperlevel": 3.4,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 550,
-          "hpregen": 5.05,
-          "hpregenperlevel": 0.55,
-          "mpregen": 6.7,
-          "mpregenperlevel": 0.4,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 53.25,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3.1,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_Veigar": {
-        "version": "16.15.1",
-        "id": "Jade_Veigar",
-        "key": "60045",
-        "name": "邪恶小法师",
-        "title": "维迦",
-        "blurb": "- 黑暗祭祀(Q)为指向性技能<br>- 扭曲空间(E)为瞬发技能<br>- 均衡(被动)的法力回复会根据已损失法力值提升",
-        "info": {
-          "attack": 2,
-          "defense": 2,
-          "magic": 10,
-          "difficulty": 7
-        },
-        "image": {
-          "full": "Jade_Veigar.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 240,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 437,
-          "hpperlevel": 82,
-          "mp": 305,
-          "mpperlevel": 55,
-          "movespeed": 340,
-          "armor": 19.75,
-          "armorperlevel": 3.75,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 525,
-          "hpregen": 5.15,
-          "hpregenperlevel": 0.5,
-          "mpregen": 7.5,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 50.65,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2,
-          "attackspeed": 0.625
-        }
-      },
-      "Jade_Warwick": {
-        "version": "16.15.1",
-        "id": "Jade_Warwick",
-        "key": "60019",
-        "name": "嗜血猎手",
-        "title": "沃里克",
-        "blurb": "- 技能完全不同<br>- 无尽束缚(R)为点选型压制技能",
-        "info": {
-          "attack": 9,
-          "defense": 5,
-          "magic": 3,
-          "difficulty": 3
-        },
-        "image": {
-          "full": "Jade_Warwick.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 288,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 526,
-          "hpperlevel": 98,
-          "mp": 220,
-          "mpperlevel": 30,
-          "movespeed": 345,
-          "armor": 23.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 125,
-          "hpregen": 7.85,
-          "hpregenperlevel": 0.8,
-          "mpregen": 7.7,
-          "mpregenperlevel": 0.6,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 60.135,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.88,
-          "attackspeed": 0.679
-        }
-      },
-      "Jade_Wukong": {
-        "version": "16.15.1",
-        "id": "Jade_Wukong",
-        "key": "60062",
-        "name": "齐天大圣",
-        "title": "",
-        "blurb": "",
-        "info": {
-          "attack": 8,
-          "defense": 5,
-          "magic": 2,
-          "difficulty": 3
-        },
-        "image": {
-          "full": "Jade_Wukong.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 336,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Fighter",
-          "Tank"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 520,
-          "hpperlevel": 85,
-          "mp": 240,
-          "mpperlevel": 38,
-          "movespeed": 345,
-          "armor": 22.5,
-          "armorperlevel": 3.5,
-          "spellblock": 31.25,
-          "spellblockperlevel": 1.25,
-          "attackrange": 175,
-          "hpregen": 5.75,
-          "hpregenperlevel": 0.65,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 57.7,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 3,
-          "attackspeed": 0.658
-        }
-      },
-      "Jade_Zilean": {
-        "version": "16.15.1",
-        "id": "Jade_Zilean",
-        "key": "60026",
-        "name": "时光守护者",
-        "title": "基兰",
-        "blurb": "- 定时炸弹(Q)为点选型技能<br>- 强化学习(被动)为全队提供经验",
-        "info": {
-          "attack": 2,
-          "defense": 5,
-          "magic": 8,
-          "difficulty": 6
-        },
-        "image": {
-          "full": "Jade_Zilean.png",
-          "sprite": "champion3.png",
-          "group": "champion",
-          "x": 384,
-          "y": 48,
-          "w": 48,
-          "h": 48
-        },
-        "tags": [
-          "Support",
-          "Mage"
-        ],
-        "partype": "法力",
-        "stats": {
-          "hp": 451,
-          "hpperlevel": 71,
-          "mp": 320,
-          "mpperlevel": 60,
-          "movespeed": 335,
-          "armor": 14.55,
-          "armorperlevel": 3.8,
-          "spellblock": 30,
-          "spellblockperlevel": 0,
-          "attackrange": 600,
-          "hpregen": 5.1,
-          "hpregenperlevel": 0.5,
-          "mpregen": 7.6,
-          "mpregenperlevel": 0.65,
-          "crit": 0,
-          "critperlevel": 0,
-          "attackdamage": 51.6,
-          "attackdamageperlevel": 0,
-          "attackspeedperlevel": 2.13,
-          "attackspeed": 0.625
-        }
-      },
       "Janna": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Janna",
         "key": "40",
         "name": "风暴之怒",
@@ -5449,7 +2458,7 @@
         },
         "image": {
           "full": "Janna.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 432,
           "y": 48,
@@ -5485,7 +2494,7 @@
         }
       },
       "JarvanIV": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "JarvanIV",
         "key": "59",
         "name": "德玛西亚皇子",
@@ -5499,7 +2508,7 @@
         },
         "image": {
           "full": "JarvanIV.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 0,
           "y": 96,
@@ -5535,7 +2544,7 @@
         }
       },
       "Jax": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Jax",
         "key": "24",
         "name": "武器大师",
@@ -5549,7 +2558,7 @@
         },
         "image": {
           "full": "Jax.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 48,
           "y": 96,
@@ -5584,7 +2593,7 @@
         }
       },
       "Jayce": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Jayce",
         "key": "126",
         "name": "未来守护者",
@@ -5598,7 +2607,7 @@
         },
         "image": {
           "full": "Jayce.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 96,
           "y": 96,
@@ -5634,7 +2643,7 @@
         }
       },
       "Jhin": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Jhin",
         "key": "202",
         "name": "戏命师",
@@ -5648,7 +2657,7 @@
         },
         "image": {
           "full": "Jhin.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 144,
           "y": 96,
@@ -5668,8 +2677,8 @@
           "movespeed": 330,
           "armor": 24,
           "armorperlevel": 4.7,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.75,
           "hpregenperlevel": 0.55,
@@ -5684,7 +2693,7 @@
         }
       },
       "Jinx": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Jinx",
         "key": "222",
         "name": "暴走萝莉",
@@ -5698,7 +2707,7 @@
         },
         "image": {
           "full": "Jinx.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 192,
           "y": 96,
@@ -5717,8 +2726,8 @@
           "movespeed": 325,
           "armor": 26,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 525,
           "hpregen": 3.75,
           "hpregenperlevel": 0.5,
@@ -5733,7 +2742,7 @@
         }
       },
       "Kaisa": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kaisa",
         "key": "145",
         "name": "虚空之女",
@@ -5747,7 +2756,7 @@
         },
         "image": {
           "full": "Kaisa.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 240,
           "y": 96,
@@ -5767,8 +2776,8 @@
           "movespeed": 335,
           "armor": 25,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 525,
           "hpregen": 4,
           "hpregenperlevel": 0.55,
@@ -5783,7 +2792,7 @@
         }
       },
       "Kalista": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kalista",
         "key": "429",
         "name": "复仇之矛",
@@ -5797,7 +2806,7 @@
         },
         "image": {
           "full": "Kalista.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 288,
           "y": 96,
@@ -5816,8 +2825,8 @@
           "movespeed": 330,
           "armor": 24,
           "armorperlevel": 5.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 525,
           "hpregen": 4,
           "hpregenperlevel": 0.75,
@@ -5832,7 +2841,7 @@
         }
       },
       "Karma": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Karma",
         "key": "43",
         "name": "天启者",
@@ -5846,7 +2855,7 @@
         },
         "image": {
           "full": "Karma.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 336,
           "y": 96,
@@ -5882,7 +2891,7 @@
         }
       },
       "Karthus": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Karthus",
         "key": "30",
         "name": "死亡颂唱者",
@@ -5896,7 +2905,7 @@
         },
         "image": {
           "full": "Karthus.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 384,
           "y": 96,
@@ -5931,7 +2940,7 @@
         }
       },
       "Kassadin": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kassadin",
         "key": "38",
         "name": "虚空行者",
@@ -5945,7 +2954,7 @@
         },
         "image": {
           "full": "Kassadin.png",
-          "sprite": "champion3.png",
+          "sprite": "champion1.png",
           "group": "champion",
           "x": 432,
           "y": 96,
@@ -5981,7 +2990,7 @@
         }
       },
       "Katarina": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Katarina",
         "key": "55",
         "name": "不祥之刃",
@@ -5995,7 +3004,7 @@
         },
         "image": {
           "full": "Katarina.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 0,
           "y": 0,
@@ -6031,7 +3040,7 @@
         }
       },
       "Kayle": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kayle",
         "key": "10",
         "name": "正义天使",
@@ -6045,7 +3054,7 @@
         },
         "image": {
           "full": "Kayle.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 48,
           "y": 0,
@@ -6081,7 +3090,7 @@
         }
       },
       "Kayn": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kayn",
         "key": "141",
         "name": "影流之镰",
@@ -6095,7 +3104,7 @@
         },
         "image": {
           "full": "Kayn.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 96,
           "y": 0,
@@ -6131,7 +3140,7 @@
         }
       },
       "Kennen": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kennen",
         "key": "85",
         "name": "狂暴之心",
@@ -6145,7 +3154,7 @@
         },
         "image": {
           "full": "Kennen.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 144,
           "y": 0,
@@ -6180,7 +3189,7 @@
         }
       },
       "Khazix": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Khazix",
         "key": "121",
         "name": "虚空掠夺者",
@@ -6194,7 +3203,7 @@
         },
         "image": {
           "full": "Khazix.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 192,
           "y": 0,
@@ -6229,7 +3238,7 @@
         }
       },
       "Kindred": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kindred",
         "key": "203",
         "name": "永猎双子",
@@ -6243,7 +3252,7 @@
         },
         "image": {
           "full": "Kindred.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 240,
           "y": 0,
@@ -6262,8 +3271,8 @@
           "movespeed": 325,
           "armor": 29,
           "armorperlevel": 4.7,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 500,
           "hpregen": 7,
           "hpregenperlevel": 0.55,
@@ -6278,7 +3287,7 @@
         }
       },
       "Kled": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Kled",
         "key": "240",
         "name": "暴怒骑士",
@@ -6292,7 +3301,7 @@
         },
         "image": {
           "full": "Kled.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 288,
           "y": 0,
@@ -6327,7 +3336,7 @@
         }
       },
       "KogMaw": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "KogMaw",
         "key": "96",
         "name": "深渊巨口",
@@ -6341,7 +3350,7 @@
         },
         "image": {
           "full": "KogMaw.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 336,
           "y": 0,
@@ -6361,8 +3370,8 @@
           "movespeed": 330,
           "armor": 24,
           "armorperlevel": 4.45,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 500,
           "hpregen": 3.75,
           "hpregenperlevel": 0.55,
@@ -6377,7 +3386,7 @@
         }
       },
       "KSante": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "KSante",
         "key": "897",
         "name": "纳祖芒荣耀",
@@ -6391,7 +3400,7 @@
         },
         "image": {
           "full": "KSante.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 384,
           "y": 0,
@@ -6427,7 +3436,7 @@
         }
       },
       "Leblanc": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Leblanc",
         "key": "7",
         "name": "诡术妖姬",
@@ -6441,7 +3450,7 @@
         },
         "image": {
           "full": "Leblanc.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 432,
           "y": 0,
@@ -6477,7 +3486,7 @@
         }
       },
       "LeeSin": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "LeeSin",
         "key": "64",
         "name": "盲僧",
@@ -6491,7 +3500,7 @@
         },
         "image": {
           "full": "LeeSin.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 0,
           "y": 48,
@@ -6527,7 +3536,7 @@
         }
       },
       "Leona": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Leona",
         "key": "89",
         "name": "曙光女神",
@@ -6541,7 +3550,7 @@
         },
         "image": {
           "full": "Leona.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 48,
           "y": 48,
@@ -6577,7 +3586,7 @@
         }
       },
       "Lillia": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Lillia",
         "key": "876",
         "name": "含羞蓓蕾",
@@ -6591,7 +3600,7 @@
         },
         "image": {
           "full": "Lillia.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 96,
           "y": 48,
@@ -6627,7 +3636,7 @@
         }
       },
       "Lissandra": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Lissandra",
         "key": "127",
         "name": "冰霜女巫",
@@ -6641,7 +3650,7 @@
         },
         "image": {
           "full": "Lissandra.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 144,
           "y": 48,
@@ -6676,7 +3685,7 @@
         }
       },
       "Locke": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Locke",
         "key": "805",
         "name": "灰烬驱魔人",
@@ -6690,7 +3699,7 @@
         },
         "image": {
           "full": "Locke.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 192,
           "y": 48,
@@ -6726,7 +3735,7 @@
         }
       },
       "Lucian": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Lucian",
         "key": "236",
         "name": "圣枪游侠",
@@ -6740,7 +3749,7 @@
         },
         "image": {
           "full": "Lucian.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 240,
           "y": 48,
@@ -6760,8 +3769,8 @@
           "movespeed": 335,
           "armor": 28,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 500,
           "hpregen": 3.75,
           "hpregenperlevel": 0.65,
@@ -6776,7 +3785,7 @@
         }
       },
       "Lulu": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Lulu",
         "key": "117",
         "name": "仙灵女巫",
@@ -6790,7 +3799,7 @@
         },
         "image": {
           "full": "Lulu.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 288,
           "y": 48,
@@ -6826,7 +3835,7 @@
         }
       },
       "Lux": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Lux",
         "key": "99",
         "name": "光辉女郎",
@@ -6840,7 +3849,7 @@
         },
         "image": {
           "full": "Lux.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 336,
           "y": 48,
@@ -6876,7 +3885,7 @@
         }
       },
       "Malphite": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Malphite",
         "key": "54",
         "name": "熔岩巨兽",
@@ -6890,7 +3899,7 @@
         },
         "image": {
           "full": "Malphite.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 384,
           "y": 48,
@@ -6926,7 +3935,7 @@
         }
       },
       "Malzahar": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Malzahar",
         "key": "90",
         "name": "虚空先知",
@@ -6940,7 +3949,7 @@
         },
         "image": {
           "full": "Malzahar.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 432,
           "y": 48,
@@ -6975,7 +3984,7 @@
         }
       },
       "Maokai": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Maokai",
         "key": "57",
         "name": "扭曲树精",
@@ -6989,7 +3998,7 @@
         },
         "image": {
           "full": "Maokai.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 0,
           "y": 96,
@@ -7025,7 +4034,7 @@
         }
       },
       "MasterYi": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "MasterYi",
         "key": "11",
         "name": "无极剑圣",
@@ -7039,7 +4048,7 @@
         },
         "image": {
           "full": "MasterYi.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 48,
           "y": 96,
@@ -7075,7 +4084,7 @@
         }
       },
       "Mel": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Mel",
         "key": "800",
         "name": "流光镜影",
@@ -7089,7 +4098,7 @@
         },
         "image": {
           "full": "Mel.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 96,
           "y": 96,
@@ -7125,7 +4134,7 @@
         }
       },
       "Milio": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Milio",
         "key": "902",
         "name": "明烛",
@@ -7139,7 +4148,7 @@
         },
         "image": {
           "full": "Milio.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 144,
           "y": 96,
@@ -7175,7 +4184,7 @@
         }
       },
       "MissFortune": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "MissFortune",
         "key": "21",
         "name": "赏金猎人",
@@ -7189,7 +4198,7 @@
         },
         "image": {
           "full": "MissFortune.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 192,
           "y": 96,
@@ -7209,8 +4218,8 @@
           "movespeed": 325,
           "armor": 25,
           "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.75,
           "hpregenperlevel": 0.65,
@@ -7225,7 +4234,7 @@
         }
       },
       "MonkeyKing": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "MonkeyKing",
         "key": "62",
         "name": "齐天大圣",
@@ -7239,7 +4248,7 @@
         },
         "image": {
           "full": "MonkeyKing.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 240,
           "y": 96,
@@ -7275,7 +4284,7 @@
         }
       },
       "Mordekaiser": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Mordekaiser",
         "key": "82",
         "name": "铁铠冥魂",
@@ -7289,7 +4298,7 @@
         },
         "image": {
           "full": "Mordekaiser.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 288,
           "y": 96,
@@ -7325,7 +4334,7 @@
         }
       },
       "Morgana": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Morgana",
         "key": "25",
         "name": "堕落天使",
@@ -7339,7 +4348,7 @@
         },
         "image": {
           "full": "Morgana.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 336,
           "y": 96,
@@ -7375,7 +4384,7 @@
         }
       },
       "Naafiri": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Naafiri",
         "key": "950",
         "name": "百裂冥犬",
@@ -7389,7 +4398,7 @@
         },
         "image": {
           "full": "Naafiri.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 384,
           "y": 96,
@@ -7425,7 +4434,7 @@
         }
       },
       "Nami": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nami",
         "key": "267",
         "name": "唤潮鲛姬",
@@ -7439,7 +4448,7 @@
         },
         "image": {
           "full": "Nami.png",
-          "sprite": "champion4.png",
+          "sprite": "champion2.png",
           "group": "champion",
           "x": 432,
           "y": 96,
@@ -7475,7 +4484,7 @@
         }
       },
       "Nasus": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nasus",
         "key": "75",
         "name": "沙漠死神",
@@ -7489,7 +4498,7 @@
         },
         "image": {
           "full": "Nasus.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 0,
           "y": 0,
@@ -7525,7 +4534,7 @@
         }
       },
       "Nautilus": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nautilus",
         "key": "111",
         "name": "深海泰坦",
@@ -7539,7 +4548,7 @@
         },
         "image": {
           "full": "Nautilus.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 48,
           "y": 0,
@@ -7575,7 +4584,7 @@
         }
       },
       "Neeko": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Neeko",
         "key": "518",
         "name": "万花通灵",
@@ -7589,7 +4598,7 @@
         },
         "image": {
           "full": "Neeko.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 96,
           "y": 0,
@@ -7625,7 +4634,7 @@
         }
       },
       "Nidalee": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nidalee",
         "key": "76",
         "name": "狂野女猎手",
@@ -7639,7 +4648,7 @@
         },
         "image": {
           "full": "Nidalee.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 144,
           "y": 0,
@@ -7675,7 +4684,7 @@
         }
       },
       "Nilah": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nilah",
         "key": "895",
         "name": "不羁之悦",
@@ -7689,7 +4698,7 @@
         },
         "image": {
           "full": "Nilah.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 192,
           "y": 0,
@@ -7725,7 +4734,7 @@
         }
       },
       "Nocturne": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nocturne",
         "key": "56",
         "name": "永恒梦魇",
@@ -7739,7 +4748,7 @@
         },
         "image": {
           "full": "Nocturne.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 240,
           "y": 0,
@@ -7775,7 +4784,7 @@
         }
       },
       "Nunu": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Nunu",
         "key": "20",
         "name": "雪原双子",
@@ -7789,7 +4798,7 @@
         },
         "image": {
           "full": "Nunu.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 288,
           "y": 0,
@@ -7825,7 +4834,7 @@
         }
       },
       "Olaf": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Olaf",
         "key": "2",
         "name": "狂战士",
@@ -7839,7 +4848,7 @@
         },
         "image": {
           "full": "Olaf.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 336,
           "y": 0,
@@ -7875,7 +4884,7 @@
         }
       },
       "Orianna": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Orianna",
         "key": "61",
         "name": "发条魔灵",
@@ -7889,7 +4898,7 @@
         },
         "image": {
           "full": "Orianna.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 384,
           "y": 0,
@@ -7925,7 +4934,7 @@
         }
       },
       "Ornn": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ornn",
         "key": "516",
         "name": "山隐之焰",
@@ -7939,7 +4948,7 @@
         },
         "image": {
           "full": "Ornn.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 432,
           "y": 0,
@@ -7974,7 +4983,7 @@
         }
       },
       "Pantheon": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Pantheon",
         "key": "80",
         "name": "不屈之枪",
@@ -7988,7 +4997,7 @@
         },
         "image": {
           "full": "Pantheon.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 0,
           "y": 48,
@@ -8024,7 +5033,7 @@
         }
       },
       "Poppy": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Poppy",
         "key": "78",
         "name": "圣锤之毅",
@@ -8038,7 +5047,7 @@
         },
         "image": {
           "full": "Poppy.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 48,
           "y": 48,
@@ -8053,28 +5062,28 @@
         "stats": {
           "hp": 610,
           "hpperlevel": 110,
-          "mp": 280,
-          "mpperlevel": 40,
+          "mp": 300,
+          "mpperlevel": 45,
           "movespeed": 345,
           "armor": 35,
           "armorperlevel": 5,
           "spellblock": 32,
           "spellblockperlevel": 2.05,
           "attackrange": 125,
-          "hpregen": 8,
+          "hpregen": 9,
           "hpregenperlevel": 0.8,
           "mpregen": 7,
           "mpregenperlevel": 0.7,
           "crit": 0,
           "critperlevel": 0,
-          "attackdamage": 60,
+          "attackdamage": 56,
           "attackdamageperlevel": 0,
           "attackspeedperlevel": 2.5,
           "attackspeed": 0.658
         }
       },
       "Pyke": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Pyke",
         "key": "555",
         "name": "血港鬼影",
@@ -8088,7 +5097,7 @@
         },
         "image": {
           "full": "Pyke.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 96,
           "y": 48,
@@ -8124,7 +5133,7 @@
         }
       },
       "Qiyana": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Qiyana",
         "key": "246",
         "name": "元素女皇",
@@ -8138,7 +5147,7 @@
         },
         "image": {
           "full": "Qiyana.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 144,
           "y": 48,
@@ -8173,7 +5182,7 @@
         }
       },
       "Quinn": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Quinn",
         "key": "133",
         "name": "德玛西亚之翼",
@@ -8187,7 +5196,7 @@
         },
         "image": {
           "full": "Quinn.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 192,
           "y": 48,
@@ -8207,8 +5216,8 @@
           "movespeed": 330,
           "armor": 28,
           "armorperlevel": 4.7,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 525,
           "hpregen": 5.5,
           "hpregenperlevel": 0.55,
@@ -8223,7 +5232,7 @@
         }
       },
       "Rakan": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Rakan",
         "key": "497",
         "name": "幻翎",
@@ -8237,7 +5246,7 @@
         },
         "image": {
           "full": "Rakan.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 240,
           "y": 48,
@@ -8272,7 +5281,7 @@
         }
       },
       "Rammus": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Rammus",
         "key": "33",
         "name": "披甲龙龟",
@@ -8286,7 +5295,7 @@
         },
         "image": {
           "full": "Rammus.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 288,
           "y": 48,
@@ -8321,7 +5330,7 @@
         }
       },
       "RekSai": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "RekSai",
         "key": "421",
         "name": "虚空遁地兽",
@@ -8335,7 +5344,7 @@
         },
         "image": {
           "full": "RekSai.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 336,
           "y": 48,
@@ -8371,7 +5380,7 @@
         }
       },
       "Rell": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Rell",
         "key": "526",
         "name": "镕铁少女",
@@ -8385,7 +5394,7 @@
         },
         "image": {
           "full": "Rell.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 384,
           "y": 48,
@@ -8421,7 +5430,7 @@
         }
       },
       "Renata": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Renata",
         "key": "888",
         "name": "炼金男爵",
@@ -8435,7 +5444,7 @@
         },
         "image": {
           "full": "Renata.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 432,
           "y": 48,
@@ -8471,7 +5480,7 @@
         }
       },
       "Renekton": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Renekton",
         "key": "58",
         "name": "荒漠屠夫",
@@ -8485,7 +5494,7 @@
         },
         "image": {
           "full": "Renekton.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 0,
           "y": 96,
@@ -8521,7 +5530,7 @@
         }
       },
       "Rengar": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Rengar",
         "key": "107",
         "name": "傲之追猎者",
@@ -8535,7 +5544,7 @@
         },
         "image": {
           "full": "Rengar.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 48,
           "y": 96,
@@ -8571,7 +5580,7 @@
         }
       },
       "Riven": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Riven",
         "key": "92",
         "name": "放逐之刃",
@@ -8585,7 +5594,7 @@
         },
         "image": {
           "full": "Riven.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 96,
           "y": 96,
@@ -8621,7 +5630,7 @@
         }
       },
       "Rumble": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Rumble",
         "key": "68",
         "name": "机械公敌",
@@ -8635,7 +5644,7 @@
         },
         "image": {
           "full": "Rumble.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 144,
           "y": 96,
@@ -8671,7 +5680,7 @@
         }
       },
       "Ryze": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ryze",
         "key": "13",
         "name": "符文法师",
@@ -8685,7 +5694,7 @@
         },
         "image": {
           "full": "Ryze.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 192,
           "y": 96,
@@ -8720,7 +5729,7 @@
         }
       },
       "Samira": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Samira",
         "key": "360",
         "name": "沙漠玫瑰",
@@ -8734,7 +5743,7 @@
         },
         "image": {
           "full": "Samira.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 240,
           "y": 96,
@@ -8754,8 +5763,8 @@
           "movespeed": 335,
           "armor": 26,
           "armorperlevel": 4.7,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 500,
           "hpregen": 3.25,
           "hpregenperlevel": 0.55,
@@ -8770,7 +5779,7 @@
         }
       },
       "Sejuani": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Sejuani",
         "key": "113",
         "name": "北地之怒",
@@ -8784,7 +5793,7 @@
         },
         "image": {
           "full": "Sejuani.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 288,
           "y": 96,
@@ -8819,7 +5828,7 @@
         }
       },
       "Senna": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Senna",
         "key": "235",
         "name": "涤魂圣枪",
@@ -8833,7 +5842,7 @@
         },
         "image": {
           "full": "Senna.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 336,
           "y": 96,
@@ -8853,8 +5862,8 @@
           "movespeed": 330,
           "armor": 25,
           "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 600,
           "hpregen": 3.5,
           "hpregenperlevel": 0.55,
@@ -8869,7 +5878,7 @@
         }
       },
       "Seraphine": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Seraphine",
         "key": "147",
         "name": "星籁歌姬",
@@ -8883,7 +5892,7 @@
         },
         "image": {
           "full": "Seraphine.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 384,
           "y": 96,
@@ -8919,7 +5928,7 @@
         }
       },
       "Sett": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Sett",
         "key": "875",
         "name": "腕豪",
@@ -8933,7 +5942,7 @@
         },
         "image": {
           "full": "Sett.png",
-          "sprite": "champion5.png",
+          "sprite": "champion3.png",
           "group": "champion",
           "x": 432,
           "y": 96,
@@ -8969,7 +5978,7 @@
         }
       },
       "Shaco": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Shaco",
         "key": "35",
         "name": "恶魔小丑",
@@ -8983,7 +5992,7 @@
         },
         "image": {
           "full": "Shaco.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 0,
           "y": 0,
@@ -9018,7 +6027,7 @@
         }
       },
       "Shen": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Shen",
         "key": "98",
         "name": "暮光之眼",
@@ -9032,7 +6041,7 @@
         },
         "image": {
           "full": "Shen.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 48,
           "y": 0,
@@ -9067,7 +6076,7 @@
         }
       },
       "Shyvana": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Shyvana",
         "key": "102",
         "name": "龙血武姬",
@@ -9081,7 +6090,7 @@
         },
         "image": {
           "full": "Shyvana.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 96,
           "y": 0,
@@ -9117,7 +6126,7 @@
         }
       },
       "Singed": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Singed",
         "key": "27",
         "name": "炼金术士",
@@ -9131,7 +6140,7 @@
         },
         "image": {
           "full": "Singed.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 144,
           "y": 0,
@@ -9167,7 +6176,7 @@
         }
       },
       "Sion": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Sion",
         "key": "14",
         "name": "亡灵战神",
@@ -9181,7 +6190,7 @@
         },
         "image": {
           "full": "Sion.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 192,
           "y": 0,
@@ -9217,7 +6226,7 @@
         }
       },
       "Sivir": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Sivir",
         "key": "15",
         "name": "战争女神",
@@ -9231,7 +6240,7 @@
         },
         "image": {
           "full": "Sivir.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 240,
           "y": 0,
@@ -9250,8 +6259,8 @@
           "movespeed": 335,
           "armor": 30,
           "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 500,
           "hpregen": 3.25,
           "hpregenperlevel": 0.55,
@@ -9266,7 +6275,7 @@
         }
       },
       "Skarner": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Skarner",
         "key": "72",
         "name": "上古领主",
@@ -9280,7 +6289,7 @@
         },
         "image": {
           "full": "Skarner.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 288,
           "y": 0,
@@ -9316,7 +6325,7 @@
         }
       },
       "Smolder": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Smolder",
         "key": "901",
         "name": "炽炎雏龙",
@@ -9330,7 +6339,7 @@
         },
         "image": {
           "full": "Smolder.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 336,
           "y": 0,
@@ -9350,8 +6359,8 @@
           "movespeed": 330,
           "armor": 24,
           "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.75,
           "hpregenperlevel": 0.6,
@@ -9366,7 +6375,7 @@
         }
       },
       "Sona": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Sona",
         "key": "37",
         "name": "琴瑟仙女",
@@ -9380,7 +6389,7 @@
         },
         "image": {
           "full": "Sona.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 384,
           "y": 0,
@@ -9416,7 +6425,7 @@
         }
       },
       "Soraka": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Soraka",
         "key": "16",
         "name": "众星之子",
@@ -9430,7 +6439,7 @@
         },
         "image": {
           "full": "Soraka.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 432,
           "y": 0,
@@ -9466,7 +6475,7 @@
         }
       },
       "Swain": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Swain",
         "key": "50",
         "name": "诺克萨斯统领",
@@ -9480,7 +6489,7 @@
         },
         "image": {
           "full": "Swain.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 0,
           "y": 48,
@@ -9516,7 +6525,7 @@
         }
       },
       "Sylas": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Sylas",
         "key": "517",
         "name": "解脱者",
@@ -9530,7 +6539,7 @@
         },
         "image": {
           "full": "Sylas.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 48,
           "y": 48,
@@ -9566,7 +6575,7 @@
         }
       },
       "Syndra": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Syndra",
         "key": "134",
         "name": "暗黑元首",
@@ -9580,7 +6589,7 @@
         },
         "image": {
           "full": "Syndra.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 96,
           "y": 48,
@@ -9615,7 +6624,7 @@
         }
       },
       "TahmKench": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "TahmKench",
         "key": "223",
         "name": "河流之王",
@@ -9629,7 +6638,7 @@
         },
         "image": {
           "full": "TahmKench.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 144,
           "y": 48,
@@ -9665,7 +6674,7 @@
         }
       },
       "Taliyah": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Taliyah",
         "key": "163",
         "name": "岩雀",
@@ -9679,7 +6688,7 @@
         },
         "image": {
           "full": "Taliyah.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 192,
           "y": 48,
@@ -9715,7 +6724,7 @@
         }
       },
       "Talon": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Talon",
         "key": "91",
         "name": "刀锋之影",
@@ -9729,7 +6738,7 @@
         },
         "image": {
           "full": "Talon.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 240,
           "y": 48,
@@ -9764,7 +6773,7 @@
         }
       },
       "Taric": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Taric",
         "key": "44",
         "name": "瓦洛兰之盾",
@@ -9778,7 +6787,7 @@
         },
         "image": {
           "full": "Taric.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 288,
           "y": 48,
@@ -9814,7 +6823,7 @@
         }
       },
       "Teemo": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Teemo",
         "key": "17",
         "name": "迅捷斥候",
@@ -9828,7 +6837,7 @@
         },
         "image": {
           "full": "Teemo.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 336,
           "y": 48,
@@ -9864,7 +6873,7 @@
         }
       },
       "Thresh": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Thresh",
         "key": "412",
         "name": "魂锁典狱长",
@@ -9878,7 +6887,7 @@
         },
         "image": {
           "full": "Thresh.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 384,
           "y": 48,
@@ -9914,7 +6923,7 @@
         }
       },
       "Tristana": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Tristana",
         "key": "18",
         "name": "麦林炮手",
@@ -9928,7 +6937,7 @@
         },
         "image": {
           "full": "Tristana.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 432,
           "y": 48,
@@ -9948,8 +6957,8 @@
           "movespeed": 325,
           "armor": 30,
           "armorperlevel": 4,
-          "spellblock": 28,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 4,
           "hpregenperlevel": 0.5,
@@ -9964,7 +6973,7 @@
         }
       },
       "Trundle": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Trundle",
         "key": "48",
         "name": "巨魔之王",
@@ -9978,7 +6987,7 @@
         },
         "image": {
           "full": "Trundle.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 0,
           "y": 96,
@@ -10014,7 +7023,7 @@
         }
       },
       "Tryndamere": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Tryndamere",
         "key": "23",
         "name": "蛮族之王",
@@ -10028,7 +7037,7 @@
         },
         "image": {
           "full": "Tryndamere.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 48,
           "y": 96,
@@ -10064,7 +7073,7 @@
         }
       },
       "TwistedFate": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "TwistedFate",
         "key": "4",
         "name": "卡牌大师",
@@ -10078,7 +7087,7 @@
         },
         "image": {
           "full": "TwistedFate.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 96,
           "y": 96,
@@ -10114,7 +7123,7 @@
         }
       },
       "Twitch": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Twitch",
         "key": "29",
         "name": "瘟疫之源",
@@ -10128,7 +7137,7 @@
         },
         "image": {
           "full": "Twitch.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 144,
           "y": 96,
@@ -10148,8 +7157,8 @@
           "movespeed": 330,
           "armor": 27,
           "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.75,
           "hpregenperlevel": 0.6,
@@ -10164,7 +7173,7 @@
         }
       },
       "Udyr": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Udyr",
         "key": "77",
         "name": "兽灵行者",
@@ -10178,7 +7187,7 @@
         },
         "image": {
           "full": "Udyr.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 192,
           "y": 96,
@@ -10214,7 +7223,7 @@
         }
       },
       "Urgot": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Urgot",
         "key": "6",
         "name": "无畏战车",
@@ -10228,7 +7237,7 @@
         },
         "image": {
           "full": "Urgot.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 240,
           "y": 96,
@@ -10264,7 +7273,7 @@
         }
       },
       "Varus": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Varus",
         "key": "110",
         "name": "惩戒之箭",
@@ -10278,7 +7287,7 @@
         },
         "image": {
           "full": "Varus.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 288,
           "y": 96,
@@ -10298,8 +7307,8 @@
           "movespeed": 330,
           "armor": 24,
           "armorperlevel": 4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 575,
           "hpregen": 3.5,
           "hpregenperlevel": 0.55,
@@ -10314,7 +7323,7 @@
         }
       },
       "Vayne": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Vayne",
         "key": "67",
         "name": "暗夜猎手",
@@ -10328,7 +7337,7 @@
         },
         "image": {
           "full": "Vayne.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 336,
           "y": 96,
@@ -10348,8 +7357,8 @@
           "movespeed": 330,
           "armor": 23,
           "armorperlevel": 4.6,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.5,
           "hpregenperlevel": 0.55,
@@ -10364,7 +7373,7 @@
         }
       },
       "Veigar": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Veigar",
         "key": "45",
         "name": "邪恶小法师",
@@ -10378,7 +7387,7 @@
         },
         "image": {
           "full": "Veigar.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 384,
           "y": 96,
@@ -10413,7 +7422,7 @@
         }
       },
       "Velkoz": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Velkoz",
         "key": "161",
         "name": "虚空之眼",
@@ -10427,7 +7436,7 @@
         },
         "image": {
           "full": "Velkoz.png",
-          "sprite": "champion6.png",
+          "sprite": "champion4.png",
           "group": "champion",
           "x": 432,
           "y": 96,
@@ -10463,7 +7472,7 @@
         }
       },
       "Vex": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Vex",
         "key": "711",
         "name": "愁云使者",
@@ -10477,7 +7486,7 @@
         },
         "image": {
           "full": "Vex.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 0,
           "y": 0,
@@ -10512,7 +7521,7 @@
         }
       },
       "Vi": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Vi",
         "key": "254",
         "name": "皮城执法官",
@@ -10526,7 +7535,7 @@
         },
         "image": {
           "full": "Vi.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 48,
           "y": 0,
@@ -10562,7 +7571,7 @@
         }
       },
       "Viego": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Viego",
         "key": "234",
         "name": "破败之王",
@@ -10576,7 +7585,7 @@
         },
         "image": {
           "full": "Viego.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 96,
           "y": 0,
@@ -10612,7 +7621,7 @@
         }
       },
       "Viktor": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Viktor",
         "key": "112",
         "name": "奥术先驱",
@@ -10626,7 +7635,7 @@
         },
         "image": {
           "full": "Viktor.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 144,
           "y": 0,
@@ -10661,7 +7670,7 @@
         }
       },
       "Vladimir": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Vladimir",
         "key": "8",
         "name": "猩红收割者",
@@ -10675,7 +7684,7 @@
         },
         "image": {
           "full": "Vladimir.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 192,
           "y": 0,
@@ -10711,7 +7720,7 @@
         }
       },
       "Volibear": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Volibear",
         "key": "106",
         "name": "不灭狂雷",
@@ -10725,7 +7734,7 @@
         },
         "image": {
           "full": "Volibear.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 240,
           "y": 0,
@@ -10761,7 +7770,7 @@
         }
       },
       "Warwick": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Warwick",
         "key": "19",
         "name": "祖安怒兽",
@@ -10775,7 +7784,7 @@
         },
         "image": {
           "full": "Warwick.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 288,
           "y": 0,
@@ -10811,7 +7820,7 @@
         }
       },
       "Xayah": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Xayah",
         "key": "498",
         "name": "逆羽",
@@ -10825,7 +7834,7 @@
         },
         "image": {
           "full": "Xayah.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 336,
           "y": 0,
@@ -10844,8 +7853,8 @@
           "movespeed": 330,
           "armor": 25,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 525,
           "hpregen": 3.25,
           "hpregenperlevel": 0.75,
@@ -10860,7 +7869,7 @@
         }
       },
       "Xerath": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Xerath",
         "key": "101",
         "name": "远古巫灵",
@@ -10874,7 +7883,7 @@
         },
         "image": {
           "full": "Xerath.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 384,
           "y": 0,
@@ -10910,7 +7919,7 @@
         }
       },
       "XinZhao": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "XinZhao",
         "key": "5",
         "name": "德邦总管",
@@ -10924,7 +7933,7 @@
         },
         "image": {
           "full": "XinZhao.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 432,
           "y": 0,
@@ -10960,7 +7969,7 @@
         }
       },
       "Yasuo": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Yasuo",
         "key": "157",
         "name": "疾风剑豪",
@@ -10974,7 +7983,7 @@
         },
         "image": {
           "full": "Yasuo.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 0,
           "y": 48,
@@ -11010,7 +8019,7 @@
         }
       },
       "Yone": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Yone",
         "key": "777",
         "name": "封魔剑魂",
@@ -11024,7 +8033,7 @@
         },
         "image": {
           "full": "Yone.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 48,
           "y": 48,
@@ -11060,7 +8069,7 @@
         }
       },
       "Yorick": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Yorick",
         "key": "83",
         "name": "牧魂人",
@@ -11074,7 +8083,7 @@
         },
         "image": {
           "full": "Yorick.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 96,
           "y": 48,
@@ -11110,7 +8119,7 @@
         }
       },
       "Yunara": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Yunara",
         "key": "804",
         "name": "不破之誓",
@@ -11124,7 +8133,7 @@
         },
         "image": {
           "full": "Yunara.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 144,
           "y": 48,
@@ -11143,8 +8152,8 @@
           "movespeed": 325,
           "armor": 25,
           "armorperlevel": 4.4,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 575,
           "hpregen": 4,
           "hpregenperlevel": 0.55,
@@ -11159,7 +8168,7 @@
         }
       },
       "Yuumi": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Yuumi",
         "key": "350",
         "name": "魔法猫咪",
@@ -11173,7 +8182,7 @@
         },
         "image": {
           "full": "Yuumi.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 192,
           "y": 48,
@@ -11209,7 +8218,7 @@
         }
       },
       "Zaahen": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zaahen",
         "key": "904",
         "name": "不落魔锋",
@@ -11223,7 +8232,7 @@
         },
         "image": {
           "full": "Zaahen.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 240,
           "y": 48,
@@ -11259,7 +8268,7 @@
         }
       },
       "Zac": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zac",
         "key": "154",
         "name": "生化魔人",
@@ -11273,7 +8282,7 @@
         },
         "image": {
           "full": "Zac.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 288,
           "y": 48,
@@ -11309,7 +8318,7 @@
         }
       },
       "Zed": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zed",
         "key": "238",
         "name": "影流之主",
@@ -11323,7 +8332,7 @@
         },
         "image": {
           "full": "Zed.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 336,
           "y": 48,
@@ -11358,7 +8367,7 @@
         }
       },
       "Zeri": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zeri",
         "key": "221",
         "name": "祖安花火",
@@ -11372,7 +8381,7 @@
         },
         "image": {
           "full": "Zeri.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 384,
           "y": 48,
@@ -11391,8 +8400,8 @@
           "movespeed": 330,
           "armor": 24,
           "armorperlevel": 4.2,
-          "spellblock": 30,
-          "spellblockperlevel": 1.3,
+          "spellblock": 33,
+          "spellblockperlevel": 1.1,
           "attackrange": 550,
           "hpregen": 3.25,
           "hpregenperlevel": 0.7,
@@ -11407,7 +8416,7 @@
         }
       },
       "Ziggs": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Ziggs",
         "key": "115",
         "name": "爆破鬼才",
@@ -11421,7 +8430,7 @@
         },
         "image": {
           "full": "Ziggs.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 432,
           "y": 48,
@@ -11456,7 +8465,7 @@
         }
       },
       "Zilean": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zilean",
         "key": "26",
         "name": "时光守护者",
@@ -11470,7 +8479,7 @@
         },
         "image": {
           "full": "Zilean.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 0,
           "y": 96,
@@ -11506,7 +8515,7 @@
         }
       },
       "Zoe": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zoe",
         "key": "142",
         "name": "暮光星灵",
@@ -11520,7 +8529,7 @@
         },
         "image": {
           "full": "Zoe.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 48,
           "y": 96,
@@ -11555,7 +8564,7 @@
         }
       },
       "Zyra": {
-        "version": "16.15.1",
+        "version": "16.16.1",
         "id": "Zyra",
         "key": "143",
         "name": "荆棘之兴",
@@ -11569,7 +8578,7 @@
         },
         "image": {
           "full": "Zyra.png",
-          "sprite": "champion7.png",
+          "sprite": "champion5.png",
           "group": "champion",
           "x": 96,
           "y": 96,
@@ -11608,7 +8617,7 @@
   },
   "items": {
     "type": "item",
-    "version": "16.15.1",
+    "version": "16.16.1",
     "basic": {
       "name": "",
       "rune": {
@@ -12078,7 +9087,6 @@
           "4401",
           "4635",
           "6035",
-          "6610",
           "6660",
           "6662"
         ],
@@ -19365,7 +16373,7 @@
       },
       "223071": {
         "name": "黑色切割者",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>350</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒。(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>攻击力<br><attention>350</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>0移动速度</speed>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -19404,7 +16412,7 @@
         },
         "stats": {
           "FlatHPPoolMod": 350,
-          "FlatPhysicalDamageMod": 40
+          "FlatPhysicalDamageMod": 45
         }
       },
       "223072": {
@@ -22313,7 +19321,7 @@
       },
       "226610": {
         "name": "焚天",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>350</attention>生命值<br><attention>10</attention>技能急速</stats><br><br><passive>光盾打击</passive><br>你对一个英雄打出的第一次攻击会<attention>暴击</attention>并<healing>回复生命值</healing>。</mainText>",
+        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>400</attention>生命值<br><attention>10</attention>技能急速</stats><br><br><passive>光盾打击</passive><br>你对一个英雄打出的第一次攻击会<attention>暴击</attention>并<healing>回复生命值</healing>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -22348,7 +19356,7 @@
           "453": false
         },
         "stats": {
-          "FlatHPPoolMod": 350,
+          "FlatHPPoolMod": 400,
           "FlatPhysicalDamageMod": 40
         }
       },
@@ -23810,7 +20818,7 @@
       },
       "228005": {
         "name": "黑曜切割者",
-        "description": "<mainText><stats><ornnBonus>70</ornnBonus>攻击力<br><ornnBonus>700</ornnBonus>生命值<br><ornnBonus>40</ornnBonus>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
+        "description": "<mainText><stats><ornnBonus>70</ornnBonus>攻击力<br><ornnBonus>700</ornnBonus>生命值<br><ornnBonus>40</ornnBonus>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>0移动速度</speed>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "inStore": false,
@@ -25138,7 +22146,7 @@
       },
       "3006": {
         "name": "狂战士胫甲",
-        "description": "<mainText><stats><attention>25%</attention>攻击速度<br><attention>45</attention>移动速度</stats><br><br></mainText>",
+        "description": "<mainText><stats><attention>30%</attention>攻击速度<br><attention>45</attention>移动速度</stats><br><br></mainText>",
         "colloq": "攻速鞋;Berserker's Greaves;gongsuxie;gsx;kzsjingjia;kuangzhanshijingjia;zerker",
         "plaintext": "增强移动速度和攻击速度",
         "from": [
@@ -25180,7 +22188,7 @@
         },
         "stats": {
           "FlatMovementSpeedMod": 45,
-          "PercentAttackSpeedMod": 0.25
+          "PercentAttackSpeedMod": 0.3
         },
         "depth": 2
       },
@@ -26599,10 +23607,10 @@
           "h": 48
         },
         "gold": {
-          "base": 600,
+          "base": 700,
           "purchasable": true,
-          "total": 2700,
-          "sell": 1890
+          "total": 2800,
+          "sell": 1960
         },
         "tags": [
           "Health",
@@ -26672,7 +23680,7 @@
       },
       "3071": {
         "name": "黑色切割者",
-        "description": "<mainText><stats><attention>40</attention>攻击力<br><attention>400</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>20移动速度</speed>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>攻击力<br><attention>400</attention>生命值<br><attention>20</attention>技能急速</stats><br><br><passive>切割</passive><br>对英雄造成<physicalDamage>物理伤害</physicalDamage>时会将该目标的<scaleArmor>护甲降低6%</scaleArmor>，持续6秒(可叠加5次)。<br><br><passive>热烈</passive><br>造成<physicalDamage>物理伤害</physicalDamage>时会提供持续2秒的<speed>0移动速度</speed>。</mainText>",
         "colloq": ";黑切;切割者;应对坦克;克制坦克;穿透;Black Cleaver;heiseqiegezhe;hsqgz",
         "plaintext": "对敌人造成物理伤害时会减少目标的护甲",
         "from": [
@@ -26716,7 +23724,7 @@
         },
         "stats": {
           "FlatHPPoolMod": 400,
-          "FlatPhysicalDamageMod": 40
+          "FlatPhysicalDamageMod": 45
         },
         "depth": 3
       },
@@ -26956,7 +23964,7 @@
       },
       "3077": {
         "name": "提亚马特",
-        "description": "<mainText><stats><attention>20</attention>攻击力</stats><br><br><passive>顺劈</passive><br>攻击会对附近的敌人们造成<physicalDamage>物理伤害</physicalDamage>。<br><active>新月</active><br>对你周围的敌人们造成<physicalDamage>物理伤害</physicalDamage>。</mainText>",
+        "description": "<mainText><stats><attention>25</attention>攻击力</stats><br><br><passive>顺劈</passive><br>攻击会对附近的敌人们造成<physicalDamage>物理伤害</physicalDamage>。<br><active>新月</active><br>对你周围的敌人们造成<physicalDamage>物理伤害</physicalDamage>。</mainText>",
         "colloq": ";tiyamate;tymt;Tiamat",
         "plaintext": "近战攻击会命中身边的敌人",
         "from": [
@@ -26999,7 +24007,7 @@
           "453": true
         },
         "stats": {
-          "FlatPhysicalDamageMod": 20
+          "FlatPhysicalDamageMod": 25
         },
         "depth": 2
       },
@@ -27198,7 +24206,7 @@
       },
       "3085": {
         "name": "卢安娜的飓风",
-        "description": "<mainText><stats><attention>40%</attention>攻击速度<br><attention>25%</attention>暴击几率<br><attention>4%</attention>移动速度</stats><br><br><passive>风怒</passive><br>攻击对目标附近的2个额外敌人发射弩箭。<br>每根弩箭造成<physicalDamage>物理伤害</physicalDamage>并施加<OnHit>攻击特效</OnHit>。</mainText>",
+        "description": "<mainText><stats><attention>40%</attention>攻击速度<br><attention>25%</attention>暴击几率<br><attention>5%</attention>移动速度</stats><br><br><passive>风怒</passive><br>攻击对目标附近的2个额外敌人发射弩箭。<br>每根弩箭造成<physicalDamage>物理伤害</physicalDamage>并施加<OnHit>攻击特效</OnHit>。</mainText>",
         "colloq": ";luannadejufeng;landjf;Runaan's Hurricane",
         "plaintext": "远程攻击会对目标身边的2个敌人发射弩箭",
         "from": [
@@ -27239,7 +24247,7 @@
         "stats": {
           "FlatCritChanceMod": 0.25,
           "PercentAttackSpeedMod": 0.4,
-          "PercentMovementSpeedMod": 0.04
+          "PercentMovementSpeedMod": 0.05
         },
         "effect": {
           "Effect1Amount": "0",
@@ -29756,7 +26764,7 @@
       },
       "3172": {
         "name": "炮铜胫甲",
-        "description": "<mainText><stats><attention>40%</attention>攻击速度<br><attention>45</attention>移动速度<br><attention>5%</attention>生命偷取</stats><br><br><passive>诺克萨斯的步法</passive><br>对英雄的普攻会提供在2秒内持续衰减的<speed>移动速度</speed> <OnHit>攻击特效</OnHit>。</mainText>",
+        "description": "<mainText><stats><attention>45%</attention>攻击速度<br><attention>45</attention>移动速度<br><attention>5%</attention>生命偷取</stats><br><br></mainText>",
         "colloq": ";lingfeng;Zephyr",
         "plaintext": "机动和韧性",
         "from": [
@@ -29794,14 +26802,14 @@
         },
         "stats": {
           "FlatMovementSpeedMod": 45,
-          "PercentAttackSpeedMod": 0.4,
+          "PercentAttackSpeedMod": 0.45,
           "PercentLifeStealMod": 0.05
         },
         "depth": 3
       },
       "3173": {
         "name": "带链碾碎者",
-        "description": "<mainText><stats><attention>30</attention>魔法抗性<br><attention>45</attention>移动速度<br><attention>30%</attention>韧性</stats><br><br><passive>诺克萨斯的不懈</passive>(0秒)<br>在受到来自英雄的魔法伤害后，获得一个持续5秒的<shield>0</shield><magicDamage>魔法</magicDamage><shield>护盾</shield>。</mainText>",
+        "description": "<mainText><stats><attention>25</attention>魔法抗性<br><attention>45</attention>移动速度<br><attention>30%</attention>韧性</stats><br><br><passive>诺克萨斯的不懈</passive>(0秒)<br>在受到来自英雄的魔法伤害后，获得一个持续5秒的<shield>0</shield><magicDamage>魔法</magicDamage><shield>护盾</shield>。</mainText>",
         "colloq": ";yilishadeqiji;ylsdqj",
         "plaintext": "提升移动速度和冷却缩减",
         "from": [
@@ -29839,7 +26847,7 @@
           "453": true
         },
         "stats": {
-          "FlatSpellBlockMod": 30,
+          "FlatSpellBlockMod": 25,
           "FlatMovementSpeedMod": 45
         },
         "depth": 3
@@ -29889,7 +26897,7 @@
       },
       "3175": {
         "name": "灵能使之靴",
-        "description": "<mainText><stats><attention>18</attention>法术穿透<br><attention>8%</attention>法术穿透<br><attention>45</attention>移动速度</stats><br><br></mainText>",
+        "description": "<mainText><stats><attention>20</attention>法术穿透<br><attention>8%</attention>法术穿透<br><attention>45</attention>移动速度</stats><br><br></mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -37795,13 +34803,12 @@
       },
       "6610": {
         "name": "焚天",
-        "description": "<mainText><stats><attention>45</attention>攻击力<br><attention>400</attention>生命值<br><attention>10</attention>技能急速</stats><br><br><passive>光盾打击</passive><br>你对一个英雄打出的第一次攻击会<attention>暴击</attention>并<healing>回复生命值</healing>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>攻击力<br><attention>450</attention>生命值<br><attention>10</attention>技能急速</stats><br><br><passive>光盾打击</passive><br>你对一个英雄打出的第一次攻击会<attention>暴击</attention>并<healing>回复生命值</healing>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
           "2021",
-          "3133",
-          "1028"
+          "3133"
         ],
         "image": {
           "full": "6610.png",
@@ -37813,7 +34820,7 @@
           "h": 48
         },
         "gold": {
-          "base": 500,
+          "base": 900,
           "purchasable": true,
           "total": 3100,
           "sell": 2170
@@ -37835,7 +34842,7 @@
           "453": true
         },
         "stats": {
-          "FlatHPPoolMod": 400,
+          "FlatHPPoolMod": 450,
           "FlatPhysicalDamageMod": 45
         },
         "depth": 3
@@ -42860,7 +39867,7 @@
       },
       "773035": {
         "name": "最后的轻语",
-        "description": "<mainText><stats><attention>40</attention>攻击力</stats><br><br><jadeUnique>穿刺齐射：</jadeUnique>你无视对手<armorPen>35%</armorPen>的护甲。</mainText>",
+        "description": "<mainText><stats><attention>40</attention>攻击力</stats><br><br><jadeUnique>穿刺齐射：</jadeUnique>你无视对手<armorPen>35%</armorPen>的<scaleArmor>护甲</scaleArmor>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -44243,7 +41250,7 @@
       },
       "773085": {
         "name": "卢安娜的飓风",
-        "description": "<mainText><stats><attention>70%</attention>攻击速度</stats><br><br><jadeUnique>飓风齐射：</jadeUnique>攻击时，会向目标附近最多2名敌人发射箭矢，每支箭矢造成10(<physicalDamage>50%攻击力</physicalDamage>)物理伤害。这些箭矢会触发攻击特效。</mainText>",
+        "description": "<mainText><stats><attention>70%</attention>攻击速度</stats><br><br><jadeUnique>飓风齐射</jadeUnique>你的普通攻击会朝目标附近的至多2个敌人发射弩箭，每支弩箭造成<physicalDamage>0物理伤害</physicalDamage>。这些弩箭能够附带攻击特效。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -44282,14 +41289,6 @@
         },
         "stats": {
           "PercentAttackSpeedMod": 0.7
-        },
-        "effect": {
-          "Effect1Amount": "0",
-          "Effect2Amount": "40",
-          "Effect3Amount": "2",
-          "Effect4Amount": "0",
-          "Effect5Amount": "40",
-          "Effect6Amount": "1"
         },
         "depth": 2
       },
@@ -44791,6 +41790,7 @@
         },
         "tags": [
           "SpellBlock",
+          "HealthRegen",
           "SpellDamage"
         ],
         "maps": {
@@ -44898,8 +41898,8 @@
         },
         "tags": [
           "Armor",
-          "Damage",
-          "OnHit"
+          "OnHit",
+          "Jungle"
         ],
         "maps": {
           "11": false,
@@ -45200,7 +42200,7 @@
       },
       "773115": {
         "name": "纳什之牙",
-        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>50%</attention>攻击速度</stats><br><br>20%冷却缩减</mainText>",
+        "description": "<mainText><stats><attention>65</attention>法术强度<br><attention>50%</attention>攻击速度<br><attention>20%</attention>冷却缩减</stats><br><br></mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -45433,7 +42433,7 @@
       },
       "773128": {
         "name": "冥火之拥",
-        "description": "<mainText><stats><attention>120</attention>法术强度</stats><br><br>10%冷却缩减<jadeUnique>主动</jadeUnique>60秒<br>造成目标英雄最大生命值15%的<magicDamage>魔法伤害</magicDamage>，并在接下来的4秒里，使他们所受的<magicDamage>魔法伤害</magicDamage>提高20%。</mainText>",
+        "description": "<mainText><stats><attention>120</attention>法术强度<br><attention>10%</attention>冷却缩减</stats><br><br><jadeUnique>主动</jadeUnique>60秒<br>造成目标英雄最大生命值15%的<magicDamage>魔法伤害</magicDamage>，并在接下来的4秒里，使他们所受的<magicDamage>魔法伤害</magicDamage>提高20%。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -46273,7 +43273,15 @@
           "total": 2000,
           "sell": 1400
         },
-        "tags": [],
+        "tags": [
+          "Armor",
+          "Damage",
+          "LifeSteal",
+          "Vision",
+          "Active",
+          "OnHit",
+          "Jungle"
+        ],
         "maps": {
           "11": false,
           "12": true,
@@ -46606,7 +43614,7 @@
       },
       "773173": {
         "name": "艾莉莎的奇迹",
-        "description": "<mainText><stats><attention>10</attention>生命回复/5秒<br><attention>15</attention>法力回复/5秒</stats><br><br><jadeUnique>援助：</jadeUnique>召唤师技能<spellName>治疗术、洞察</spellName>和<spellName>清晰术</spellName>的冷却时间缩短25%。<br><jadeUnique>艾莉莎的祝福：</jadeUnique>携带此装备提升3级后，该装备的所有效果将永久生效，并消耗该装备。</mainText>",
+        "description": "<mainText><stats><attention>10</attention>生命回复/5秒<br><attention>15</attention>法力回复/5秒</stats><br><br><jadeUnique>援助：</jadeUnique>召唤师技能<spellName>治疗术、洞察</spellName>和<spellName>清晰术</spellName>的冷却时间缩短30%。<br><jadeUnique>艾莉莎的祝福：</jadeUnique>携带此装备提升3级后，该装备的所有效果将永久生效，并消耗该装备。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -47025,7 +44033,7 @@
       },
       "773222": {
         "name": "米凯尔的坩埚",
-        "description": "<mainText><stats><attention>40</attention>魔法抗性<br><attention>7</attention>生命回复/5秒<br><attention>18</attention>法力回复/5秒</stats><br><br><jadeUnique>法力源泉：</jadeUnique>每损失1%法力值，<scaleMana>法力回复</scaleMana>提升1%。<jadeUnique>主动</jadeUnique>180秒<br>移除一名友方英雄身上的所有<status>晕眩、减速、嘲讽、恐惧、沉默、致盲</status>和<status>定身</status>效果，并为该英雄<healing>治疗</healing><healing>150</healing>(<scaleHealth>+10最大生命值</scaleHealth>)生命值。</mainText>",
+        "description": "<mainText><stats><attention>40</attention>魔法抗性<br><attention>7</attention>生命回复/5秒<br><attention>18</attention>法力回复/5秒</stats><br><br><jadeUnique>法力源泉：</jadeUnique>每损失1%法力值，<scaleMana>法力回复</scaleMana>提升1%。<jadeUnique>主动</jadeUnique> 180秒<br>移除一名友方英雄身上的所有<status>晕眩、减速、嘲讽、恐惧、沉默、致盲</status>和<status>定身</status>效果，并为该英雄<healing>治疗</healing><healing>150</healing> (<scaleHealth>+10%最大生命值</scaleHealth>)生命值。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -51344,5 +48352,5 @@
       }
     ]
   },
-  "updated": "2026-08-11T17:01:04.179656"
+  "updated": "2026-08-12T17:00:30.306865"
 }
