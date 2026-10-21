@@ -1,12 +1,12 @@
 {
-  "version": "16.20.1",
+  "version": "16.21.1",
   "champions": {
     "type": "champion",
     "format": "standAloneComplex",
-    "version": "16.20.1",
+    "version": "16.21.1",
     "data": {
       "Aatrox": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Aatrox",
         "key": "266",
         "name": "暗裔剑魔",
@@ -55,7 +55,7 @@
         }
       },
       "Ahri": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ahri",
         "key": "103",
         "name": "九尾妖狐",
@@ -105,7 +105,7 @@
         }
       },
       "Akali": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Akali",
         "key": "84",
         "name": "离群之刺",
@@ -154,7 +154,7 @@
         }
       },
       "Akshan": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Akshan",
         "key": "166",
         "name": "影哨",
@@ -204,7 +204,7 @@
         }
       },
       "Alistar": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Alistar",
         "key": "12",
         "name": "牛头酋长",
@@ -254,7 +254,7 @@
         }
       },
       "Ambessa": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ambessa",
         "key": "799",
         "name": "铁血狼母",
@@ -304,7 +304,7 @@
         }
       },
       "Amumu": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Amumu",
         "key": "32",
         "name": "殇之木乃伊",
@@ -354,7 +354,7 @@
         }
       },
       "Anivia": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Anivia",
         "key": "34",
         "name": "冰晶凤凰",
@@ -403,7 +403,7 @@
         }
       },
       "Annie": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Annie",
         "key": "1",
         "name": "黑暗之女",
@@ -453,7 +453,7 @@
         }
       },
       "Aphelios": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Aphelios",
         "key": "523",
         "name": "残月之肃",
@@ -502,7 +502,7 @@
         }
       },
       "Ashe": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ashe",
         "key": "22",
         "name": "寒冰射手",
@@ -552,7 +552,7 @@
         }
       },
       "AurelionSol": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "AurelionSol",
         "key": "136",
         "name": "铸星龙王",
@@ -601,7 +601,7 @@
         }
       },
       "Aurora": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Aurora",
         "key": "893",
         "name": "双界灵兔",
@@ -651,7 +651,7 @@
         }
       },
       "Azir": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Azir",
         "key": "268",
         "name": "沙漠皇帝",
@@ -681,7 +681,7 @@
           "hp": 575,
           "hpperlevel": 108,
           "mp": 320,
-          "mpperlevel": 40,
+          "mpperlevel": 50,
           "movespeed": 330,
           "armor": 25,
           "armorperlevel": 5,
@@ -701,7 +701,7 @@
         }
       },
       "Bard": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Bard",
         "key": "432",
         "name": "星界游神",
@@ -751,7 +751,7 @@
         }
       },
       "Belveth": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Belveth",
         "key": "200",
         "name": "虚空女皇",
@@ -800,7 +800,7 @@
         }
       },
       "Blitzcrank": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Blitzcrank",
         "key": "53",
         "name": "蒸汽机器人",
@@ -850,7 +850,7 @@
         }
       },
       "Brand": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Brand",
         "key": "63",
         "name": "复仇焰魂",
@@ -900,7 +900,7 @@
         }
       },
       "Braum": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Braum",
         "key": "201",
         "name": "弗雷尔卓德之心",
@@ -950,7 +950,7 @@
         }
       },
       "Briar": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Briar",
         "key": "233",
         "name": "狂厄蔷薇",
@@ -1000,7 +1000,7 @@
         }
       },
       "Caitlyn": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Caitlyn",
         "key": "51",
         "name": "皮城女警",
@@ -1049,7 +1049,7 @@
         }
       },
       "Camille": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Camille",
         "key": "164",
         "name": "青钢影",
@@ -1099,7 +1099,7 @@
         }
       },
       "Cassiopeia": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Cassiopeia",
         "key": "69",
         "name": "魔蛇之拥",
@@ -1148,7 +1148,7 @@
         }
       },
       "Chogath": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Chogath",
         "key": "31",
         "name": "虚空恐惧",
@@ -1198,7 +1198,7 @@
         }
       },
       "Corki": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Corki",
         "key": "42",
         "name": "英勇投弹手",
@@ -1248,7 +1248,7 @@
         }
       },
       "Darius": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Darius",
         "key": "122",
         "name": "诺克萨斯之手",
@@ -1298,7 +1298,7 @@
         }
       },
       "Diana": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Diana",
         "key": "131",
         "name": "皎月女神",
@@ -1348,7 +1348,7 @@
         }
       },
       "Draven": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Draven",
         "key": "119",
         "name": "荣耀行刑官",
@@ -1397,7 +1397,7 @@
         }
       },
       "DrMundo": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "DrMundo",
         "key": "36",
         "name": "祖安狂人",
@@ -1447,7 +1447,7 @@
         }
       },
       "Ekko": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ekko",
         "key": "245",
         "name": "时间刺客",
@@ -1497,7 +1497,7 @@
         }
       },
       "Elise": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Elise",
         "key": "60",
         "name": "蜘蛛女皇",
@@ -1547,7 +1547,7 @@
         }
       },
       "Evelynn": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Evelynn",
         "key": "28",
         "name": "痛苦之拥",
@@ -1597,7 +1597,7 @@
         }
       },
       "Ezreal": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ezreal",
         "key": "81",
         "name": "探险家",
@@ -1647,7 +1647,7 @@
         }
       },
       "Fiddlesticks": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Fiddlesticks",
         "key": "9",
         "name": "远古恐惧",
@@ -1697,7 +1697,7 @@
         }
       },
       "Fiora": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Fiora",
         "key": "114",
         "name": "无双剑姬",
@@ -1747,7 +1747,7 @@
         }
       },
       "Fizz": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Fizz",
         "key": "105",
         "name": "潮汐海灵",
@@ -1797,7 +1797,7 @@
         }
       },
       "Galio": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Galio",
         "key": "3",
         "name": "正义巨像",
@@ -1847,7 +1847,7 @@
         }
       },
       "Gangplank": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Gangplank",
         "key": "41",
         "name": "海洋之灾",
@@ -1896,7 +1896,7 @@
         }
       },
       "Garen": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Garen",
         "key": "86",
         "name": "德玛西亚之力",
@@ -1946,7 +1946,7 @@
         }
       },
       "Gnar": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Gnar",
         "key": "150",
         "name": "迷失之牙",
@@ -1996,7 +1996,7 @@
         }
       },
       "Gragas": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Gragas",
         "key": "79",
         "name": "酒桶",
@@ -2046,7 +2046,7 @@
         }
       },
       "Graves": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Graves",
         "key": "104",
         "name": "法外狂徒",
@@ -2095,7 +2095,7 @@
         }
       },
       "Gwen": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Gwen",
         "key": "887",
         "name": "灵罗娃娃",
@@ -2144,7 +2144,7 @@
         }
       },
       "Hecarim": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Hecarim",
         "key": "120",
         "name": "战争之影",
@@ -2194,7 +2194,7 @@
         }
       },
       "Heimerdinger": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Heimerdinger",
         "key": "74",
         "name": "大发明家",
@@ -2244,7 +2244,7 @@
         }
       },
       "Hwei": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Hwei",
         "key": "910",
         "name": "异画师",
@@ -2294,7 +2294,7 @@
         }
       },
       "Illaoi": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Illaoi",
         "key": "420",
         "name": "海兽祭司",
@@ -2344,7 +2344,7 @@
         }
       },
       "Irelia": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Irelia",
         "key": "39",
         "name": "刀锋舞者",
@@ -2394,7 +2394,7 @@
         }
       },
       "Ivern": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ivern",
         "key": "427",
         "name": "翠神",
@@ -2444,7 +2444,7 @@
         }
       },
       "Janna": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Janna",
         "key": "40",
         "name": "风暴之怒",
@@ -2494,7 +2494,7 @@
         }
       },
       "JarvanIV": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "JarvanIV",
         "key": "59",
         "name": "德玛西亚皇子",
@@ -2544,7 +2544,7 @@
         }
       },
       "Jax": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Jax",
         "key": "24",
         "name": "武器大师",
@@ -2593,7 +2593,7 @@
         }
       },
       "Jayce": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Jayce",
         "key": "126",
         "name": "未来守护者",
@@ -2643,7 +2643,7 @@
         }
       },
       "Jhin": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Jhin",
         "key": "202",
         "name": "戏命师",
@@ -2693,7 +2693,7 @@
         }
       },
       "Jinx": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Jinx",
         "key": "222",
         "name": "暴走萝莉",
@@ -2719,7 +2719,7 @@
         ],
         "partype": "法力",
         "stats": {
-          "hp": 630,
+          "hp": 610,
           "hpperlevel": 105,
           "mp": 260,
           "mpperlevel": 50,
@@ -2742,7 +2742,7 @@
         }
       },
       "Kaisa": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kaisa",
         "key": "145",
         "name": "虚空之女",
@@ -2792,7 +2792,7 @@
         }
       },
       "Kalista": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kalista",
         "key": "429",
         "name": "复仇之矛",
@@ -2841,7 +2841,7 @@
         }
       },
       "Karma": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Karma",
         "key": "43",
         "name": "天启者",
@@ -2891,7 +2891,7 @@
         }
       },
       "Karthus": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Karthus",
         "key": "30",
         "name": "死亡颂唱者",
@@ -2940,7 +2940,7 @@
         }
       },
       "Kassadin": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kassadin",
         "key": "38",
         "name": "虚空行者",
@@ -2990,7 +2990,7 @@
         }
       },
       "Katarina": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Katarina",
         "key": "55",
         "name": "不祥之刃",
@@ -3040,7 +3040,7 @@
         }
       },
       "Kayle": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kayle",
         "key": "10",
         "name": "正义天使",
@@ -3090,7 +3090,7 @@
         }
       },
       "Kayn": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kayn",
         "key": "141",
         "name": "影流之镰",
@@ -3140,7 +3140,7 @@
         }
       },
       "Kennen": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kennen",
         "key": "85",
         "name": "狂暴之心",
@@ -3189,7 +3189,7 @@
         }
       },
       "Khazix": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Khazix",
         "key": "121",
         "name": "虚空掠夺者",
@@ -3238,7 +3238,7 @@
         }
       },
       "Kindred": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kindred",
         "key": "203",
         "name": "永猎双子",
@@ -3287,7 +3287,7 @@
         }
       },
       "Kled": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Kled",
         "key": "240",
         "name": "暴怒骑士",
@@ -3336,7 +3336,7 @@
         }
       },
       "KogMaw": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "KogMaw",
         "key": "96",
         "name": "深渊巨口",
@@ -3386,7 +3386,7 @@
         }
       },
       "KSante": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "KSante",
         "key": "897",
         "name": "纳祖芒荣耀",
@@ -3436,7 +3436,7 @@
         }
       },
       "Leblanc": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Leblanc",
         "key": "7",
         "name": "诡术妖姬",
@@ -3486,7 +3486,7 @@
         }
       },
       "LeeSin": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "LeeSin",
         "key": "64",
         "name": "盲僧",
@@ -3536,7 +3536,7 @@
         }
       },
       "Leona": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Leona",
         "key": "89",
         "name": "曙光女神",
@@ -3586,7 +3586,7 @@
         }
       },
       "Lillia": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Lillia",
         "key": "876",
         "name": "含羞蓓蕾",
@@ -3636,7 +3636,7 @@
         }
       },
       "Lissandra": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Lissandra",
         "key": "127",
         "name": "冰霜女巫",
@@ -3685,7 +3685,7 @@
         }
       },
       "Locke": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Locke",
         "key": "805",
         "name": "灰烬驱魔人",
@@ -3715,7 +3715,7 @@
           "hp": 620,
           "hpperlevel": 109,
           "mp": 280,
-          "mpperlevel": 70,
+          "mpperlevel": 60,
           "movespeed": 340,
           "armor": 32,
           "armorperlevel": 4.2,
@@ -3735,7 +3735,7 @@
         }
       },
       "Lucian": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Lucian",
         "key": "236",
         "name": "圣枪游侠",
@@ -3785,7 +3785,7 @@
         }
       },
       "Lulu": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Lulu",
         "key": "117",
         "name": "仙灵女巫",
@@ -3835,7 +3835,7 @@
         }
       },
       "Lux": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Lux",
         "key": "99",
         "name": "光辉女郎",
@@ -3885,7 +3885,7 @@
         }
       },
       "Malphite": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Malphite",
         "key": "54",
         "name": "熔岩巨兽",
@@ -3935,7 +3935,7 @@
         }
       },
       "Malzahar": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Malzahar",
         "key": "90",
         "name": "虚空先知",
@@ -3984,7 +3984,7 @@
         }
       },
       "Maokai": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Maokai",
         "key": "57",
         "name": "扭曲树精",
@@ -4034,7 +4034,7 @@
         }
       },
       "MasterYi": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "MasterYi",
         "key": "11",
         "name": "无极剑圣",
@@ -4084,7 +4084,7 @@
         }
       },
       "Mel": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Mel",
         "key": "800",
         "name": "流光镜影",
@@ -4134,7 +4134,7 @@
         }
       },
       "Milio": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Milio",
         "key": "902",
         "name": "明烛",
@@ -4184,7 +4184,7 @@
         }
       },
       "MissFortune": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "MissFortune",
         "key": "21",
         "name": "赏金猎人",
@@ -4234,7 +4234,7 @@
         }
       },
       "MonkeyKing": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "MonkeyKing",
         "key": "62",
         "name": "齐天大圣",
@@ -4271,7 +4271,7 @@
           "spellblock": 28,
           "spellblockperlevel": 2.05,
           "attackrange": 175,
-          "hpregen": 3.5,
+          "hpregen": 5.5,
           "hpregenperlevel": 0.65,
           "mpregen": 8,
           "mpregenperlevel": 0.8,
@@ -4284,7 +4284,7 @@
         }
       },
       "Mordekaiser": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Mordekaiser",
         "key": "82",
         "name": "铁铠冥魂",
@@ -4334,7 +4334,7 @@
         }
       },
       "Morgana": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Morgana",
         "key": "25",
         "name": "堕落天使",
@@ -4384,7 +4384,7 @@
         }
       },
       "Naafiri": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Naafiri",
         "key": "950",
         "name": "百裂冥犬",
@@ -4434,7 +4434,7 @@
         }
       },
       "Nami": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nami",
         "key": "267",
         "name": "唤潮鲛姬",
@@ -4484,7 +4484,7 @@
         }
       },
       "Nasus": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nasus",
         "key": "75",
         "name": "沙漠死神",
@@ -4534,7 +4534,7 @@
         }
       },
       "Nautilus": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nautilus",
         "key": "111",
         "name": "深海泰坦",
@@ -4584,7 +4584,7 @@
         }
       },
       "Neeko": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Neeko",
         "key": "518",
         "name": "万花通灵",
@@ -4634,7 +4634,7 @@
         }
       },
       "Nidalee": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nidalee",
         "key": "76",
         "name": "狂野女猎手",
@@ -4684,7 +4684,7 @@
         }
       },
       "Nilah": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nilah",
         "key": "895",
         "name": "不羁之悦",
@@ -4734,7 +4734,7 @@
         }
       },
       "Nocturne": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nocturne",
         "key": "56",
         "name": "永恒梦魇",
@@ -4784,7 +4784,7 @@
         }
       },
       "Nunu": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Nunu",
         "key": "20",
         "name": "雪原双子",
@@ -4834,7 +4834,7 @@
         }
       },
       "Olaf": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Olaf",
         "key": "2",
         "name": "狂战士",
@@ -4884,7 +4884,7 @@
         }
       },
       "Orianna": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Orianna",
         "key": "61",
         "name": "发条魔灵",
@@ -4934,7 +4934,7 @@
         }
       },
       "Ornn": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ornn",
         "key": "516",
         "name": "山隐之焰",
@@ -4983,7 +4983,7 @@
         }
       },
       "Pantheon": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Pantheon",
         "key": "80",
         "name": "不屈之枪",
@@ -5033,7 +5033,7 @@
         }
       },
       "Poppy": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Poppy",
         "key": "78",
         "name": "圣锤之毅",
@@ -5083,7 +5083,7 @@
         }
       },
       "Pyke": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Pyke",
         "key": "555",
         "name": "血港鬼影",
@@ -5133,7 +5133,7 @@
         }
       },
       "Qiyana": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Qiyana",
         "key": "246",
         "name": "元素女皇",
@@ -5182,7 +5182,7 @@
         }
       },
       "Quinn": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Quinn",
         "key": "133",
         "name": "德玛西亚之翼",
@@ -5232,7 +5232,7 @@
         }
       },
       "Rakan": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Rakan",
         "key": "497",
         "name": "幻翎",
@@ -5281,7 +5281,7 @@
         }
       },
       "Rammus": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Rammus",
         "key": "33",
         "name": "披甲龙龟",
@@ -5330,7 +5330,7 @@
         }
       },
       "RekSai": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "RekSai",
         "key": "421",
         "name": "虚空遁地兽",
@@ -5380,7 +5380,7 @@
         }
       },
       "Rell": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Rell",
         "key": "526",
         "name": "镕铁少女",
@@ -5430,7 +5430,7 @@
         }
       },
       "Renata": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Renata",
         "key": "888",
         "name": "炼金男爵",
@@ -5480,7 +5480,7 @@
         }
       },
       "Renekton": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Renekton",
         "key": "58",
         "name": "荒漠屠夫",
@@ -5530,7 +5530,7 @@
         }
       },
       "Rengar": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Rengar",
         "key": "107",
         "name": "傲之追猎者",
@@ -5580,7 +5580,7 @@
         }
       },
       "Riven": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Riven",
         "key": "92",
         "name": "放逐之刃",
@@ -5630,7 +5630,7 @@
         }
       },
       "Rumble": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Rumble",
         "key": "68",
         "name": "机械公敌",
@@ -5680,7 +5680,7 @@
         }
       },
       "Ryze": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ryze",
         "key": "13",
         "name": "符文法师",
@@ -5729,7 +5729,7 @@
         }
       },
       "Samira": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Samira",
         "key": "360",
         "name": "沙漠玫瑰",
@@ -5779,7 +5779,7 @@
         }
       },
       "Sejuani": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Sejuani",
         "key": "113",
         "name": "北地之怒",
@@ -5828,7 +5828,7 @@
         }
       },
       "Senna": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Senna",
         "key": "235",
         "name": "涤魂圣枪",
@@ -5878,7 +5878,7 @@
         }
       },
       "Seraphine": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Seraphine",
         "key": "147",
         "name": "星籁歌姬",
@@ -5928,7 +5928,7 @@
         }
       },
       "Sett": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Sett",
         "key": "875",
         "name": "腕豪",
@@ -5978,7 +5978,7 @@
         }
       },
       "Shaco": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Shaco",
         "key": "35",
         "name": "恶魔小丑",
@@ -6027,7 +6027,7 @@
         }
       },
       "Shen": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Shen",
         "key": "98",
         "name": "暮光之眼",
@@ -6076,7 +6076,7 @@
         }
       },
       "Shyvana": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Shyvana",
         "key": "102",
         "name": "龙血武姬",
@@ -6126,7 +6126,7 @@
         }
       },
       "Singed": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Singed",
         "key": "27",
         "name": "炼金术士",
@@ -6176,7 +6176,7 @@
         }
       },
       "Sion": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Sion",
         "key": "14",
         "name": "亡灵战神",
@@ -6204,7 +6204,7 @@
         "partype": "法力",
         "stats": {
           "hp": 655,
-          "hpperlevel": 87,
+          "hpperlevel": 95,
           "mp": 400,
           "mpperlevel": 52,
           "movespeed": 345,
@@ -6226,7 +6226,7 @@
         }
       },
       "Sivir": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Sivir",
         "key": "15",
         "name": "战争女神",
@@ -6275,7 +6275,7 @@
         }
       },
       "Skarner": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Skarner",
         "key": "72",
         "name": "上古领主",
@@ -6325,7 +6325,7 @@
         }
       },
       "Smolder": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Smolder",
         "key": "901",
         "name": "炽炎雏龙",
@@ -6375,7 +6375,7 @@
         }
       },
       "Sona": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Sona",
         "key": "37",
         "name": "琴瑟仙女",
@@ -6425,7 +6425,7 @@
         }
       },
       "Soraka": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Soraka",
         "key": "16",
         "name": "众星之子",
@@ -6475,7 +6475,7 @@
         }
       },
       "Swain": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Swain",
         "key": "50",
         "name": "诺克萨斯统领",
@@ -6525,7 +6525,7 @@
         }
       },
       "Sylas": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Sylas",
         "key": "517",
         "name": "解脱者",
@@ -6575,7 +6575,7 @@
         }
       },
       "Syndra": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Syndra",
         "key": "134",
         "name": "暗黑元首",
@@ -6624,7 +6624,7 @@
         }
       },
       "TahmKench": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "TahmKench",
         "key": "223",
         "name": "河流之王",
@@ -6674,7 +6674,7 @@
         }
       },
       "Taliyah": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Taliyah",
         "key": "163",
         "name": "岩雀",
@@ -6724,7 +6724,7 @@
         }
       },
       "Talon": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Talon",
         "key": "91",
         "name": "刀锋之影",
@@ -6773,7 +6773,7 @@
         }
       },
       "Taric": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Taric",
         "key": "44",
         "name": "瓦洛兰之盾",
@@ -6823,7 +6823,7 @@
         }
       },
       "Teemo": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Teemo",
         "key": "17",
         "name": "迅捷斥候",
@@ -6873,7 +6873,7 @@
         }
       },
       "Thresh": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Thresh",
         "key": "412",
         "name": "魂锁典狱长",
@@ -6923,7 +6923,7 @@
         }
       },
       "Tristana": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Tristana",
         "key": "18",
         "name": "麦林炮手",
@@ -6973,7 +6973,7 @@
         }
       },
       "Trundle": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Trundle",
         "key": "48",
         "name": "巨魔之王",
@@ -7023,7 +7023,7 @@
         }
       },
       "Tryndamere": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Tryndamere",
         "key": "23",
         "name": "蛮族之王",
@@ -7073,7 +7073,7 @@
         }
       },
       "TwistedFate": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "TwistedFate",
         "key": "4",
         "name": "卡牌大师",
@@ -7123,7 +7123,7 @@
         }
       },
       "Twitch": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Twitch",
         "key": "29",
         "name": "瘟疫之源",
@@ -7173,7 +7173,7 @@
         }
       },
       "Udyr": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Udyr",
         "key": "77",
         "name": "兽灵行者",
@@ -7223,7 +7223,7 @@
         }
       },
       "Urgot": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Urgot",
         "key": "6",
         "name": "无畏战车",
@@ -7273,7 +7273,7 @@
         }
       },
       "Varus": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Varus",
         "key": "110",
         "name": "惩戒之箭",
@@ -7323,7 +7323,7 @@
         }
       },
       "Vayne": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Vayne",
         "key": "67",
         "name": "暗夜猎手",
@@ -7373,7 +7373,7 @@
         }
       },
       "Veigar": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Veigar",
         "key": "45",
         "name": "邪恶小法师",
@@ -7422,7 +7422,7 @@
         }
       },
       "Velkoz": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Velkoz",
         "key": "161",
         "name": "虚空之眼",
@@ -7472,7 +7472,7 @@
         }
       },
       "Vex": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Vex",
         "key": "711",
         "name": "愁云使者",
@@ -7521,7 +7521,7 @@
         }
       },
       "Vi": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Vi",
         "key": "254",
         "name": "皮城执法官",
@@ -7571,7 +7571,7 @@
         }
       },
       "Viego": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Viego",
         "key": "234",
         "name": "破败之王",
@@ -7621,7 +7621,7 @@
         }
       },
       "Viktor": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Viktor",
         "key": "112",
         "name": "奥术先驱",
@@ -7651,7 +7651,7 @@
           "hpperlevel": 100,
           "mp": 405,
           "mpperlevel": 45,
-          "movespeed": 335,
+          "movespeed": 330,
           "armor": 23,
           "armorperlevel": 4.4,
           "spellblock": 30,
@@ -7670,7 +7670,7 @@
         }
       },
       "Vladimir": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Vladimir",
         "key": "8",
         "name": "猩红收割者",
@@ -7720,7 +7720,7 @@
         }
       },
       "Volibear": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Volibear",
         "key": "106",
         "name": "不灭狂雷",
@@ -7770,7 +7770,7 @@
         }
       },
       "Warwick": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Warwick",
         "key": "19",
         "name": "祖安怒兽",
@@ -7820,7 +7820,7 @@
         }
       },
       "Xayah": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Xayah",
         "key": "498",
         "name": "逆羽",
@@ -7869,7 +7869,7 @@
         }
       },
       "Xerath": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Xerath",
         "key": "101",
         "name": "远古巫灵",
@@ -7919,7 +7919,7 @@
         }
       },
       "XinZhao": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "XinZhao",
         "key": "5",
         "name": "德邦总管",
@@ -7969,7 +7969,7 @@
         }
       },
       "Yasuo": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Yasuo",
         "key": "157",
         "name": "疾风剑豪",
@@ -8019,7 +8019,7 @@
         }
       },
       "Yone": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Yone",
         "key": "777",
         "name": "封魔剑魂",
@@ -8069,7 +8069,7 @@
         }
       },
       "Yorick": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Yorick",
         "key": "83",
         "name": "牧魂人",
@@ -8119,7 +8119,7 @@
         }
       },
       "Yunara": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Yunara",
         "key": "804",
         "name": "不破之誓",
@@ -8168,7 +8168,7 @@
         }
       },
       "Yuumi": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Yuumi",
         "key": "350",
         "name": "魔法猫咪",
@@ -8218,7 +8218,7 @@
         }
       },
       "Zaahen": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zaahen",
         "key": "904",
         "name": "不落魔锋",
@@ -8267,7 +8267,7 @@
         }
       },
       "Zac": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zac",
         "key": "154",
         "name": "生化魔人",
@@ -8317,7 +8317,7 @@
         }
       },
       "Zed": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zed",
         "key": "238",
         "name": "影流之主",
@@ -8366,7 +8366,7 @@
         }
       },
       "Zeri": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zeri",
         "key": "221",
         "name": "祖安花火",
@@ -8415,7 +8415,7 @@
         }
       },
       "Ziggs": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Ziggs",
         "key": "115",
         "name": "爆破鬼才",
@@ -8464,7 +8464,7 @@
         }
       },
       "Zilean": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zilean",
         "key": "26",
         "name": "时光守护者",
@@ -8514,7 +8514,7 @@
         }
       },
       "Zoe": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zoe",
         "key": "142",
         "name": "暮光星灵",
@@ -8563,7 +8563,7 @@
         }
       },
       "Zyra": {
-        "version": "16.20.1",
+        "version": "16.21.1",
         "id": "Zyra",
         "key": "143",
         "name": "荆棘之兴",
@@ -8616,7 +8616,7 @@
   },
   "items": {
     "type": "item",
-    "version": "16.20.1",
+    "version": "16.21.1",
     "basic": {
       "name": "",
       "rune": {
@@ -13864,7 +13864,7 @@
       },
       "220013": {
         "name": "魄罗佳肴",
-        "description": "<mainText><stats></stats><br><br><active>主动 - 消耗：</active>用一勺美味来招待附近的一只魄罗，来让它体型长大。<br><br><flavorText>这道由阿瓦罗萨鸡与弗雷尔卓德香草——再添上一抹精致的德玛西亚糖花工艺——所搭配的美味，包含了多种必备精华营养素，绝对能让你的魄罗保持容光焕发。<br><br>所有收入都将被捐献给云丛青年合唱团。今天就帮一个德玛西亚孩童买下一架叆华！</flavorText></mainText>",
+        "description": "<mainText><stats></stats><br><br><active>主动 - 消耗：</active>用一勺美味来招待附近的一只魄罗，来让它体型长大。<br><br><flavorText>这道裹满糖晶、令人惊叹的甜点，包含了所有必备精华营养素，绝对能让你的魄罗无死角地保持容光焕发。最好在聚光灯下享用。副作用可能包括自发跳舞，无法抗拒的舞台表演，以及对舞池的狂热！</flavorText></mainText>",
         "colloq": "",
         "plaintext": "",
         "stacks": 2,
@@ -18709,7 +18709,7 @@
       },
       "226621": {
         "name": "黎明核心",
-        "description": "<mainText><stats><attention>45</attention>法术强度<br><attention>12%</attention>治疗和护盾强度<br><attention>200%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每<scaleMana>100%基础法力回复</scaleMana>获得<healing>3%治疗和护盾强度</healing>和<scaleAP>10法术强度</scaleAP>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>法术强度<br><attention>12%</attention>治疗和护盾强度<br><attention>200%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每<scaleMana>100%基础法力回复</scaleMana>获得<healing>3%治疗和护盾强度</healing>和<scaleAP>15法术强度</scaleAP>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -19673,7 +19673,7 @@
       },
       "226697": {
         "name": "狂妄",
-        "description": "<mainText><stats><attention>50</attention>攻击力<br><attention>18</attention>穿甲<br><attention>10</attention>技能急速</stats><br><br><passive>盛名</passive><br>如果一名在过去3秒内曾被你造成过伤害的英雄阵亡，则获得<physicalDamage>15攻击力</physicalDamage>，<buffedStat>持续到回合结束</buffedStat>，或被击杀为止。每当这个效果触发时，【盛名】的<physicalDamage>攻击力永久提升2</physicalDamage>。</mainText>",
+        "description": "<mainText><stats><attention>50</attention>攻击力<br><attention>18</attention>穿甲<br><attention>10</attention>技能急速</stats><br><br><passive>盛名</passive><br>如果一名在过去3秒内曾被你造成过伤害的英雄阵亡，则获得<physicalDamage>0攻击力</physicalDamage>，<buffedStat>持续到回合结束</buffedStat>，或被击杀为止。每当这个效果触发时，【盛名】的<physicalDamage>攻击力永久提升0</physicalDamage>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -20708,7 +20708,7 @@
       },
       "2520": {
         "name": "破垒者",
-        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention>22</attention>穿甲<br><attention>15</attention>技能急速</stats><br><br><passive>成型炸药</passive> (0秒)<br>对一个英雄或史诗级野怪造成技能伤害时，会造成额外的<trueDamage>0真实伤害</trueDamage>。<br><br><passive>破坏</passive><br>参与击杀一个在3秒内被你造成过伤害的英雄后，提供持续90秒的【蓄意破坏】。在你拥有【蓄意破坏】时，你对史诗级野怪或防御塔的下一次攻击会在3秒里持续造成额外<trueDamage>0真实伤害</trueDamage>。 </mainText>",
+        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention>18</attention>穿甲<br><attention>15</attention>技能急速</stats><br><br><passive>成型炸药</passive> (0秒)<br>对一个英雄或史诗级野怪造成技能伤害时，会造成额外的<trueDamage>0真实伤害</trueDamage>。<br><br><passive>破坏</passive><br>参与击杀一个在3秒内被你造成过伤害的英雄后，提供持续25000秒的【蓄意破坏】。在你拥有【蓄意破坏】时，你对史诗级野怪或防御塔的下一次攻击会在3秒里持续造成额外<trueDamage>0真实伤害</trueDamage>。 </mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -21287,10 +21287,10 @@
           "h": 48
         },
         "gold": {
-          "base": 700,
+          "base": 800,
           "purchasable": true,
-          "total": 1000,
-          "sell": 700
+          "total": 1100,
+          "sell": 770
         },
         "tags": [
           "LifeSteal",
@@ -25411,8 +25411,8 @@
         "gold": {
           "base": 0,
           "purchasable": true,
-          "total": 1000,
-          "sell": 700
+          "total": 1100,
+          "sell": 770
         },
         "tags": [
           "LifeSteal",
@@ -27071,7 +27071,7 @@
       },
       "326621": {
         "name": "黎明核心",
-        "description": "<mainText><stats><attention>50</attention>法术强度<br><attention>20%</attention>治疗和护盾强度<br><attention>150%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每100%基础法力回复获得<healing>2%治疗和护盾强度</healing>和<scaleAP>10法术强度</scaleAP>。</mainText>",
+        "description": "<mainText><stats><attention>50</attention>法术强度<br><attention>20%</attention>治疗和护盾强度<br><attention>150%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每100%基础法力回复获得<healing>2%治疗和护盾强度</healing>和<scaleAP>15法术强度</scaleAP>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -30221,7 +30221,7 @@
       },
       "443079": {
         "name": "涡轮炼金罐",
-        "description": "<mainText><stats><attention>600</attention>生命值<br><attention>80</attention>适应之力</stats><br><br>无视你受到的下一个<status>定身</status>效果，转而在附近掉落一罐化学药剂(0秒冷却时间)。拾取该化学药剂会使这个冷却时间缩短15秒并回复<scaleHealth>4%最大生命值</scaleHealth>。敌人踩在该化学药剂上时会将它摧毁。</mainText>",
+        "description": "<mainText><stats><attention>600</attention>生命值<br><attention>80</attention>适应之力</stats><br><br>无视你受到的下一个<status>定身</status>效果，转而在附近掉落一罐化学药剂(0秒冷却时间)。拾取该化学药剂会使这个冷却时间缩短15秒并回复<scaleHealth>20%最大生命值</scaleHealth>。敌人踩在该化学药剂上时会将它摧毁。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -30450,7 +30450,7 @@
       },
       "444636": {
         "name": "暗夜收割者",
-        "description": "<mainText><stats><attention>90</attention>法术强度<br><attention>300</attention>生命值<br><attention>25</attention>技能急速</stats><br><br><passive>夺魂</passive> 每个英雄(0秒)<br>用攻击或技能对一名英雄造成伤害时会造成额外的<magicDamage>0魔法伤害</magicDamage>并为你提供<speed>40%移动速度</speed>，持续1.5秒。<br><br><rules>对一名未受影响的英雄造成伤害时会延长移动速度加成的持续时间。</rules></mainText>",
+        "description": "<mainText><stats><attention>90</attention>法术强度<br><attention>300</attention>生命值<br><attention>25</attention>技能急速</stats><br><br><passive>夺魂</passive> 每个英雄(0秒)<br>用攻击或技能对一名英雄造成伤害时会造成额外的<magicDamage>0魔法伤害</magicDamage>并为你提供<speed>60%移动速度</speed>，持续1秒。<br><br><rules>对一名未受影响的英雄造成伤害时会延长移动速度加成的持续时间。</rules></mainText>",
         "colloq": "",
         "plaintext": "",
         "consumeOnFull": true,
@@ -30809,7 +30809,7 @@
       },
       "447100": {
         "name": "幻境之刃",
-        "description": "<mainText><stats><attention>65</attention>适应之力<br><attention>60%</attention>攻击速度<br><attention>6%</attention>移动速度</stats><br><br><passive>模糊</passive><br><OnHit>攻击特效</OnHit>会使你的冲刺和闪烁技能的冷却时间缩短20%(对终极技能来说，降低至5%)。</mainText>",
+        "description": "<mainText><stats><attention>65</attention>适应之力<br><attention>60%</attention>攻击速度<br><attention>6%</attention>移动速度</stats><br><br><passive>模糊</passive><br><OnHit>攻击特效</OnHit>会使你的冲刺和闪烁技能的冷却时间缩短15%(对终极技能来说，降低至5%)。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -31182,7 +31182,7 @@
       },
       "447110": {
         "name": "月华咒刃",
-        "description": "<mainText><stats><attention>85</attention>法术强度<br><attention>400</attention>生命值<br><attention>30%</attention>韧性</stats><br><br><passive>无情</passive><br>在你使用一次技能时，重置你的普攻计时器并且你接下来的2次攻击获得<attackSpeed>90%攻击速度</attackSpeed>。<br><br>在你攻击时，你的非冲刺和非闪烁技能的冷却时间缩短0.5秒。</mainText>",
+        "description": "<mainText><stats><attention>85</attention>法术强度<br><attention>400</attention>生命值<br><attention>30%</attention>韧性</stats><br><br><passive>无情</passive><br>在你使用一次技能时，重置你的普攻计时器并且你接下来的3次攻击获得<attackSpeed>90%攻击速度</attackSpeed>。<br><br>在你攻击时，你的非冲刺和非闪烁技能的冷却时间缩短0.3秒。</mainText>",
         "colloq": "",
         "plaintext": "",
         "image": {
@@ -32093,11 +32093,11 @@
           "AbilityHaste"
         ],
         "maps": {
-          "11": true,
+          "11": false,
           "12": false,
           "22": false,
           "30": false,
-          "453": true
+          "453": false
         },
         "stats": {
           "FlatHPPoolMod": 80
@@ -32333,460 +32333,6 @@
         },
         "depth": 3
       },
-      "550001": {
-        "name": "生命条色块：蓝色",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "consumed": true,
-        "image": {
-          "full": "550001.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 336,
-          "y": 336,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 0,
-          "purchasable": true,
-          "total": 0,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
-      "550002": {
-        "name": "生命条色块：橙色",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "consumed": true,
-        "consumeOnFull": true,
-        "image": {
-          "full": "550002.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 384,
-          "y": 336,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 0,
-          "purchasable": true,
-          "total": 0,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
-      "550003": {
-        "name": "生命条色块：绿色",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "consumed": true,
-        "consumeOnFull": true,
-        "image": {
-          "full": "550003.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 432,
-          "y": 336,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 0,
-          "purchasable": true,
-          "total": 0,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
-      "550004": {
-        "name": "生命条色块：粉色",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "consumed": true,
-        "consumeOnFull": true,
-        "image": {
-          "full": "550004.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 0,
-          "y": 384,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 0,
-          "purchasable": true,
-          "total": 0,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
-      "550005": {
-        "name": "生命条清理：重置颜色",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "consumed": true,
-        "consumeOnFull": true,
-        "image": {
-          "full": "550005.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 48,
-          "y": 384,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 0,
-          "purchasable": true,
-          "total": 0,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
-      "550006": {
-        "name": "生命条色块：多彩",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "consumed": true,
-        "consumeOnFull": true,
-        "image": {
-          "full": "550006.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 96,
-          "y": 384,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 0,
-          "purchasable": true,
-          "total": 0,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
-      "550007": {
-        "name": "派对礼品",
-        "description": "",
-        "colloq": "",
-        "plaintext": "",
-        "stacks": 5,
-        "consumed": true,
-        "image": {
-          "full": "550007.png",
-          "sprite": "item5.png",
-          "group": "item",
-          "x": 144,
-          "y": 384,
-          "w": 48,
-          "h": 48
-        },
-        "gold": {
-          "base": 10,
-          "purchasable": true,
-          "total": 10,
-          "sell": 0
-        },
-        "tags": [
-          "Health",
-          "SpellBlock",
-          "HealthRegen",
-          "Armor",
-          "Damage",
-          "CriticalStrike",
-          "AttackSpeed",
-          "LifeSteal",
-          "SpellDamage",
-          "Mana",
-          "ManaRegen",
-          "Consumable",
-          "Aura",
-          "Vision",
-          "Trinket",
-          "Stealth",
-          "Active",
-          "GoldPer",
-          "CooldownReduction",
-          "Slow",
-          "SpellVamp",
-          "OnHit",
-          "Boots",
-          "NonbootsMovement",
-          "Tenacity",
-          "MagicPenetration",
-          "ArmorPenetration",
-          "Lane",
-          "Jungle",
-          "Bilgewater",
-          "MagicResist",
-          "AbilityHaste"
-        ],
-        "maps": {
-          "11": false,
-          "12": false,
-          "22": false,
-          "30": false,
-          "453": false
-        },
-        "stats": {}
-      },
       "6029": {
         "name": "铁刺鞭",
         "description": "<mainText><stats><attention>30</attention>攻击力</stats><br><br><br><br><active>主动 - </active><active>新月：</active>对附近敌人造成伤害。</mainText>",
@@ -32803,8 +32349,8 @@
           "full": "6029.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 192,
-          "y": 384,
+          "x": 336,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -32841,8 +32387,8 @@
           "full": "6032.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 240,
-          "y": 384,
+          "x": 384,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -32895,8 +32441,8 @@
           "full": "6035.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 288,
-          "y": 384,
+          "x": 432,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -32947,7 +32493,7 @@
           "full": "6333.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 384,
           "w": 48,
           "h": 48
@@ -32990,7 +32536,7 @@
           "full": "6609.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 384,
           "w": 48,
           "h": 48
@@ -33033,7 +32579,7 @@
           "full": "6610.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 384,
           "w": 48,
           "h": 48
@@ -33076,8 +32622,8 @@
           "full": "6616.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 0,
-          "y": 432,
+          "x": 144,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33118,8 +32664,8 @@
           "full": "6617.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 48,
-          "y": 432,
+          "x": 192,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33162,8 +32708,8 @@
           "full": "6620.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 96,
-          "y": 432,
+          "x": 240,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33195,7 +32741,7 @@
       },
       "6621": {
         "name": "黎明核心",
-        "description": "<mainText><stats><attention>45</attention>法术强度<br><attention>16%</attention>治疗和护盾强度<br><attention>100%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每100%基础法力回复获得<healing>2%治疗和护盾强度</healing>和<scaleAP>10法术强度</scaleAP>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>法术强度<br><attention>16%</attention>治疗和护盾强度<br><attention>100%</attention>基础法力回复</stats><br><br><passive>最初之光</passive><br>每100%基础法力回复获得<healing>2%治疗和护盾强度</healing>和<scaleAP>15法术强度</scaleAP>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -33207,8 +32753,8 @@
           "full": "6621.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 144,
-          "y": 432,
+          "x": 288,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33249,8 +32795,8 @@
           "full": "6630.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 192,
-          "y": 432,
+          "x": 336,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33291,8 +32837,8 @@
           "full": "663039.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 240,
-          "y": 432,
+          "x": 384,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33328,8 +32874,8 @@
           "full": "663056.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 288,
-          "y": 432,
+          "x": 432,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -33366,7 +32912,7 @@
           "full": "663058.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 432,
           "w": 48,
           "h": 48
@@ -33402,7 +32948,7 @@
           "full": "663059.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 432,
           "w": 48,
           "h": 48
@@ -33439,7 +32985,7 @@
           "full": "663060.png",
           "sprite": "item5.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 432,
           "w": 48,
           "h": 48
@@ -33473,10 +33019,10 @@
         "plaintext": "",
         "image": {
           "full": "663064.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 0,
-          "y": 0,
+          "x": 144,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33508,10 +33054,10 @@
         ],
         "image": {
           "full": "6631.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 48,
-          "y": 0,
+          "x": 192,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33548,10 +33094,10 @@
         "plaintext": "",
         "image": {
           "full": "663146.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 96,
-          "y": 0,
+          "x": 240,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33588,10 +33134,10 @@
         "consumeOnFull": true,
         "image": {
           "full": "663172.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 144,
-          "y": 0,
+          "x": 288,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33627,10 +33173,10 @@
         "plaintext": "",
         "image": {
           "full": "663193.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 192,
-          "y": 0,
+          "x": 336,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33673,10 +33219,10 @@
         "inStore": false,
         "image": {
           "full": "6632.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 240,
-          "y": 0,
+          "x": 384,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33715,10 +33261,10 @@
         "plaintext": "",
         "image": {
           "full": "664011.png",
-          "sprite": "item6.png",
+          "sprite": "item5.png",
           "group": "item",
-          "x": 288,
-          "y": 0,
+          "x": 432,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -33758,7 +33304,7 @@
           "full": "664403.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 0,
           "w": 48,
           "h": 48
@@ -33813,7 +33359,7 @@
           "full": "664644.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 0,
           "w": 48,
           "h": 48
@@ -33856,7 +33402,7 @@
           "full": "6653.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 0,
           "w": 48,
           "h": 48
@@ -33897,8 +33443,8 @@
           "full": "6655.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 48,
+          "x": 144,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -33942,8 +33488,8 @@
           "full": "6656.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 48,
+          "x": 192,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -33989,8 +33535,8 @@
           "full": "6657.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 48,
+          "x": 240,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -34038,8 +33584,8 @@
           "full": "6660.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 48,
+          "x": 288,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -34079,8 +33625,8 @@
           "full": "6662.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 48,
+          "x": 336,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -34124,8 +33670,8 @@
           "full": "6664.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 48,
+          "x": 384,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -34170,8 +33716,8 @@
           "full": "6665.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 48,
+          "x": 432,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -34215,7 +33761,7 @@
           "full": "6667.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 48,
           "w": 48,
           "h": 48
@@ -34266,7 +33812,7 @@
           "full": "6670.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 48,
           "w": 48,
           "h": 48
@@ -34309,7 +33855,7 @@
           "full": "6671.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 48,
           "w": 48,
           "h": 48
@@ -34351,8 +33897,8 @@
           "full": "667101.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 96,
+          "x": 144,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34389,8 +33935,8 @@
           "full": "667109.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 96,
+          "x": 192,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34427,8 +33973,8 @@
           "full": "667112.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 96,
+          "x": 240,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34469,8 +34015,8 @@
           "full": "6672.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 96,
+          "x": 288,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34513,8 +34059,8 @@
           "full": "6673.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 96,
+          "x": 336,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34555,8 +34101,8 @@
           "full": "6675.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 96,
+          "x": 384,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34604,8 +34150,8 @@
           "full": "6676.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 96,
+          "x": 432,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -34647,7 +34193,7 @@
           "full": "667666.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 96,
           "w": 48,
           "h": 48
@@ -34690,7 +34236,7 @@
           "full": "6677.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 96,
           "w": 48,
           "h": 48
@@ -34735,7 +34281,7 @@
           "full": "6690.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 96,
           "w": 48,
           "h": 48
@@ -34777,8 +34323,8 @@
           "full": "6691.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 144,
+          "x": 144,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -34823,8 +34369,8 @@
           "full": "6692.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 144,
+          "x": 192,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -34865,8 +34411,8 @@
           "full": "6693.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 144,
+          "x": 240,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -34907,8 +34453,8 @@
           "full": "6694.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 144,
+          "x": 288,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -34949,8 +34495,8 @@
           "full": "6695.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 144,
+          "x": 336,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -34989,8 +34535,8 @@
           "full": "6696.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 144,
+          "x": 384,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -35019,7 +34565,7 @@
       },
       "6697": {
         "name": "狂妄",
-        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention>18</attention>穿甲<br><attention>10</attention>技能急速</stats><br><br><passive>盛名</passive><br>如果一名在过去3秒内曾被你造成过伤害的英雄阵亡，则获得持续90秒的<physicalDamage>12+3x已击杀英雄数的攻击力</physicalDamage>。</mainText>",
+        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention>18</attention>穿甲<br><attention>10</attention>技能急速</stats><br><br><passive>盛名</passive><br>如果一名在过去3秒内曾被你造成过伤害的英雄阵亡，则获得持续90秒的<physicalDamage>0+0x已击杀英雄数的攻击力</physicalDamage>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -35030,8 +34576,8 @@
           "full": "6697.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 144,
+          "x": 432,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -35073,7 +34619,7 @@
           "full": "6698.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 144,
           "w": 48,
           "h": 48
@@ -35117,7 +34663,7 @@
           "full": "6699.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 144,
           "w": 48,
           "h": 48
@@ -35161,7 +34707,7 @@
           "full": "6700.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 144,
           "w": 48,
           "h": 48
@@ -35209,8 +34755,8 @@
           "full": "6701.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 192,
+          "x": 144,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35248,8 +34794,8 @@
           "full": "6702.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 192,
+          "x": 192,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35290,8 +34836,8 @@
           "full": "7050.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 192,
+          "x": 240,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35329,8 +34875,8 @@
           "full": "771001.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 192,
+          "x": 288,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35370,8 +34916,8 @@
           "full": "771004.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 192,
+          "x": 336,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35411,8 +34957,8 @@
           "full": "771006.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 192,
+          "x": 384,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35452,8 +34998,8 @@
           "full": "771011.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 192,
+          "x": 432,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -35491,7 +35037,7 @@
           "full": "771018.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 192,
           "w": 48,
           "h": 48
@@ -35536,7 +35082,7 @@
           "full": "771026.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 192,
           "w": 48,
           "h": 48
@@ -35576,7 +35122,7 @@
           "full": "771027.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 192,
           "w": 48,
           "h": 48
@@ -35626,8 +35172,8 @@
           "full": "771028.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 240,
+          "x": 144,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35670,8 +35216,8 @@
           "full": "771029.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 240,
+          "x": 192,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35713,8 +35259,8 @@
           "full": "771031.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 240,
+          "x": 240,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35757,8 +35303,8 @@
           "full": "771033.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 240,
+          "x": 288,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35804,8 +35350,8 @@
           "full": "771036.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 240,
+          "x": 336,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35848,8 +35394,8 @@
           "full": "771037.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 240,
+          "x": 384,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35887,8 +35433,8 @@
           "full": "771038.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 240,
+          "x": 432,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -35925,7 +35471,7 @@
           "full": "771039.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 240,
           "w": 48,
           "h": 48
@@ -35969,7 +35515,7 @@
           "full": "771042.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 240,
           "w": 48,
           "h": 48
@@ -36011,7 +35557,7 @@
           "full": "771043.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 240,
           "w": 48,
           "h": 48
@@ -36049,8 +35595,8 @@
           "full": "771051.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 288,
+          "x": 144,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36096,8 +35642,8 @@
           "full": "771052.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 288,
+          "x": 192,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36139,8 +35685,8 @@
           "full": "771053.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 288,
+          "x": 240,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36176,8 +35722,8 @@
           "full": "771054.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 288,
+          "x": 288,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36212,8 +35758,8 @@
           "full": "771055.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 288,
+          "x": 336,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36250,8 +35796,8 @@
           "full": "771056.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 288,
+          "x": 384,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36296,8 +35842,8 @@
           "full": "771057.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 288,
+          "x": 432,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -36335,7 +35881,7 @@
           "full": "771058.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 288,
           "w": 48,
           "h": 48
@@ -36379,7 +35925,7 @@
           "full": "771080.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 288,
           "w": 48,
           "h": 48
@@ -36417,7 +35963,7 @@
           "full": "771500.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 288,
           "w": 48,
           "h": 48
@@ -36453,8 +35999,8 @@
           "full": "772001.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 336,
+          "x": 144,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36485,8 +36031,8 @@
           "full": "772003.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 336,
+          "x": 192,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36522,8 +36068,8 @@
           "full": "772004.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 336,
+          "x": 240,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36558,8 +36104,8 @@
           "full": "772009.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 336,
+          "x": 288,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36593,8 +36139,8 @@
           "full": "772037.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 336,
+          "x": 336,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36630,8 +36176,8 @@
           "full": "772038.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 336,
+          "x": 384,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36667,8 +36213,8 @@
           "full": "772039.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 336,
+          "x": 432,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -36701,7 +36247,7 @@
           "full": "772041.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 336,
           "w": 48,
           "h": 48
@@ -36739,7 +36285,7 @@
           "full": "772042.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 336,
           "w": 48,
           "h": 48
@@ -36775,7 +36321,7 @@
           "full": "772043.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 336,
           "w": 48,
           "h": 48
@@ -36814,8 +36360,8 @@
           "full": "772044.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 384,
+          "x": 144,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -36858,8 +36404,8 @@
           "full": "772045.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 384,
+          "x": 192,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -36901,8 +36447,8 @@
           "full": "772049.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 384,
+          "x": 240,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -36942,8 +36488,8 @@
           "full": "772050.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 384,
+          "x": 288,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -36984,8 +36530,8 @@
           "full": "772139.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 384,
+          "x": 336,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -37028,8 +36574,8 @@
           "full": "772140.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 384,
+          "x": 384,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -37075,8 +36621,8 @@
           "full": "773001.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 384,
+          "x": 432,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -37120,7 +36666,7 @@
           "full": "773003.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 384,
           "w": 48,
           "h": 48
@@ -37162,7 +36708,7 @@
           "full": "773004.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 384,
           "w": 48,
           "h": 48
@@ -37194,7 +36740,7 @@
       },
       "773005": {
         "name": "阿塔玛之戟",
-        "description": "<mainText><stats><attention>45</attention>护甲<br><attention>15%</attention>暴击几率</stats><br><br><jadeUnique>冲击：</jadeUnique>获得相当于<physicalDamage>1.5%</physicalDamage><scaleHealth>最大生命值</scaleHealth>的额外<physicalDamage>攻击力</physicalDamage>。</mainText>",
+        "description": "<mainText><stats><attention>45</attention>护甲<br><attention>18%</attention>暴击几率</stats><br><br><jadeUnique>冲击：</jadeUnique>获得相当于<physicalDamage>2%</physicalDamage><scaleHealth>最大生命值</scaleHealth>的额外<physicalDamage>攻击力</physicalDamage>。</mainText>",
         "colloq": "",
         "plaintext": "",
         "from": [
@@ -37205,7 +36751,7 @@
           "full": "773005.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 384,
           "w": 48,
           "h": 48
@@ -37230,7 +36776,7 @@
         },
         "stats": {
           "FlatArmorMod": 45,
-          "FlatCritChanceMod": 0.15
+          "FlatCritChanceMod": 0.18
         },
         "depth": 3
       },
@@ -37247,8 +36793,8 @@
           "full": "773006.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 432,
+          "x": 144,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37286,8 +36832,8 @@
           "full": "773009.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 432,
+          "x": 192,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37327,8 +36873,8 @@
           "full": "773010.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 432,
+          "x": 240,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37367,8 +36913,8 @@
           "full": "773020.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 432,
+          "x": 288,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37406,8 +36952,8 @@
           "full": "773022.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 432,
+          "x": 336,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37449,8 +36995,8 @@
           "full": "773023.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 432,
+          "x": 384,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37497,8 +37043,8 @@
           "full": "773024.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 432,
+          "x": 432,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -37539,7 +37085,7 @@
           "full": "773025.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 432,
           "w": 48,
           "h": 48
@@ -37584,7 +37130,7 @@
           "full": "773026.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 432,
           "w": 48,
           "h": 48
@@ -37631,7 +37177,7 @@
           "full": "773027.png",
           "sprite": "item6.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 432,
           "w": 48,
           "h": 48
@@ -37677,10 +37223,10 @@
         ],
         "image": {
           "full": "773028.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 0,
-          "y": 0,
+          "x": 144,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37718,10 +37264,10 @@
         ],
         "image": {
           "full": "773031.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 48,
-          "y": 0,
+          "x": 192,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37759,10 +37305,10 @@
         ],
         "image": {
           "full": "773035.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 96,
-          "y": 0,
+          "x": 240,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37802,10 +37348,10 @@
         ],
         "image": {
           "full": "773037.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 144,
-          "y": 0,
+          "x": 288,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37838,10 +37384,10 @@
         "inStore": false,
         "image": {
           "full": "773040.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 192,
-          "y": 0,
+          "x": 336,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37874,10 +37420,10 @@
         ],
         "image": {
           "full": "773041.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 240,
-          "y": 0,
+          "x": 384,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37911,10 +37457,10 @@
         "inStore": false,
         "image": {
           "full": "773042.png",
-          "sprite": "item7.png",
+          "sprite": "item6.png",
           "group": "item",
-          "x": 288,
-          "y": 0,
+          "x": 432,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -37955,7 +37501,7 @@
           "full": "773044.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 0,
           "w": 48,
           "h": 48
@@ -37998,7 +37544,7 @@
           "full": "773046.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 0,
           "w": 48,
           "h": 48
@@ -38041,7 +37587,7 @@
           "full": "773047.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 0,
           "w": 48,
           "h": 48
@@ -38081,8 +37627,8 @@
           "full": "773050.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 48,
+          "x": 144,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38129,8 +37675,8 @@
           "full": "773052.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 48,
+          "x": 192,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38170,8 +37716,8 @@
           "full": "773056.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 48,
+          "x": 240,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38219,8 +37765,8 @@
           "full": "773057.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 48,
+          "x": 288,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38260,8 +37806,8 @@
           "full": "773060.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 48,
+          "x": 336,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38305,8 +37851,8 @@
           "full": "773063.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 48,
+          "x": 384,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38349,8 +37895,8 @@
           "full": "773064.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 48,
+          "x": 432,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -38392,7 +37938,7 @@
           "full": "773065.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 48,
           "w": 48,
           "h": 48
@@ -38446,7 +37992,7 @@
           "full": "773067.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 48,
           "w": 48,
           "h": 48
@@ -38486,7 +38032,7 @@
           "full": "773068.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 48,
           "w": 48,
           "h": 48
@@ -38527,8 +38073,8 @@
           "full": "773069.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 96,
+          "x": 144,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38575,8 +38121,8 @@
           "full": "773070.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 96,
+          "x": 192,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38615,8 +38161,8 @@
           "full": "773071.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 96,
+          "x": 240,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38659,8 +38205,8 @@
           "full": "773072.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 96,
+          "x": 288,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38700,8 +38246,8 @@
           "full": "773073.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 96,
+          "x": 336,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38742,8 +38288,8 @@
           "full": "773074.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 96,
+          "x": 384,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38786,8 +38332,8 @@
           "full": "773075.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 96,
+          "x": 432,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -38830,7 +38376,7 @@
           "full": "773077.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 96,
           "w": 48,
           "h": 48
@@ -38873,7 +38419,7 @@
           "full": "773078.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 96,
           "w": 48,
           "h": 48
@@ -38930,7 +38476,7 @@
           "full": "773082.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 96,
           "w": 48,
           "h": 48
@@ -38971,8 +38517,8 @@
           "full": "773083.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 144,
+          "x": 144,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39012,8 +38558,8 @@
           "full": "773084.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 144,
+          "x": 192,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39055,8 +38601,8 @@
           "full": "773085.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 144,
+          "x": 240,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39100,8 +38646,8 @@
           "full": "773086.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 144,
+          "x": 288,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39143,8 +38689,8 @@
           "full": "773087.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 144,
+          "x": 336,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39187,8 +38733,8 @@
           "full": "773089.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 144,
+          "x": 384,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39226,8 +38772,8 @@
           "full": "773091.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 144,
+          "x": 432,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -39268,7 +38814,7 @@
           "full": "773092.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 144,
           "w": 48,
           "h": 48
@@ -39316,7 +38862,7 @@
           "full": "773093.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 144,
           "w": 48,
           "h": 48
@@ -39363,7 +38909,7 @@
           "full": "773096.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 144,
           "w": 48,
           "h": 48
@@ -39411,8 +38957,8 @@
           "full": "773098.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 192,
+          "x": 144,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39450,8 +38996,8 @@
           "full": "773100.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 192,
+          "x": 192,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39497,8 +39043,8 @@
           "full": "773101.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 192,
+          "x": 240,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39537,8 +39083,8 @@
           "full": "773102.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 192,
+          "x": 288,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39591,8 +39137,8 @@
           "full": "773105.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 192,
+          "x": 336,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39639,8 +39185,8 @@
           "full": "773106.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 192,
+          "x": 384,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39680,8 +39226,8 @@
           "full": "773107.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 192,
+          "x": 432,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -39731,7 +39277,7 @@
           "full": "773108.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 192,
           "w": 48,
           "h": 48
@@ -39772,7 +39318,7 @@
           "full": "773109.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 192,
           "w": 48,
           "h": 48
@@ -39816,7 +39362,7 @@
           "full": "773110.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 192,
           "w": 48,
           "h": 48
@@ -39859,8 +39405,8 @@
           "full": "773111.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 240,
+          "x": 144,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -39901,8 +39447,8 @@
           "full": "773114.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 240,
+          "x": 192,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -39944,8 +39490,8 @@
           "full": "773115.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 240,
+          "x": 240,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -39987,8 +39533,8 @@
           "full": "773116.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 240,
+          "x": 288,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -40028,8 +39574,8 @@
           "full": "773117.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 240,
+          "x": 336,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -40075,8 +39621,8 @@
           "full": "773123.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 240,
+          "x": 384,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -40117,8 +39663,8 @@
           "full": "773124.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 240,
+          "x": 432,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -40162,7 +39708,7 @@
           "full": "773128.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 240,
           "w": 48,
           "h": 48
@@ -40202,7 +39748,7 @@
           "full": "773131.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 240,
           "w": 48,
           "h": 48
@@ -40246,7 +39792,7 @@
           "full": "773132.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 240,
           "w": 48,
           "h": 48
@@ -40290,8 +39836,8 @@
           "full": "773134.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 288,
+          "x": 144,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40331,8 +39877,8 @@
           "full": "773135.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 288,
+          "x": 192,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40374,8 +39920,8 @@
           "full": "773136.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 288,
+          "x": 240,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40415,8 +39961,8 @@
           "full": "773138.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 288,
+          "x": 288,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40454,8 +40000,8 @@
           "full": "773139.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 288,
+          "x": 336,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40498,8 +40044,8 @@
           "full": "773140.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 288,
+          "x": 384,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40536,8 +40082,8 @@
           "full": "773141.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 288,
+          "x": 432,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -40575,7 +40121,7 @@
           "full": "773142.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 288,
           "w": 48,
           "h": 48
@@ -40621,7 +40167,7 @@
           "full": "773143.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 288,
           "w": 48,
           "h": 48
@@ -40666,7 +40212,7 @@
           "full": "773144.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 288,
           "w": 48,
           "h": 48
@@ -40713,8 +40259,8 @@
           "full": "773145.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 336,
+          "x": 144,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -40753,8 +40299,8 @@
           "full": "773146.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 336,
+          "x": 192,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -40798,8 +40344,8 @@
           "full": "773151.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 336,
+          "x": 240,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -40840,8 +40386,8 @@
           "full": "773152.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 336,
+          "x": 288,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -40882,8 +40428,8 @@
           "full": "773153.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 336,
+          "x": 336,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -40926,8 +40472,8 @@
           "full": "773154.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 336,
+          "x": 384,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -40976,8 +40522,8 @@
           "full": "773155.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 336,
+          "x": 432,
+          "y": 288,
           "w": 48,
           "h": 48
         },
@@ -41017,7 +40563,7 @@
           "full": "773156.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 336,
           "w": 48,
           "h": 48
@@ -41058,7 +40604,7 @@
           "full": "773157.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 336,
           "w": 48,
           "h": 48
@@ -41098,7 +40644,7 @@
           "full": "773158.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 336,
           "w": 48,
           "h": 48
@@ -41134,8 +40680,8 @@
           "full": "773160.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 384,
+          "x": 144,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41178,8 +40724,8 @@
           "full": "773161.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 384,
+          "x": 192,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41222,8 +40768,8 @@
           "full": "773162.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 384,
+          "x": 240,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41264,8 +40810,8 @@
           "full": "773165.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 384,
+          "x": 288,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41305,8 +40851,8 @@
           "full": "773172.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 384,
+          "x": 336,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41349,8 +40895,8 @@
           "full": "773173.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 384,
+          "x": 384,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41390,8 +40936,8 @@
           "full": "773174.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 384,
+          "x": 432,
+          "y": 336,
           "w": 48,
           "h": 48
         },
@@ -41433,7 +40979,7 @@
           "full": "773178.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 384,
           "w": 48,
           "h": 48
@@ -41475,7 +41021,7 @@
           "full": "773190.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 384,
           "w": 48,
           "h": 48
@@ -41523,7 +41069,7 @@
           "full": "773191.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 384,
           "w": 48,
           "h": 48
@@ -41564,8 +41110,8 @@
           "full": "773206.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 432,
+          "x": 144,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41607,8 +41153,8 @@
           "full": "773207.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 432,
+          "x": 192,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41653,8 +41199,8 @@
           "full": "773209.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 432,
+          "x": 240,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41701,8 +41247,8 @@
           "full": "773211.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 432,
+          "x": 288,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41743,8 +41289,8 @@
           "full": "773222.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 432,
+          "x": 336,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41781,8 +41327,8 @@
           "full": "773340.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 432,
+          "x": 384,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41817,8 +41363,8 @@
           "full": "773348.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 432,
+          "x": 432,
+          "y": 384,
           "w": 48,
           "h": 48
         },
@@ -41859,7 +41405,7 @@
           "full": "773504.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 432,
           "w": 48,
           "h": 48
@@ -41903,7 +41449,7 @@
           "full": "773512.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 432,
           "w": 48,
           "h": 48
@@ -41947,7 +41493,7 @@
           "full": "773513.png",
           "sprite": "item7.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 432,
           "w": 48,
           "h": 48
@@ -41989,10 +41535,10 @@
         ],
         "image": {
           "full": "773514.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 0,
-          "y": 0,
+          "x": 144,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42034,10 +41580,10 @@
         ],
         "image": {
           "full": "773515.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 48,
-          "y": 0,
+          "x": 192,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42076,10 +41622,10 @@
         ],
         "image": {
           "full": "773516.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 96,
-          "y": 0,
+          "x": 240,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42118,10 +41664,10 @@
         "inStore": false,
         "image": {
           "full": "773517.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 144,
-          "y": 0,
+          "x": 288,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42156,10 +41702,10 @@
         "inStore": false,
         "image": {
           "full": "773518.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 192,
-          "y": 0,
+          "x": 336,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42194,10 +41740,10 @@
         "inStore": false,
         "image": {
           "full": "773519.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 240,
-          "y": 0,
+          "x": 384,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42231,10 +41777,10 @@
         "consumed": true,
         "image": {
           "full": "773521.png",
-          "sprite": "item8.png",
+          "sprite": "item7.png",
           "group": "item",
-          "x": 288,
-          "y": 0,
+          "x": 432,
+          "y": 432,
           "w": 48,
           "h": 48
         },
@@ -42273,7 +41819,7 @@
           "full": "8001.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 0,
           "w": 48,
           "h": 48
@@ -42315,7 +41861,7 @@
           "full": "8010.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 0,
           "w": 48,
           "h": 48
@@ -42358,7 +41904,7 @@
           "full": "8020.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 0,
           "w": 48,
           "h": 48
@@ -42398,8 +41944,8 @@
           "full": "9168.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 0,
-          "y": 48,
+          "x": 144,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42428,8 +41974,8 @@
           "full": "9171.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 48,
-          "y": 48,
+          "x": 192,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42458,8 +42004,8 @@
           "full": "9172.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 96,
-          "y": 48,
+          "x": 240,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42488,8 +42034,8 @@
           "full": "9173.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 144,
-          "y": 48,
+          "x": 288,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42518,8 +42064,8 @@
           "full": "9174.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 192,
-          "y": 48,
+          "x": 336,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42548,8 +42094,8 @@
           "full": "9175.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 240,
-          "y": 48,
+          "x": 384,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42578,8 +42124,8 @@
           "full": "9176.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 288,
-          "y": 48,
+          "x": 432,
+          "y": 0,
           "w": 48,
           "h": 48
         },
@@ -42608,7 +42154,7 @@
           "full": "9177.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 48,
           "w": 48,
           "h": 48
@@ -42638,7 +42184,7 @@
           "full": "9178.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 48,
           "w": 48,
           "h": 48
@@ -42668,7 +42214,7 @@
           "full": "9179.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 48,
           "w": 48,
           "h": 48
@@ -42698,8 +42244,8 @@
           "full": "9180.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 0,
-          "y": 96,
+          "x": 144,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42728,8 +42274,8 @@
           "full": "9181.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 48,
-          "y": 96,
+          "x": 192,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42758,8 +42304,8 @@
           "full": "9183.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 96,
-          "y": 96,
+          "x": 240,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42788,8 +42334,8 @@
           "full": "9184.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 144,
-          "y": 96,
+          "x": 288,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42818,8 +42364,8 @@
           "full": "9185.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 192,
-          "y": 96,
+          "x": 336,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42848,8 +42394,8 @@
           "full": "9187.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 240,
-          "y": 96,
+          "x": 384,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42878,8 +42424,8 @@
           "full": "9188.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 288,
-          "y": 96,
+          "x": 432,
+          "y": 48,
           "w": 48,
           "h": 48
         },
@@ -42908,7 +42454,7 @@
           "full": "9189.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 96,
           "w": 48,
           "h": 48
@@ -42938,7 +42484,7 @@
           "full": "9190.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 96,
           "w": 48,
           "h": 48
@@ -42968,7 +42514,7 @@
           "full": "9192.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 96,
           "w": 48,
           "h": 48
@@ -42998,8 +42544,8 @@
           "full": "9193.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 0,
-          "y": 144,
+          "x": 144,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43029,8 +42575,8 @@
           "full": "9271.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 48,
-          "y": 144,
+          "x": 192,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43060,8 +42606,8 @@
           "full": "9272.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 96,
-          "y": 144,
+          "x": 240,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43091,8 +42637,8 @@
           "full": "9273.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 144,
-          "y": 144,
+          "x": 288,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43122,8 +42668,8 @@
           "full": "9274.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 192,
-          "y": 144,
+          "x": 336,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43153,8 +42699,8 @@
           "full": "9275.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 240,
-          "y": 144,
+          "x": 384,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43184,8 +42730,8 @@
           "full": "9276.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 288,
-          "y": 144,
+          "x": 432,
+          "y": 96,
           "w": 48,
           "h": 48
         },
@@ -43215,7 +42761,7 @@
           "full": "9277.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 144,
           "w": 48,
           "h": 48
@@ -43246,7 +42792,7 @@
           "full": "9278.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 144,
           "w": 48,
           "h": 48
@@ -43277,7 +42823,7 @@
           "full": "9279.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 144,
           "w": 48,
           "h": 48
@@ -43308,8 +42854,8 @@
           "full": "9280.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 0,
-          "y": 192,
+          "x": 144,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43339,8 +42885,8 @@
           "full": "9281.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 48,
-          "y": 192,
+          "x": 192,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43370,8 +42916,8 @@
           "full": "9283.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 96,
-          "y": 192,
+          "x": 240,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43401,8 +42947,8 @@
           "full": "9284.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 144,
-          "y": 192,
+          "x": 288,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43432,8 +42978,8 @@
           "full": "9285.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 192,
-          "y": 192,
+          "x": 336,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43463,8 +43009,8 @@
           "full": "9287.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 240,
-          "y": 192,
+          "x": 384,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43494,8 +43040,8 @@
           "full": "9288.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 288,
-          "y": 192,
+          "x": 432,
+          "y": 144,
           "w": 48,
           "h": 48
         },
@@ -43525,7 +43071,7 @@
           "full": "9289.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 192,
           "w": 48,
           "h": 48
@@ -43556,7 +43102,7 @@
           "full": "9290.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 192,
           "w": 48,
           "h": 48
@@ -43587,7 +43133,7 @@
           "full": "9292.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 192,
           "w": 48,
           "h": 48
@@ -43618,8 +43164,8 @@
           "full": "9293.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 0,
-          "y": 240,
+          "x": 144,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43648,8 +43194,8 @@
           "full": "9300.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 48,
-          "y": 240,
+          "x": 192,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43678,8 +43224,8 @@
           "full": "9301.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 96,
-          "y": 240,
+          "x": 240,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43708,8 +43254,8 @@
           "full": "9302.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 144,
-          "y": 240,
+          "x": 288,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43738,8 +43284,8 @@
           "full": "9303.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 192,
-          "y": 240,
+          "x": 336,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43768,8 +43314,8 @@
           "full": "9304.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 240,
-          "y": 240,
+          "x": 384,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43798,8 +43344,8 @@
           "full": "9305.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 288,
-          "y": 240,
+          "x": 432,
+          "y": 192,
           "w": 48,
           "h": 48
         },
@@ -43828,7 +43374,7 @@
           "full": "9306.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 240,
           "w": 48,
           "h": 48
@@ -43858,7 +43404,7 @@
           "full": "9307.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 240,
           "w": 48,
           "h": 48
@@ -43888,7 +43434,7 @@
           "full": "9308.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 240,
           "w": 48,
           "h": 48
@@ -43919,8 +43465,8 @@
           "full": "9400.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 0,
-          "y": 288,
+          "x": 144,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -43950,8 +43496,8 @@
           "full": "9401.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 48,
-          "y": 288,
+          "x": 192,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -43981,8 +43527,8 @@
           "full": "9402.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 96,
-          "y": 288,
+          "x": 240,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -44012,8 +43558,8 @@
           "full": "9403.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 144,
-          "y": 288,
+          "x": 288,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -44043,8 +43589,8 @@
           "full": "9404.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 192,
-          "y": 288,
+          "x": 336,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -44074,8 +43620,8 @@
           "full": "9405.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 240,
-          "y": 288,
+          "x": 384,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -44105,8 +43651,8 @@
           "full": "9406.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 288,
-          "y": 288,
+          "x": 432,
+          "y": 240,
           "w": 48,
           "h": 48
         },
@@ -44136,7 +43682,7 @@
           "full": "9407.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 336,
+          "x": 0,
           "y": 288,
           "w": 48,
           "h": 48
@@ -44167,7 +43713,7 @@
           "full": "9408.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 384,
+          "x": 48,
           "y": 288,
           "w": 48,
           "h": 48
@@ -44197,7 +43743,7 @@
           "full": "994403.png",
           "sprite": "item8.png",
           "group": "item",
-          "x": 432,
+          "x": 96,
           "y": 288,
           "w": 48,
           "h": 48
@@ -45825,5 +45371,5 @@
       }
     ]
   },
-  "updated": "2026-10-20T19:55:42.678112"
+  "updated": "2026-10-21T19:58:51.528238"
 }
